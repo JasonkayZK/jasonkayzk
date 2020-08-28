@@ -18,7 +18,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="https://gist.github.com/JasonkayZK/59ead22758ee823e48b558d3cff332f1" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 
@@ -36,7 +36,7 @@ HTML                0 secs  ███▒░░░░░░░░░░░░░�
 
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://jasonkayzk.github.io/2020/07/11/%E4%BD%BF%E7%94%A8%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F%E7%BB%99%E4%BD%A0%E7%9A%84%E5%BC%82%E6%AD%A5%E5%9B%9E%E8%B0%83%E8%AE%BE%E7%BD%AE%E8%B6%85%E6%97%B6%E9%87%8D%E8%AF%95/' target='_blank'>使用装饰器模式给你的异步回调设置超时重试</a> - 2020-07-11

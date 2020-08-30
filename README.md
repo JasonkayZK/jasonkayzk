@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-YAML        1 hr 2 mins    ██████████▏░░░░░░░░░░  48.4%
-Go          23 mins        ███▊░░░░░░░░░░░░░░░░░  18.4%
-Python      22 mins        ███▋░░░░░░░░░░░░░░░░░  17.3%
-Markdown    14 mins        ██▎░░░░░░░░░░░░░░░░░░  10.9%
-JavaScript  4 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+YAML        1 hr 15 mins   ████████▌░░░░░░░░░░░░  40.5%
+Markdown    46 mins        █████▏░░░░░░░░░░░░░░░  24.8%
+Go          31 mins        ███▌░░░░░░░░░░░░░░░░░  16.9%
+Python      26 mins        ███░░░░░░░░░░░░░░░░░░  14.3%
+JavaScript  4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 
 <!-- code_time ends -->
@@ -47,9 +47,17 @@ JavaScript  4 mins         ▋░░░░░░░░░░░░░░░░�
 
 </td>
 </tr>
+
 </table>
 
+
 [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/jasonkayzk/)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
+</p>
 
 ## My Fans ([999+](https://github.com/jasonkayzk?tab=followers))
 

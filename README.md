@@ -47,9 +47,27 @@ JavaScript  4 mins         ▋░░░░░░░░░░░░░░░░�
 
 </td>
 </tr>
-</table>
+
+<tr>
+<td>
+
+</td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact)](https://github.com/jasonkayzk/)
+
+<td>
 
 [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/jasonkayzk/)
+
+</td>
+</tr>
+
+</table>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
+</p>
 
 ## My Fans ([999+](https://github.com/jasonkayzk?tab=followers))
 

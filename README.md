@@ -49,13 +49,14 @@ JavaScript  4 mins         ▋░░░░░░░░░░░░░░░░�
 </tr>
 
 <tr>
-<td>
 
-</td>
+<td valign="top" width="50%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact)](https://github.com/jasonkayzk/)
 
-<td>
+</td>
+
+<td valign="top" width="50%">
 
 [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/jasonkayzk/)
 

@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          9 hrs 42 mins  ████████████▍░░░░░░░░  59.4%
-Markdown    2 hrs 30 mins  ███▏░░░░░░░░░░░░░░░░░  15.3%
-YAML        2 hrs 19 mins  ██▉░░░░░░░░░░░░░░░░░░  14.2%
-Python      26 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-Protocol Buffer 26 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Go          11 hrs 47 mins █████████████▎░░░░░░░  63.5%
+Markdown    2 hrs 31 mins  ██▊░░░░░░░░░░░░░░░░░░  13.6%
+YAML        2 hrs 22 mins  ██▋░░░░░░░░░░░░░░░░░░  12.8%
+Protocol Buffer 28 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Python      26 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 
 <!-- code_time ends -->

@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          2 hrs 45 mins  ██████▎░░░░░░░░░░░░░░  30.2%
-Markdown    2 hrs 5 mins   ████▊░░░░░░░░░░░░░░░░  22.9%
-Python      1 hr 51 mins   ████▎░░░░░░░░░░░░░░░░  20.4%
-Other       50 mins        █▉░░░░░░░░░░░░░░░░░░░   9.2%
-YAML        35 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Markdown    2 hrs 15 mins  █████▉░░░░░░░░░░░░░░░  28.1%
+Python      1 hr 51 mins   ████▊░░░░░░░░░░░░░░░░  23.1%
+Go          1 hr 8 mins    ██▉░░░░░░░░░░░░░░░░░░  14.1%
+Other       38 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
+YAML        35 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
 ```
 
 <!-- code_time ends -->
@@ -38,11 +38,11 @@ YAML        35 mins        █▎░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/09/18/%E4%B8%80%E4%B8%AA%E7%94%A8%E8%92%99%E7%89%B9%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95%E8%87%AA%E5%8A%A8%E7%8E%A92048%E7%9A%84%E4%BB%93%E5%BA%93/' target='_blank'>一个用蒙特卡罗方法自动玩2048的仓库</a> - 2020-09-18
+* <a href='https://jasonkayzk.github.io/2020/09/18/%E5%9C%A8Github%E5%85%8D%E8%B4%B9%E9%A2%86%E5%8F%96%E4%BD%A0%E7%9A%84Mac%E5%92%8CLinux%E7%BB%88%E7%AB%AF%E5%90%A7/' target='_blank'>在Github免费领取你的Mac和Linux终端吧~</a> - 2020-09-18
+* <a href='https://jasonkayzk.github.io/2020/09/18/%E5%9C%A8Gitee%E6%90%AD%E5%BB%BAGithub-Pages/' target='_blank'>在Gitee搭建Github Pages</a> - 2020-09-18
+* <a href='https://jasonkayzk.github.io/2020/09/12/%E3%80%90%E9%A1%B6%E3%80%91%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E8%A6%8B%E7%9F%A5%E3%82%89%E3%81%AC%E6%97%85%E4%BA%BA/' target='_blank'>【顶】ようこそ、見知らぬ旅人</a> - 2020-09-12
 * <a href='https://jasonkayzk.github.io/2020/09/02/win10%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BF%9E%E6%8E%A5/' target='_blank'>win10内网穿透实现远程桌面连接</a> - 2020-09-02
-* <a href='https://jasonkayzk.github.io/2020/08/31/%E4%BD%BF%E7%94%A8Golang%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%85%A8%E6%96%87%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E/' target='_blank'>使用Golang建立一个简单的全文搜索引擎</a> - 2020-08-31
-* <a href='https://jasonkayzk.github.io/2020/08/28/Github%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%E9%A1%B5%E7%BE%8E%E5%8C%96/' target='_blank'>Github个人介绍页美化</a> - 2020-08-28
-* <a href='https://jasonkayzk.github.io/2020/08/28/%E4%BD%BF%E7%94%A8Wakatime%E8%AE%B0%E5%BD%95%E4%BD%A0%E7%9A%84Coding%E6%95%B0%E6%8D%AE/' target='_blank'>使用Wakatime记录你的Coding数据</a> - 2020-08-28
-* <a href='https://jasonkayzk.github.io/2020/08/28/Github-Actions%E6%80%BB%E7%BB%93/' target='_blank'>Github Actions总结</a> - 2020-08-28
 <!-- blog ends -->
 
 </td>

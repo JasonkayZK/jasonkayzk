@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          7 hrs 17 mins  ████████▊░░░░░░░░░░░░  41.9%
-Java        5 hrs 55 mins  ███████▏░░░░░░░░░░░░░  34.0%
-Python      1 hr 5 mins    █▎░░░░░░░░░░░░░░░░░░░   6.3%
-Markdown    1 hr 3 mins    █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Other       30 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Go          8 hrs 35 mins  █████████▏░░░░░░░░░░░  43.9%
+Java        6 hrs 39 mins  ███████▏░░░░░░░░░░░░░  34.0%
+Markdown    2 hrs 8 mins   ██▎░░░░░░░░░░░░░░░░░░  10.9%
+EJS         23 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+C++         19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time ends -->
@@ -38,11 +38,11 @@ Other       30 mins        ▌░░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/09/23/%E4%BD%BF%E7%94%A8gowatch%E7%83%AD%E9%83%A8%E7%BD%B2%E6%8F%90%E5%8D%87%E4%BD%A0%E7%9A%84%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87/' target='_blank'>使用gowatch热部署提升你的开发效率</a> - 2020-09-23
+* <a href='https://jasonkayzk.github.io/2020/09/23/%E5%88%9D%E6%8E%A2Go-WebAssembly/' target='_blank'>初探Go-WebAssembly</a> - 2020-09-23
+* <a href='https://jasonkayzk.github.io/2020/09/23/Golang%E4%B8%AD%E7%9A%84context/' target='_blank'>Golang中的context</a> - 2020-09-23
+* <a href='https://jasonkayzk.github.io/2020/09/23/%E5%9C%A8Golang%E4%B8%AD%E4%BD%BF%E7%94%A8nil%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95/' target='_blank'>在Golang中使用nil调用方法</a> - 2020-09-23
 * <a href='https://jasonkayzk.github.io/2020/09/18/%E4%B8%80%E4%B8%AA%E7%94%A8%E8%92%99%E7%89%B9%E5%8D%A1%E7%BD%97%E6%96%B9%E6%B3%95%E8%87%AA%E5%8A%A8%E7%8E%A92048%E7%9A%84%E4%BB%93%E5%BA%93/' target='_blank'>一个用蒙特卡罗方法自动玩2048的仓库</a> - 2020-09-18
-* <a href='https://jasonkayzk.github.io/2020/09/18/%E5%9C%A8Github%E5%85%8D%E8%B4%B9%E9%A2%86%E5%8F%96%E4%BD%A0%E7%9A%84Mac%E5%92%8CLinux%E7%BB%88%E7%AB%AF%E5%90%A7/' target='_blank'>在Github免费领取你的Mac和Linux终端吧~</a> - 2020-09-18
-* <a href='https://jasonkayzk.github.io/2020/09/18/%E5%9C%A8Gitee%E6%90%AD%E5%BB%BAGithub-Pages/' target='_blank'>在Gitee搭建Github Pages</a> - 2020-09-18
-* <a href='https://jasonkayzk.github.io/2020/09/12/%E3%80%90%E9%A1%B6%E3%80%91%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E8%A6%8B%E7%9F%A5%E3%82%89%E3%81%AC%E6%97%85%E4%BA%BA/' target='_blank'>【顶】ようこそ、見知らぬ旅人</a> - 2020-09-12
-* <a href='https://jasonkayzk.github.io/2020/09/02/win10%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E8%BF%9E%E6%8E%A5/' target='_blank'>win10内网穿透实现远程桌面连接</a> - 2020-09-02
 <!-- blog ends -->
 
 </td>

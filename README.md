@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          20 hrs 3 mins  █████████████░░░░░░░░  62.5%
-Java        4 hrs 43 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
-Markdown    3 hrs 50 mins  ██▌░░░░░░░░░░░░░░░░░░  12.0%
-EJS         1 hr 13 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-YAML        32 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Go          15 hrs 52 mins ██████████▏░░░░░░░░░░  48.7%
+Java        5 hrs 59 mins  ███▊░░░░░░░░░░░░░░░░░  18.4%
+EJS         4 hrs 2 mins   ██▌░░░░░░░░░░░░░░░░░░  12.4%
+Markdown    3 hrs 57 mins  ██▌░░░░░░░░░░░░░░░░░░  12.2%
+JavaScript  46 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 
 <!-- code_time ends -->
@@ -38,11 +38,11 @@ YAML        32 mins        ▎░░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/09/28/Go%E5%AE%9E%E7%8E%B0HTTP%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B8%8B%E8%BD%BD/' target='_blank'>Go实现HTTP断点续传多线程下载</a> - 2020-09-28
+* <a href='https://jasonkayzk.github.io/2020/09/28/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%AB%99%E5%86%85%E9%80%9A%E7%9F%A5%E7%9A%84%E4%B8%80%E7%82%B9%E6%80%9D%E7%B4%A2/' target='_blank'>关于博客站内通知的一点思索</a> - 2020-09-28
 * <a href='https://jasonkayzk.github.io/2020/09/25/%E3%80%90%E8%AF%91%E3%80%91BT%E4%B8%8B%E8%BD%BD%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/' target='_blank'>【译】BT下载的工作原理</a> - 2020-09-25
 * <a href='https://jasonkayzk.github.io/2020/09/25/Golang%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8D%8F%E7%A8%8B%E6%B1%A0/' target='_blank'>Golang实现自定义协程池</a> - 2020-09-25
 * <a href='https://jasonkayzk.github.io/2020/09/23/%E4%BD%BF%E7%94%A8gowatch%E7%83%AD%E9%83%A8%E7%BD%B2%E6%8F%90%E5%8D%87%E4%BD%A0%E7%9A%84%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87/' target='_blank'>使用gowatch热部署提升你的开发效率</a> - 2020-09-23
-* <a href='https://jasonkayzk.github.io/2020/09/23/%E5%88%9D%E6%8E%A2Go-WebAssembly/' target='_blank'>初探Go-WebAssembly</a> - 2020-09-23
-* <a href='https://jasonkayzk.github.io/2020/09/23/Golang%E4%B8%AD%E7%9A%84context/' target='_blank'>Golang中的context</a> - 2020-09-23
 <!-- blog ends -->
 
 </td>

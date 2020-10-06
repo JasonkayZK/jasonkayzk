@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          8 hrs 30 mins  █████████▎░░░░░░░░░░░  44.1%
-EJS         4 hrs 39 mins  █████░░░░░░░░░░░░░░░░  24.1%
-JavaScript  1 hr 32 mins   █▋░░░░░░░░░░░░░░░░░░░   8.0%
-Java        1 hr 26 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
-Markdown    1 hr 5 mins    █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Go          8 hrs 44 mins  ████████████▋░░░░░░░░  60.3%
+EJS         1 hr 51 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
+JavaScript  1 hr 13 mins   █▊░░░░░░░░░░░░░░░░░░░   8.4%
+Markdown    1 hr           █▍░░░░░░░░░░░░░░░░░░░   6.9%
+Python      37 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
 ```
 
 <!-- code_time ends -->

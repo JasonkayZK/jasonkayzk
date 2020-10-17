@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          4 hrs 52 mins  ██████▊░░░░░░░░░░░░░░  32.7%
-CMake       3 hrs 16 mins  ████▋░░░░░░░░░░░░░░░░  22.0%
-JavaScript  2 hrs 8 mins   ███░░░░░░░░░░░░░░░░░░  14.4%
-Markdown    1 hr 33 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
-C++         1 hr 10 mins   █▋░░░░░░░░░░░░░░░░░░░   7.9%
+Go          4 hrs 52 mins  █████████▋░░░░░░░░░░░  46.1%
+JavaScript  2 hrs 47 mins  █████▌░░░░░░░░░░░░░░░  26.5%
+Markdown    1 hr 21 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
+JSON        39 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
+Other       30 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
 ```
 
 <!-- code_time ends -->

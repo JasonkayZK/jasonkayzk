@@ -23,10 +23,10 @@
 <!-- code_time starts -->
 
 ```text
-Go          5 hrs 18 mins  ██████████▊░░░░░░░░░░  51.4%
-JavaScript  2 hrs 47 mins  █████▋░░░░░░░░░░░░░░░  27.1%
-Markdown    1 hr 2 mins    ██▏░░░░░░░░░░░░░░░░░░  10.1%
-JSON        39 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Go          5 hrs 30 mins  ██████████▉░░░░░░░░░░  52.3%
+JavaScript  2 hrs 47 mins  █████▌░░░░░░░░░░░░░░░  26.6%
+Markdown    1 hr 2 mins    ██░░░░░░░░░░░░░░░░░░░   9.9%
+JSON        39 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
 Cheetah     8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 

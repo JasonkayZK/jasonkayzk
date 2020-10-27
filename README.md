@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-C++         3 hrs 28 mins  █████▌░░░░░░░░░░░░░░░  26.4%
-JavaScript  1 hr 59 mins   ███▏░░░░░░░░░░░░░░░░░  15.2%
-HTML        1 hr 44 mins   ██▊░░░░░░░░░░░░░░░░░░  13.2%
-EJS         1 hr 29 mins   ██▍░░░░░░░░░░░░░░░░░░  11.3%
-Markdown    1 hr 8 mins    █▊░░░░░░░░░░░░░░░░░░░   8.7%
+C++         3 hrs 28 mins  █████▍░░░░░░░░░░░░░░░  26.0%
+JavaScript  2 hrs 3 mins   ███▏░░░░░░░░░░░░░░░░░  15.4%
+HTML        1 hr 44 mins   ██▋░░░░░░░░░░░░░░░░░░  13.1%
+EJS         1 hr 29 mins   ██▎░░░░░░░░░░░░░░░░░░  11.1%
+Markdown    1 hr 9 mins    █▊░░░░░░░░░░░░░░░░░░░   8.6%
 ```
 
 <!-- code_time ends -->
@@ -38,11 +38,11 @@ Markdown    1 hr 8 mins    █▊░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/10/23/Chrome%E6%89%A9%E5%B1%95%E5%85%A5%E9%97%A8/' target='_blank'>Chrome扩展入门</a> - 2020-10-23
 * <a href='https://jasonkayzk.github.io/2020/10/23/%E4%BD%BF%E7%94%A8Github-Actions%E5%90%8C%E6%AD%A5github%E5%92%8Cgitee%E4%BB%93%E5%BA%93/' target='_blank'>使用Github-Actions同步github和gitee仓库</a> - 2020-10-23
 * <a href='https://jasonkayzk.github.io/2020/10/04/%E3%80%90%E8%BD%AC%E3%80%91Golang%E4%B8%ADSlice%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0/' target='_blank'>【转】Golang中Slice底层实现</a> - 2020-10-04
 * <a href='https://jasonkayzk.github.io/2020/10/01/%E3%80%90%E8%BD%AC%E3%80%91ShadowsocksR%E9%83%A8%E7%BD%B2/' target='_blank'>【转】ShadowsocksR部署</a> - 2020-10-01
 * <a href='https://jasonkayzk.github.io/2020/09/30/%E4%BD%BF%E7%94%A8Go%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%B9%B6%E5%8F%91%E4%B8%8B%E8%BD%BD%E5%99%A8/' target='_blank'>使用Go实现一个进度条并发下载器</a> - 2020-09-30
-* <a href='https://jasonkayzk.github.io/2020/09/29/Golang%E4%B8%AD%E7%9A%84%E8%BF%9B%E5%BA%A6%E6%9D%A1%E4%BD%BF%E7%94%A8/' target='_blank'>Golang中的进度条使用</a> - 2020-09-29
 <!-- blog ends -->
 
 </td>

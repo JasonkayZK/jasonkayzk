@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript  4 hrs 9 mins   ████▋░░░░░░░░░░░░░░░░  22.2%
-HTML        2 hrs 55 mins  ███▎░░░░░░░░░░░░░░░░░  15.6%
-C++         2 hrs 45 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
-Go          2 hrs 22 mins  ██▋░░░░░░░░░░░░░░░░░░  12.7%
-EJS         2 hrs 10 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
+Java        3 hrs 3 mins   █████▍░░░░░░░░░░░░░░░  25.7%
+Go          2 hrs 40 mins  ████▋░░░░░░░░░░░░░░░░  22.4%
+JavaScript  2 hrs 11 mins  ███▊░░░░░░░░░░░░░░░░░  18.4%
+JSON        1 hr 12 mins   ██▏░░░░░░░░░░░░░░░░░░  10.2%
+HTML        1 hr 8 mins    ██░░░░░░░░░░░░░░░░░░░   9.7%
 ```
 
 <!-- code_time ends -->
@@ -38,11 +38,11 @@ EJS         2 hrs 10 mins  ██▍░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/11/04/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8Electron%E5%BC%80%E5%8F%91%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%85%8D%E7%99%BB%E5%BD%95%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%99%A8/' target='_blank'>手把手教你使用Electron开发新浪微博免登录图片下载器</a> - 2020-11-04
 * <a href='https://jasonkayzk.github.io/2020/10/28/%E4%BD%BF%E7%94%A8golang%E6%9E%84%E5%BB%BA%E7%AE%80%E5%8D%95%E7%9A%84websocket%E5%BA%94%E7%94%A8/' target='_blank'>使用golang构建简单的websocket应用</a> - 2020-10-28
 * <a href='https://jasonkayzk.github.io/2020/10/26/%E4%BD%BF%E7%94%A8mongodb%E5%92%8Cserverless%E7%BB%99%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%82%B9%E8%B5%9E%E5%90%A7/' target='_blank'>使用mongodb和serverless给你的博客添加点赞吧</a> - 2020-10-26
 * <a href='https://jasonkayzk.github.io/2020/10/23/Chrome%E6%89%A9%E5%B1%95%E5%85%A5%E9%97%A8/' target='_blank'>Chrome扩展入门</a> - 2020-10-23
 * <a href='https://jasonkayzk.github.io/2020/10/23/%E4%BD%BF%E7%94%A8Github-Actions%E5%90%8C%E6%AD%A5github%E5%92%8Cgitee%E4%BB%93%E5%BA%93/' target='_blank'>使用Github-Actions同步github和gitee仓库</a> - 2020-10-23
-* <a href='https://jasonkayzk.github.io/2020/10/04/%E3%80%90%E8%BD%AC%E3%80%91Golang%E4%B8%ADSlice%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0/' target='_blank'>【转】Golang中Slice底层实现</a> - 2020-10-04
 <!-- blog ends -->
 
 </td>

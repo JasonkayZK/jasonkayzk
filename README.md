@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript  3 hrs 13 mins  ██████▌░░░░░░░░░░░░░░  31.4%
-Go          1 hr 38 mins   ███▎░░░░░░░░░░░░░░░░░  16.0%
-Java        1 hr 34 mins   ███▏░░░░░░░░░░░░░░░░░  15.4%
-JSON        1 hr 31 mins   ███▏░░░░░░░░░░░░░░░░░  14.9%
-Vue.js      1 hr 25 mins   ██▉░░░░░░░░░░░░░░░░░░  13.9%
+JavaScript  3 hrs 13 mins  ██████▊░░░░░░░░░░░░░░  32.2%
+Go          1 hr 38 mins   ███▍░░░░░░░░░░░░░░░░░  16.4%
+JSON        1 hr 31 mins   ███▏░░░░░░░░░░░░░░░░░  15.3%
+Vue.js      1 hr 25 mins   ██▉░░░░░░░░░░░░░░░░░░  14.3%
+Java        1 hr 18 mins   ██▊░░░░░░░░░░░░░░░░░░  13.1%
 ```
 
 <!-- code_time ends -->
@@ -38,11 +38,11 @@ Vue.js      1 hr 25 mins   ██▉░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/11/08/%E5%9C%A8Win10%E4%B8%8B%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91Electron%E9%A1%B9%E7%9B%AE/' target='_blank'>在Win10下交叉编译Electron项目</a> - 2020-11-08
 * <a href='https://jasonkayzk.github.io/2020/11/04/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8Electron%E5%BC%80%E5%8F%91%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%85%8D%E7%99%BB%E5%BD%95%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%99%A8/' target='_blank'>手把手教你使用Electron开发新浪微博免登录图片下载器</a> - 2020-11-04
 * <a href='https://jasonkayzk.github.io/2020/10/28/%E4%BD%BF%E7%94%A8golang%E6%9E%84%E5%BB%BA%E7%AE%80%E5%8D%95%E7%9A%84websocket%E5%BA%94%E7%94%A8/' target='_blank'>使用golang构建简单的websocket应用</a> - 2020-10-28
 * <a href='https://jasonkayzk.github.io/2020/10/26/%E4%BD%BF%E7%94%A8mongodb%E5%92%8Cserverless%E7%BB%99%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%82%B9%E8%B5%9E%E5%90%A7/' target='_blank'>使用mongodb和serverless给你的博客添加点赞吧</a> - 2020-10-26
 * <a href='https://jasonkayzk.github.io/2020/10/23/Chrome%E6%89%A9%E5%B1%95%E5%85%A5%E9%97%A8/' target='_blank'>Chrome扩展入门</a> - 2020-10-23
-* <a href='https://jasonkayzk.github.io/2020/10/23/%E4%BD%BF%E7%94%A8Github-Actions%E5%90%8C%E6%AD%A5github%E5%92%8Cgitee%E4%BB%93%E5%BA%93/' target='_blank'>使用Github-Actions同步github和gitee仓库</a> - 2020-10-23
 <!-- blog ends -->
 
 </td>

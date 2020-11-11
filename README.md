@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript  3 hrs 29 mins  ██████▊░░░░░░░░░░░░░░  32.7%
-JSON        2 hrs 26 mins  ████▊░░░░░░░░░░░░░░░░  22.9%
-Vue.js      1 hr 40 mins   ███▎░░░░░░░░░░░░░░░░░  15.7%
-Go          1 hr 38 mins   ███▏░░░░░░░░░░░░░░░░░  15.4%
-Java        43 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
+JavaScript  3 hrs 29 mins  ██████▍░░░░░░░░░░░░░░  30.6%
+Go          2 hrs 53 mins  █████▎░░░░░░░░░░░░░░░  25.4%
+JSON        2 hrs 26 mins  ████▌░░░░░░░░░░░░░░░░  21.5%
+Vue.js      1 hr 40 mins   ███░░░░░░░░░░░░░░░░░░  14.8%
+Markdown    36 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
 ```
 
 <!-- code_time ends -->
@@ -38,11 +38,11 @@ Java        43 mins        █▍░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/11/10/%E8%A7%A3%E5%86%B3okular%E6%97%A0%E6%B3%95%E6%B7%BB%E5%8A%A0%E6%B3%A8%E9%87%8A%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决okular无法添加注释的问题</a> - 2020-11-10
 * <a href='https://jasonkayzk.github.io/2020/11/08/%E5%9C%A8Win10%E4%B8%8B%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91Electron%E9%A1%B9%E7%9B%AE/' target='_blank'>在Win10下交叉编译Electron项目</a> - 2020-11-08
 * <a href='https://jasonkayzk.github.io/2020/11/04/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8Electron%E5%BC%80%E5%8F%91%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%85%8D%E7%99%BB%E5%BD%95%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%99%A8/' target='_blank'>手把手教你使用Electron开发新浪微博免登录图片下载器</a> - 2020-11-04
 * <a href='https://jasonkayzk.github.io/2020/10/28/%E4%BD%BF%E7%94%A8golang%E6%9E%84%E5%BB%BA%E7%AE%80%E5%8D%95%E7%9A%84websocket%E5%BA%94%E7%94%A8/' target='_blank'>使用golang构建简单的websocket应用</a> - 2020-10-28
 * <a href='https://jasonkayzk.github.io/2020/10/26/%E4%BD%BF%E7%94%A8mongodb%E5%92%8Cserverless%E7%BB%99%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%82%B9%E8%B5%9E%E5%90%A7/' target='_blank'>使用mongodb和serverless给你的博客添加点赞吧</a> - 2020-10-26
-* <a href='https://jasonkayzk.github.io/2020/10/23/Chrome%E6%89%A9%E5%B1%95%E5%85%A5%E9%97%A8/' target='_blank'>Chrome扩展入门</a> - 2020-10-23
 <!-- blog ends -->
 
 </td>

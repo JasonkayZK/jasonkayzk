@@ -23,11 +23,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          3 hrs 39 mins  ███████████▊░░░░░░░░░  56.4%
-JSON        56 mins        ███░░░░░░░░░░░░░░░░░░  14.4%
-Markdown    43 mins        ██▎░░░░░░░░░░░░░░░░░░  11.2%
-JavaScript  15 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-Vue.js      15 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Go          3 hrs 52 mins  █████████▍░░░░░░░░░░░  45.0%
+C++         1 hr 37 mins   ███▉░░░░░░░░░░░░░░░░░  18.9%
+JSON        1 hr           ██▍░░░░░░░░░░░░░░░░░░  11.8%
+Markdown    52 mins        ██░░░░░░░░░░░░░░░░░░░  10.1%
+JavaScript  15 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 
 <!-- code_time ends -->
@@ -38,11 +38,11 @@ Vue.js      15 mins        ▊░░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/11/13/%E4%B8%A4%E8%A1%8CNginx%E4%BB%A3%E7%A0%81%E8%8E%B7%E5%8F%96%E5%85%AC%E7%BD%91IP/' target='_blank'>两行Nginx代码获取访问者的公网IP</a> - 2020-11-13
 * <a href='https://jasonkayzk.github.io/2020/11/10/%E8%A7%A3%E5%86%B3okular%E6%97%A0%E6%B3%95%E6%B7%BB%E5%8A%A0%E6%B3%A8%E9%87%8A%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决okular无法添加注释的问题</a> - 2020-11-10
 * <a href='https://jasonkayzk.github.io/2020/11/08/%E5%9C%A8Win10%E4%B8%8B%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91Electron%E9%A1%B9%E7%9B%AE/' target='_blank'>在Win10下交叉编译Electron项目</a> - 2020-11-08
 * <a href='https://jasonkayzk.github.io/2020/11/04/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8Electron%E5%BC%80%E5%8F%91%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%85%8D%E7%99%BB%E5%BD%95%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%99%A8/' target='_blank'>手把手教你使用Electron开发新浪微博免登录图片下载器</a> - 2020-11-04
 * <a href='https://jasonkayzk.github.io/2020/10/28/%E4%BD%BF%E7%94%A8golang%E6%9E%84%E5%BB%BA%E7%AE%80%E5%8D%95%E7%9A%84websocket%E5%BA%94%E7%94%A8/' target='_blank'>使用golang构建简单的websocket应用</a> - 2020-10-28
-* <a href='https://jasonkayzk.github.io/2020/10/26/%E4%BD%BF%E7%94%A8mongodb%E5%92%8Cserverless%E7%BB%99%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E7%82%B9%E8%B5%9E%E5%90%A7/' target='_blank'>使用mongodb和serverless给你的博客添加点赞吧</a> - 2020-10-26
 <!-- blog ends -->
 
 </td>

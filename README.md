@@ -67,11 +67,11 @@ CMake       24 mins        ▋░░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/11/22/%E5%9C%A8python%E4%B8%AD%E4%BD%BF%E7%94%A8ssh%E9%9A%A7%E9%81%93%E8%BF%9E%E6%8E%A5mysql/' target='_blank'>在python中使用ssh隧道连接mysql</a> - 2020-11-22
 * <a href='https://jasonkayzk.github.io/2020/11/20/%E4%BD%BF%E7%94%A8jsDelivr%E5%8A%A0%E9%80%9Fgithub%E8%B5%84%E6%BA%90/' target='_blank'>使用jsDelivr加速github资源</a> - 2020-11-20
 * <a href='https://jasonkayzk.github.io/2020/11/15/%E5%9C%A8Clion%E4%B8%AD%E6%89%A7%E8%A1%8C%E5%8D%95%E4%B8%AACpp%E6%96%87%E4%BB%B6/' target='_blank'>在Clion中执行单个Cpp文件</a> - 2020-11-15
 * <a href='https://jasonkayzk.github.io/2020/11/13/%E4%B8%A4%E8%A1%8CNginx%E4%BB%A3%E7%A0%81%E8%8E%B7%E5%8F%96%E5%85%AC%E7%BD%91IP/' target='_blank'>两行Nginx代码获取访问者的公网IP</a> - 2020-11-13
 * <a href='https://jasonkayzk.github.io/2020/11/10/%E8%A7%A3%E5%86%B3okular%E6%97%A0%E6%B3%95%E6%B7%BB%E5%8A%A0%E6%B3%A8%E9%87%8A%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决okular无法添加注释的问题</a> - 2020-11-10
-* <a href='https://jasonkayzk.github.io/2020/11/08/%E5%9C%A8Win10%E4%B8%8B%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91Electron%E9%A1%B9%E7%9B%AE/' target='_blank'>在Win10下交叉编译Electron项目</a> - 2020-11-08
 <!-- blog ends -->
 
 </td>

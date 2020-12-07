@@ -61,11 +61,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          7 hrs 24 mins  ████████████░░░░░░░░░  57.2%
-YAML        1 hr 3 mins    █▋░░░░░░░░░░░░░░░░░░░   8.1%
-Cheetah     45 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Python      40 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
-Java        39 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+Go          7 hrs 56 mins  ███████████▉░░░░░░░░░  56.9%
+Cheetah     1 hr 16 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
+YAML        56 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Python      40 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+Java        39 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
 ```
 
 <!-- code_time ends -->
@@ -76,11 +76,11 @@ Java        39 mins        █░░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2020/12/05/%E3%80%90%E8%BD%AC%E3%80%91%E5%9C%A8AMD%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8A%E9%80%9A%E8%BF%87VMWare15%E5%AE%89%E8%A3%85MacOS/' target='_blank'>【转】在AMD处理器上通过VMWare15安装MacOS</a> - 2020-12-05
+* <a href='https://jasonkayzk.github.io/2020/12/05/VMWare%E5%AE%89%E8%A3%85Ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA/' target='_blank'>VMWare安装Ubuntu虚拟机</a> - 2020-12-05
+* <a href='https://jasonkayzk.github.io/2020/12/05/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E8%A1%97%E6%99%AF%E7%BD%91%E7%AB%99/' target='_blank'>分享两个在线看街景网站</a> - 2020-12-05
 * <a href='https://jasonkayzk.github.io/2020/11/22/%E5%9C%A8python%E4%B8%AD%E4%BD%BF%E7%94%A8ssh%E9%9A%A7%E9%81%93%E8%BF%9E%E6%8E%A5mysql/' target='_blank'>在python中使用ssh隧道连接mysql</a> - 2020-11-22
 * <a href='https://jasonkayzk.github.io/2020/11/20/%E4%BD%BF%E7%94%A8jsDelivr%E5%8A%A0%E9%80%9Fgithub%E8%B5%84%E6%BA%90/' target='_blank'>使用jsDelivr加速github资源</a> - 2020-11-20
-* <a href='https://jasonkayzk.github.io/2020/11/15/%E5%9C%A8Clion%E4%B8%AD%E6%89%A7%E8%A1%8C%E5%8D%95%E4%B8%AACpp%E6%96%87%E4%BB%B6/' target='_blank'>在Clion中执行单个Cpp文件</a> - 2020-11-15
-* <a href='https://jasonkayzk.github.io/2020/11/13/%E4%B8%A4%E8%A1%8CNginx%E4%BB%A3%E7%A0%81%E8%8E%B7%E5%8F%96%E5%85%AC%E7%BD%91IP/' target='_blank'>两行Nginx代码获取访问者的公网IP</a> - 2020-11-13
-* <a href='https://jasonkayzk.github.io/2020/11/10/%E8%A7%A3%E5%86%B3okular%E6%97%A0%E6%B3%95%E6%B7%BB%E5%8A%A0%E6%B3%A8%E9%87%8A%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决okular无法添加注释的问题</a> - 2020-11-10
 <!-- blog ends -->
 
 </td>

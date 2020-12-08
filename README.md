@@ -61,11 +61,11 @@
 <!-- code_time starts -->
 
 ```text
-Go          7 hrs 56 mins  ███████████▉░░░░░░░░░  56.9%
-Cheetah     1 hr 16 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
-YAML        56 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
-Python      40 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
-Java        39 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Go          7 hrs 8 mins   ████████████▎░░░░░░░░  58.6%
+Cheetah     1 hr 15 mins   ██▏░░░░░░░░░░░░░░░░░░  10.3%
+YAML        50 mins        █▍░░░░░░░░░░░░░░░░░░░   6.9%
+Java        39 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
+Markdown    28 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
 <!-- code_time ends -->
@@ -76,11 +76,11 @@ Java        39 mins        ▉░░░░░░░░░░░░░░░░�
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://jasonkayzk.github.io/2020/12/05/%E3%80%90%E8%BD%AC%E3%80%91%E5%9C%A8AMD%E5%A4%84%E7%90%86%E5%99%A8%E4%B8%8A%E9%80%9A%E8%BF%87VMWare15%E5%AE%89%E8%A3%85MacOS/' target='_blank'>【转】在AMD处理器上通过VMWare15安装MacOS</a> - 2020-12-05
-* <a href='https://jasonkayzk.github.io/2020/12/05/VMWare%E5%AE%89%E8%A3%85Ubuntu%E8%99%9A%E6%8B%9F%E6%9C%BA/' target='_blank'>VMWare安装Ubuntu虚拟机</a> - 2020-12-05
-* <a href='https://jasonkayzk.github.io/2020/12/05/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E5%9C%A8%E7%BA%BF%E7%9C%8B%E8%A1%97%E6%99%AF%E7%BD%91%E7%AB%99/' target='_blank'>分享两个在线看街景网站</a> - 2020-12-05
-* <a href='https://jasonkayzk.github.io/2020/11/22/%E5%9C%A8python%E4%B8%AD%E4%BD%BF%E7%94%A8ssh%E9%9A%A7%E9%81%93%E8%BF%9E%E6%8E%A5mysql/' target='_blank'>在python中使用ssh隧道连接mysql</a> - 2020-11-22
-* <a href='https://jasonkayzk.github.io/2020/11/20/%E4%BD%BF%E7%94%A8jsDelivr%E5%8A%A0%E9%80%9Fgithub%E8%B5%84%E6%BA%90/' target='_blank'>使用jsDelivr加速github资源</a> - 2020-11-20
+* <a href='https://jasonkayzk.github.io/2020/12/07/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%BA%8C%E7%BB%B4%E7%A0%81/' target='_blank'>手把手教你创建一个二维码</a> - 2020-12-07
+* <a href='https://jasonkayzk.github.io/2020/12/07/%E8%B0%83%E6%95%99Chrome%E4%B8%AD%E7%9A%84%E5%B0%8F%E6%81%90%E9%BE%99%E6%B8%B8%E6%88%8F/' target='_blank'>调教Chrome中的小恐龙游戏</a> - 2020-12-07
+* <a href='https://jasonkayzk.github.io/2020/12/07/%E4%BB%A3%E7%A0%81%E4%B8%AD%E5%B5%8C%E5%85%A5%E4%BA%86http%E9%93%BE%E6%8E%A5%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88/' target='_blank'>代码中嵌入了http链接会发生什么</a> - 2020-12-07
+* <a href='https://jasonkayzk.github.io/2020/12/07/cURL%E5%91%BD%E4%BB%A4%E8%BD%AC%E4%BB%A3%E7%A0%81%E5%B7%A5%E5%85%B7/' target='_blank'>cURL命令转代码工具</a> - 2020-12-07
+* <a href='https://jasonkayzk.github.io/2020/12/07/Bash%E5%91%BD%E4%BB%A4%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8%E5%AE%9E%E6%88%98/' target='_blank'>Bash命令自动补全实战</a> - 2020-12-07
 <!-- blog ends -->
 
 </td>

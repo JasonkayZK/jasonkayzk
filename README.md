@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         2 hrs 32 mins  ███████████████▉░░░░░  75.8%
-Python     26 mins        ██▊░░░░░░░░░░░░░░░░░░  13.2%
-Kotlin     8 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Markdown   6 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Git Config 5 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Kotlin     4 hrs 17 mins  ████████████████▋░░░░  79.6%
+Markdown   33 mins        ██▏░░░░░░░░░░░░░░░░░░  10.4%
+Python     26 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
+Git Config 5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+JavaScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->

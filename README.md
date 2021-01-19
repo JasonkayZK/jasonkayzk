@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Kotlin     7 hrs 28 mins  █████████████████▎░░░  82.2%
-Markdown   1 hr 12 mins   ██▊░░░░░░░░░░░░░░░░░░  13.3%
-EJS        11 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Git Config 5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-HTML       3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Kotlin     7 hrs 28 mins  ██████████████▉░░░░░░  71.0%
+Markdown   1 hr 44 mins   ███▍░░░░░░░░░░░░░░░░░  16.6%
+JavaScript 32 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
+JSON       19 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+EJS        11 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time ends -->

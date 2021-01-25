@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Kotlin     4 hrs 31 mins  ███████▏░░░░░░░░░░░░░  34.5%
-Go         3 hrs 21 mins  █████▎░░░░░░░░░░░░░░░  25.6%
-XML        1 hr 59 mins   ███▏░░░░░░░░░░░░░░░░░  15.2%
-Markdown   1 hr 19 mins   ██░░░░░░░░░░░░░░░░░░░  10.0%
-JavaScript 32 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+Go         3 hrs 21 mins  ██████░░░░░░░░░░░░░░░  29.1%
+Kotlin     3 hrs 9 mins   █████▊░░░░░░░░░░░░░░░  27.4%
+XML        1 hr 59 mins   ███▌░░░░░░░░░░░░░░░░░  17.3%
+Markdown   1 hr 6 mins    ██░░░░░░░░░░░░░░░░░░░   9.6%
+JavaScript 32 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
 ```
 
 <!-- code_time ends -->

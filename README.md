@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         3 hrs 21 mins  ██████░░░░░░░░░░░░░░░  29.1%
-Kotlin     3 hrs 9 mins   █████▊░░░░░░░░░░░░░░░  27.4%
-XML        1 hr 59 mins   ███▌░░░░░░░░░░░░░░░░░  17.3%
-Markdown   1 hr 6 mins    ██░░░░░░░░░░░░░░░░░░░   9.6%
-JavaScript 32 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Go         3 hrs 21 mins  ██████▊░░░░░░░░░░░░░░  32.7%
+Kotlin     3 hrs 9 mins   ██████▍░░░░░░░░░░░░░░  30.8%
+XML        1 hr 59 mins   ████░░░░░░░░░░░░░░░░░  19.4%
+Markdown   44 mins        █▌░░░░░░░░░░░░░░░░░░░   7.2%
+SQL        18 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 
 <!-- code_time ends -->
@@ -78,11 +78,11 @@ JavaScript 32 mins        ▉░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/01/23/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E6%94%B6%E9%9B%86/' target='_blank'>随机图片收集</a> - 2021-01-23
 * <a href='https://jasonkayzk.github.io/2021/01/22/Typora%E7%BC%96%E8%BE%91%E4%BB%A3%E7%A0%81%E5%9D%97%E6%97%B6%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7/' target='_blank'>Typora编辑代码块时的小技巧</a> - 2021-01-22
 * <a href='https://jasonkayzk.github.io/2021/01/21/%E4%BD%BF%E7%94%A8Go%E6%9E%84%E5%BB%BAGraphQLAPI/' target='_blank'>使用Go构建GraphQL API</a> - 2021-01-21
 * <a href='https://jasonkayzk.github.io/2021/01/21/Go%E5%88%9B%E5%BB%BAGoroutine%E6%97%B6%E6%98%BE%E5%BC%8F%E8%B0%83%E7%94%A8%E6%97%B6%E7%9A%84%E5%9D%91/' target='_blank'>Go创建Goroutine时显式调用时的坑</a> - 2021-01-21
 * <a href='https://jasonkayzk.github.io/2021/01/15/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%9C%A8%E7%BA%BF%E5%8D%8F%E4%BD%9C%E7%99%BD%E6%9D%BF%E7%BD%91%E7%AB%99/' target='_blank'>分享一个在线协作白板网站</a> - 2021-01-15
-* <a href='https://jasonkayzk.github.io/2021/01/13/%E8%A7%A3%E5%86%B3Android%E9%A1%B9%E7%9B%AE%E4%B8%8B%E8%BD%BDGradle%E9%80%9F%E5%BA%A6%E6%9E%81%E6%85%A2%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决Android项目下载Gradle速度极慢的问题</a> - 2021-01-13
 <!-- blog ends -->
 
 </td>

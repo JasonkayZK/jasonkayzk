@@ -63,8 +63,8 @@
 <!-- code_time starts -->
 
 ```text
-HTML       49 mins        ████████████████████▊  99.3%
-Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+HTML       49 mins        ████████████████████▎  96.6%
+Text       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.4%
 Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
@@ -76,11 +76,11 @@ Git Config 0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/02/11/%E5%8A%A0%E6%B2%B92021%EF%BC%81/' target='_blank'>加油2021！</a> - 2021-02-11
 * <a href='https://jasonkayzk.github.io/2021/01/28/%E5%90%84%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%8A%A0%E8%BD%BD%E5%B9%B6%E8%B0%83%E7%94%A8dll%E5%BA%93/' target='_blank'>各编程语言加载并调用dll库</a> - 2021-01-28
 * <a href='https://jasonkayzk.github.io/2021/01/27/cmake%E7%94%9F%E6%88%90%E5%8A%A8%E6%80%81%E9%93%BE%E6%8E%A5%E5%BA%93dll/' target='_blank'>cmake生成动态链接库dll</a> - 2021-01-27
 * <a href='https://jasonkayzk.github.io/2021/01/23/%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87%E6%94%B6%E9%9B%86/' target='_blank'>随机图片收集</a> - 2021-01-23
 * <a href='https://jasonkayzk.github.io/2021/01/22/Typora%E7%BC%96%E8%BE%91%E4%BB%A3%E7%A0%81%E5%9D%97%E6%97%B6%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7/' target='_blank'>Typora编辑代码块时的小技巧</a> - 2021-01-22
-* <a href='https://jasonkayzk.github.io/2021/01/21/%E4%BD%BF%E7%94%A8Go%E6%9E%84%E5%BB%BAGraphQLAPI/' target='_blank'>使用Go构建GraphQL API</a> - 2021-01-21
 <!-- blog ends -->
 
 </td>

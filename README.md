@@ -63,9 +63,7 @@
 <!-- code_time starts -->
 
 ```text
-HTML       49 mins        ████████████████████▎  96.6%
-Text       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Text       1 min          █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

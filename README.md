@@ -78,11 +78,11 @@ XML        19 mins        █░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/02/20/%E4%BF%A1%E6%81%AF%E7%88%86%E7%82%B8%E6%97%B6%E4%BB%A3/' target='_blank'>信息爆炸时代</a> - 2021-02-20
 * <a href='https://jasonkayzk.github.io/2021/02/17/npm%E7%9A%84instal%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/' target='_blank'>npm的instal命令总结</a> - 2021-02-17
 * <a href='https://jasonkayzk.github.io/2021/02/17/%E9%82%A3%E4%BA%9B%E5%88%BB%E5%9C%A8DNA%E9%87%8C%E7%9A%84/' target='_blank'>那些刻在DNA里的</a> - 2021-02-17
 * <a href='https://jasonkayzk.github.io/2021/02/15/%E4%BD%BF%E7%94%A8%E7%BA%AFGo%E5%AE%9E%E7%8E%B0%E7%9A%84MySQL%E6%95%B0%E6%8D%AE%E5%BA%93/' target='_blank'>使用纯Go实现的MySQL数据库</a> - 2021-02-15
 * <a href='https://jasonkayzk.github.io/2021/02/14/Go%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E6%A0%A1%E9%AA%8C%E5%BA%93/' target='_blank'>Go的中国身份证号校验库</a> - 2021-02-14
-* <a href='https://jasonkayzk.github.io/2021/02/14/Telegram%E7%BE%A4%E7%BB%84%E3%80%81%E9%A2%91%E9%81%93%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B1%87%E6%80%BB%E5%88%86%E4%BA%AB/' target='_blank'>Telegram群组、频道、机器人汇总分享</a> - 2021-02-14
 <!-- blog ends -->
 
 </td>

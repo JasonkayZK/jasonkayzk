@@ -63,10 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Kotlin     12 mins        ███████▍░░░░░░░░░░░░░  35.4%
-EJS        11 mins        ██████▊░░░░░░░░░░░░░░  32.4%
-Python     11 mins        ██████▊░░░░░░░░░░░░░░  32.1%
-XML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Kotlin     1 hr 33 mins   ████████▏░░░░░░░░░░░░  38.9%
+Python     1 hr 12 mins   ██████▎░░░░░░░░░░░░░░  30.2%
+XML        54 mins        ████▋░░░░░░░░░░░░░░░░  22.4%
+EJS        11 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Groovy     6 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
 ```
 
 <!-- code_time ends -->
@@ -77,11 +78,11 @@ XML        0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/02/28/%E3%80%90%E8%BD%AC%E3%80%91%E5%AF%BB%E6%89%BE%E4%BD%A0%E6%84%BF%E6%84%8F%E5%BF%8D%E5%8F%97%E7%9A%84%E7%97%9B%E8%8B%A6/' target='_blank'>【转】寻找你愿意忍受的痛苦</a> - 2021-02-28
 * <a href='https://jasonkayzk.github.io/2021/02/21/%E4%BD%BF%E7%94%A8WifiAudio%E8%AE%A9Android%E6%9C%BA%E5%85%85%E5%BD%93%E6%97%A0%E7%BA%BF%E9%9F%B3%E7%AE%B1/' target='_blank'>使用WifiAudio让Android机充当无线音箱</a> - 2021-02-21
 * <a href='https://jasonkayzk.github.io/2021/02/20/%E4%BF%A1%E6%81%AF%E7%88%86%E7%82%B8%E6%97%B6%E4%BB%A3/' target='_blank'>信息爆炸时代</a> - 2021-02-20
 * <a href='https://jasonkayzk.github.io/2021/02/17/npm%E7%9A%84instal%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/' target='_blank'>npm的instal命令总结</a> - 2021-02-17
 * <a href='https://jasonkayzk.github.io/2021/02/17/%E9%82%A3%E4%BA%9B%E5%88%BB%E5%9C%A8DNA%E9%87%8C%E7%9A%84/' target='_blank'>那些刻在DNA里的</a> - 2021-02-17
-* <a href='https://jasonkayzk.github.io/2021/02/15/%E4%BD%BF%E7%94%A8%E7%BA%AFGo%E5%AE%9E%E7%8E%B0%E7%9A%84MySQL%E6%95%B0%E6%8D%AE%E5%BA%93/' target='_blank'>使用纯Go实现的MySQL数据库</a> - 2021-02-15
 <!-- blog ends -->
 
 </td>

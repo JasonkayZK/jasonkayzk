@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-XML        5 hrs 44 mins  ████████░░░░░░░░░░░░░  38.3%
-Kotlin     3 hrs 42 mins  █████▏░░░░░░░░░░░░░░░  24.8%
-Python     1 hr 17 mins   █▊░░░░░░░░░░░░░░░░░░░   8.7%
-Vue.js     1 hr 4 mins    █▌░░░░░░░░░░░░░░░░░░░   7.2%
-Go         46 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
+XML        5 hrs 44 mins  ██████▊░░░░░░░░░░░░░░  32.2%
+Vue.js     4 hrs 5 mins   ████▊░░░░░░░░░░░░░░░░  23.0%
+Kotlin     3 hrs 30 mins  ████▏░░░░░░░░░░░░░░░░  19.7%
+Python     1 hr 6 mins    █▎░░░░░░░░░░░░░░░░░░░   6.2%
+Go         46 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
 ```
 
 <!-- code_time ends -->
@@ -78,11 +78,11 @@ Go         46 mins        █░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/03/06/%E3%80%90%E8%BD%AC%E3%80%91%E6%B5%85%E8%B0%88vpn%E3%80%81vps%E3%80%81Proxy%E4%BB%A5%E5%8F%8Ashadowsocks%E4%B9%8B%E9%97%B4%E7%9A%84%E8%81%94%E7%B3%BB%E5%92%8C%E5%8C%BA%E5%88%AB/' target='_blank'>【转】浅谈vpn、vps、Proxy以及shadowsocks之间的联系和区别</a> - 2021-03-06
+* <a href='https://jasonkayzk.github.io/2021/03/06/%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E6%96%87%E6%9C%AC%E6%96%87%E5%AD%97%E6%8F%8F%E7%BB%98%E6%B5%81%E5%9B%BE%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/' target='_blank'>一个可以使用文本文字描绘流图的开源项目</a> - 2021-03-06
+* <a href='https://jasonkayzk.github.io/2021/03/06/Github%E4%B8%BB%E9%A1%B5%E6%9B%B4%E6%96%B0%E4%BA%86%EF%BC%8C%E5%8F%98%E5%BE%97%E6%9B%B4%E5%8A%A0%E9%85%B7%E7%82%AB%EF%BC%81/' target='_blank'>Github主页更新了，变得更加酷炫！</a> - 2021-03-06
 * <a href='https://jasonkayzk.github.io/2021/03/05/%E4%BD%BF%E7%94%A8Go%E5%AE%9E%E7%8E%B0%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BA%8B%E4%BB%B6%E6%8E%A8%E9%80%81SSE/' target='_blank'>使用Go实现服务端事件推送SSE</a> - 2021-03-05
 * <a href='https://jasonkayzk.github.io/2021/03/04/%E5%85%B3%E4%BA%8E%E5%BB%BA%E7%AD%91%E8%AE%BE%E8%AE%A1/' target='_blank'>关于建筑设计</a> - 2021-03-04
-* <a href='https://jasonkayzk.github.io/2021/02/28/%E3%80%90%E8%BD%AC%E3%80%91%E5%AF%BB%E6%89%BE%E4%BD%A0%E6%84%BF%E6%84%8F%E5%BF%8D%E5%8F%97%E7%9A%84%E7%97%9B%E8%8B%A6/' target='_blank'>【转】寻找你愿意忍受的痛苦</a> - 2021-02-28
-* <a href='https://jasonkayzk.github.io/2021/02/21/%E4%BD%BF%E7%94%A8WifiAudio%E8%AE%A9Android%E6%9C%BA%E5%85%85%E5%BD%93%E6%97%A0%E7%BA%BF%E9%9F%B3%E7%AE%B1/' target='_blank'>使用WifiAudio让Android机充当无线音箱</a> - 2021-02-21
-* <a href='https://jasonkayzk.github.io/2021/02/20/%E4%BF%A1%E6%81%AF%E7%88%86%E7%82%B8%E6%97%B6%E4%BB%A3/' target='_blank'>信息爆炸时代</a> - 2021-02-20
 <!-- blog ends -->
 
 </td>

@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Vue.js     4 hrs 55 mins  ███████████▎░░░░░░░░░  54.1%
-Java       1 hr 14 mins   ██▊░░░░░░░░░░░░░░░░░░  13.6%
-Go         59 mins        ██▎░░░░░░░░░░░░░░░░░░  10.9%
-SQL        28 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
-YAML       19 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Vue.js     4 hrs 48 mins  ████████████▊░░░░░░░░  61.3%
+Go         59 mins        ██▋░░░░░░░░░░░░░░░░░░  12.7%
+Java       33 mins        █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Markdown   19 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+YAML       16 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time ends -->
@@ -78,11 +78,11 @@ YAML       19 mins        ▊░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/03/10/%E8%B4%AD%E4%B9%B0%E4%BA%86%E6%96%B0%E7%9A%84CVM/' target='_blank'>购买了新的CVM</a> - 2021-03-10
+* <a href='https://jasonkayzk.github.io/2021/03/10/CentOS7%E5%AE%89%E8%A3%85MongoDB/' target='_blank'>CentOS7安装MongoDB</a> - 2021-03-10
 * <a href='https://jasonkayzk.github.io/2021/03/07/apt%E5%92%8Capt-get%E7%9A%84%E5%8C%BA%E5%88%AB/' target='_blank'>apt和apt-get的区别</a> - 2021-03-07
 * <a href='https://jasonkayzk.github.io/2021/03/06/%E3%80%90%E8%BD%AC%E3%80%91%E6%B5%85%E8%B0%88vpn%E3%80%81vps%E3%80%81Proxy%E4%BB%A5%E5%8F%8Ashadowsocks%E4%B9%8B%E9%97%B4%E7%9A%84%E8%81%94%E7%B3%BB%E5%92%8C%E5%8C%BA%E5%88%AB/' target='_blank'>【转】浅谈vpn、vps、Proxy以及shadowsocks之间的联系和区别</a> - 2021-03-06
 * <a href='https://jasonkayzk.github.io/2021/03/06/%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E6%96%87%E6%9C%AC%E6%96%87%E5%AD%97%E6%8F%8F%E7%BB%98%E6%B5%81%E5%9B%BE%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/' target='_blank'>一个可以使用文本文字描绘流图的开源项目</a> - 2021-03-06
-* <a href='https://jasonkayzk.github.io/2021/03/06/Github%E4%B8%BB%E9%A1%B5%E6%9B%B4%E6%96%B0%E4%BA%86%EF%BC%8C%E5%8F%98%E5%BE%97%E6%9B%B4%E5%8A%A0%E9%85%B7%E7%82%AB%EF%BC%81/' target='_blank'>Github主页更新了，变得更加酷炫！</a> - 2021-03-06
-* <a href='https://jasonkayzk.github.io/2021/03/05/%E4%BD%BF%E7%94%A8Go%E5%AE%9E%E7%8E%B0%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%BA%8B%E4%BB%B6%E6%8E%A8%E9%80%81SSE/' target='_blank'>使用Go实现服务端事件推送SSE</a> - 2021-03-05
 <!-- blog ends -->
 
 </td>

@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         4 hrs 18 mins  ████████▋░░░░░░░░░░░░  41.3%
-Python     2 hrs 55 mins  █████▉░░░░░░░░░░░░░░░  28.0%
-Bash       1 hr 11 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
-Markdown   1 hr 2 mins    ██░░░░░░░░░░░░░░░░░░░   9.9%
-JavaScript 53 mins        █▊░░░░░░░░░░░░░░░░░░░   8.5%
+Go         4 hrs 18 mins  ████████▎░░░░░░░░░░░░  39.8%
+Python     2 hrs 55 mins  █████▋░░░░░░░░░░░░░░░  27.0%
+Bash       1 hr 11 mins   ██▎░░░░░░░░░░░░░░░░░░  11.1%
+Markdown   1 hr 2 mins    ██░░░░░░░░░░░░░░░░░░░   9.6%
+JavaScript 53 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
 ```
 
 <!-- code_time ends -->

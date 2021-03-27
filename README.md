@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     4 hrs 44 mins  ██████████▌░░░░░░░░░░  50.5%
-Go         1 hr 37 mins   ███▌░░░░░░░░░░░░░░░░░  17.2%
-JavaScript 53 mins        █▉░░░░░░░░░░░░░░░░░░░   9.5%
-Markdown   40 mins        █▌░░░░░░░░░░░░░░░░░░░   7.2%
-Other      34 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Python     5 hrs 44 mins  ██████████▋░░░░░░░░░░  50.6%
+Go         1 hr 37 mins   ██▉░░░░░░░░░░░░░░░░░░  14.3%
+C          1 hr 1 min     █▉░░░░░░░░░░░░░░░░░░░   9.1%
+JavaScript 53 mins        █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Markdown   45 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
 ```
 
 <!-- code_time ends -->
@@ -78,11 +78,11 @@ Other      34 mins        █▎░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/03/25/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%86%85%E5%AD%98%E7%BB%BC%E8%BF%B0/' target='_blank'>计算机内存综述</a> - 2021-03-25
+* <a href='https://jasonkayzk.github.io/2021/03/25/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%AE%80%E8%BF%B0/' target='_blank'>操作系统内存管理简述</a> - 2021-03-25
+* <a href='https://jasonkayzk.github.io/2021/03/25/sudo-su%E5%92%8Csu%E7%9A%84%E5%8C%BA%E5%88%AB/' target='_blank'>sudo-su和su的区别</a> - 2021-03-25
 * <a href='https://jasonkayzk.github.io/2021/03/13/VMWare%E4%B8%8B%E5%88%9B%E5%BB%BACentOS7%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4/' target='_blank'>VMWare下创建CentOS7节点集群</a> - 2021-03-13
 * <a href='https://jasonkayzk.github.io/2021/03/10/%E8%B4%AD%E4%B9%B0%E4%BA%86%E6%96%B0%E7%9A%84CVM/' target='_blank'>购买了新的CVM</a> - 2021-03-10
-* <a href='https://jasonkayzk.github.io/2021/03/10/CentOS7%E5%AE%89%E8%A3%85MongoDB/' target='_blank'>CentOS7安装MongoDB</a> - 2021-03-10
-* <a href='https://jasonkayzk.github.io/2021/03/07/apt%E5%92%8Capt-get%E7%9A%84%E5%8C%BA%E5%88%AB/' target='_blank'>apt和apt-get的区别</a> - 2021-03-07
-* <a href='https://jasonkayzk.github.io/2021/03/06/%E3%80%90%E8%BD%AC%E3%80%91%E6%B5%85%E8%B0%88vpn%E3%80%81vps%E3%80%81Proxy%E4%BB%A5%E5%8F%8Ashadowsocks%E4%B9%8B%E9%97%B4%E7%9A%84%E8%81%94%E7%B3%BB%E5%92%8C%E5%8C%BA%E5%88%AB/' target='_blank'>【转】浅谈vpn、vps、Proxy以及shadowsocks之间的联系和区别</a> - 2021-03-06
 <!-- blog ends -->
 
 </td>

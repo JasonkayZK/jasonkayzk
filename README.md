@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     5 hrs 44 mins  ██████████▋░░░░░░░░░░  50.6%
-Go         1 hr 37 mins   ██▉░░░░░░░░░░░░░░░░░░  14.3%
-C          1 hr 1 min     █▉░░░░░░░░░░░░░░░░░░░   9.1%
-JavaScript 53 mins        █▋░░░░░░░░░░░░░░░░░░░   7.8%
-Markdown   45 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Python     4 hrs 33 mins  █████████████░░░░░░░░  62.2%
+C          1 hr 1 min     ██▉░░░░░░░░░░░░░░░░░░  14.0%
+Other      38 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
+Markdown   20 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+HTML       19 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 
 <!-- code_time ends -->
@@ -78,11 +78,11 @@ Markdown   45 mins        █▍░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/03/27/Windows10%E4%B8%8B%E9%85%8D%E7%BD%AE%E6%B1%87%E7%BC%96%E7%8E%AF%E5%A2%83%EF%BC%88%E5%8C%85%E6%8B%ACdebug%E7%AD%89%E5%B7%A5%E5%85%B7%EF%BC%89/' target='_blank'>Windows10下配置汇编环境（包括debug等工具）</a> - 2021-03-27
 * <a href='https://jasonkayzk.github.io/2021/03/25/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%86%85%E5%AD%98%E7%BB%BC%E8%BF%B0/' target='_blank'>计算机内存综述</a> - 2021-03-25
 * <a href='https://jasonkayzk.github.io/2021/03/25/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%AE%80%E8%BF%B0/' target='_blank'>操作系统内存管理简述</a> - 2021-03-25
 * <a href='https://jasonkayzk.github.io/2021/03/25/sudo-su%E5%92%8Csu%E7%9A%84%E5%8C%BA%E5%88%AB/' target='_blank'>sudo-su和su的区别</a> - 2021-03-25
 * <a href='https://jasonkayzk.github.io/2021/03/13/VMWare%E4%B8%8B%E5%88%9B%E5%BB%BACentOS7%E8%8A%82%E7%82%B9%E9%9B%86%E7%BE%A4/' target='_blank'>VMWare下创建CentOS7节点集群</a> - 2021-03-13
-* <a href='https://jasonkayzk.github.io/2021/03/10/%E8%B4%AD%E4%B9%B0%E4%BA%86%E6%96%B0%E7%9A%84CVM/' target='_blank'>购买了新的CVM</a> - 2021-03-10
 <!-- blog ends -->
 
 </td>

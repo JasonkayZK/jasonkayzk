@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     4 hrs 34 mins  █████████▋░░░░░░░░░░░  46.2%
-XML        2 hrs 5 mins   ████▍░░░░░░░░░░░░░░░░  21.1%
-JSON       1 hr 45 mins   ███▋░░░░░░░░░░░░░░░░░  17.8%
-Kotlin     1 hr 12 mins   ██▌░░░░░░░░░░░░░░░░░░  12.3%
-Markdown   6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Python     4 hrs 34 mins  ██████████░░░░░░░░░░░  47.8%
+XML        2 hrs 5 mins   ████▌░░░░░░░░░░░░░░░░  21.9%
+JSON       1 hr 32 mins   ███▍░░░░░░░░░░░░░░░░░  16.1%
+Kotlin     1 hr 12 mins   ██▋░░░░░░░░░░░░░░░░░░  12.7%
+Groovy     5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->

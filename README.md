@@ -63,11 +63,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     1 hr 54 mins   █████████████▍░░░░░░░  64.2%
-XML        31 mins        ███▋░░░░░░░░░░░░░░░░░  17.5%
-JSON       20 mins        ██▍░░░░░░░░░░░░░░░░░░  11.4%
-Kotlin     8 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-Text       3 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Python     1 hr 54 mins   ████████████▏░░░░░░░░  57.9%
+XML        31 mins        ███▎░░░░░░░░░░░░░░░░░  15.8%
+JSON       20 mins        ██▏░░░░░░░░░░░░░░░░░░  10.3%
+Markdown   10 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Kotlin     8 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 
 <!-- code_time ends -->
@@ -78,11 +78,11 @@ Text       3 mins         ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/04/17/Linux%E4%B8%AD%E7%9A%84-dev-null/' target='_blank'>Linux中的/dev/null</a> - 2021-04-17
 * <a href='https://jasonkayzk.github.io/2021/03/28/%E4%BD%BF%E7%94%A8Go%E6%89%93%E5%8C%85%E4%BA%8C%E8%BF%9B%E5%88%B6React%E5%8D%95%E9%A1%B5%E9%9D%A2%E5%BA%94%E7%94%A8/' target='_blank'>使用Go打包二进制React单页面应用</a> - 2021-03-28
 * <a href='https://jasonkayzk.github.io/2021/03/28/%E3%80%90%E8%BD%AC%E3%80%91%E5%9C%A8AppStore%E4%B8%8B%E8%BD%BD%E7%BE%8E%E5%8C%BAAPP/' target='_blank'>【转】在AppStore下载美区APP</a> - 2021-03-28
 * <a href='https://jasonkayzk.github.io/2021/03/27/Windows10%E4%B8%8B%E9%85%8D%E7%BD%AE%E6%B1%87%E7%BC%96%E7%8E%AF%E5%A2%83%EF%BC%88%E5%8C%85%E6%8B%ACdebug%E7%AD%89%E5%B7%A5%E5%85%B7%EF%BC%89/' target='_blank'>Windows10下配置汇编环境（包括debug等工具）</a> - 2021-03-27
 * <a href='https://jasonkayzk.github.io/2021/03/25/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%86%85%E5%AD%98%E7%BB%BC%E8%BF%B0/' target='_blank'>计算机内存综述</a> - 2021-03-25
-* <a href='https://jasonkayzk.github.io/2021/03/25/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%AE%80%E8%BF%B0/' target='_blank'>操作系统内存管理简述</a> - 2021-03-25
 <!-- blog ends -->
 
 </td>

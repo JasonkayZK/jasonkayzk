@@ -75,11 +75,11 @@ SQL        0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/05/07/Linux%E4%B8%8B%E8%87%AA%E5%88%B6ocr%E8%BD%AF%E4%BB%B6/' target='_blank'>Linux下自制OCR软件</a> - 2021-05-07
 * <a href='https://jasonkayzk.github.io/2021/04/21/%E4%BD%BF%E7%94%A8Uber%E5%BC%80%E6%BA%90%E7%9A%84goleak%E5%BA%93%E8%BF%9B%E8%A1%8Cgoroutine%E6%B3%84%E9%9C%B2%E6%A3%80%E6%B5%8B/' target='_blank'>使用Uber开源的goleak库进行goroutine泄露检测</a> - 2021-04-21
 * <a href='https://jasonkayzk.github.io/2021/04/20/yield%E7%94%A8%E6%B3%95%E6%80%BB%E7%BB%93/' target='_blank'>yield用法总结</a> - 2021-04-20
 * <a href='https://jasonkayzk.github.io/2021/04/19/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/' target='_blank'>进程间通信的几种方式总结</a> - 2021-04-19
 * <a href='https://jasonkayzk.github.io/2021/04/18/%E6%9C%80%E8%BF%91%E8%B5%B6%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E5%8F%97/' target='_blank'>最近赶毕业论文的一些感受</a> - 2021-04-18
-* <a href='https://jasonkayzk.github.io/2021/04/17/Linux%E4%B8%AD%E7%9A%84-dev-null/' target='_blank'>Linux中的/dev/null</a> - 2021-04-17
 <!-- blog ends -->
 
 </td>

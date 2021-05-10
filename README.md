@@ -78,8 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Git Config 3 mins         █████████████████████ 100.0%
-SQL        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+C++        39 mins        ██████████████▎░░░░░░  67.9%
+CMake      7 mins         ██▋░░░░░░░░░░░░░░░░░░  13.0%
+Other      4 mins         █▋░░░░░░░░░░░░░░░░░░░   8.2%
+Git Config 3 mins         █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Markdown   2 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.6%
 ```
 
 <!-- code_time ends -->
@@ -90,7 +93,6 @@ SQL        0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-
 * <a href='https://jasonkayzk.github.io/2021/05/08/Github-Actions%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2Hexo/' target='_blank'>Github-Actions自动部署Hexo</a> - 2021-05-08
 * <a href='https://jasonkayzk.github.io/2021/05/07/Ubuntu%E5%B7%A5%E4%BD%9C%E5%8C%BA%EF%BC%88workspace%EF%BC%89%E4%BB%8B%E7%BB%8D/' target='_blank'>Ubuntu工作区（workspace）介绍</a> - 2021-05-07
 * <a href='https://jasonkayzk.github.io/2021/05/07/Linux%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7%E6%80%BB%E7%BB%93/' target='_blank'>Linux截图工具总结</a> - 2021-05-07

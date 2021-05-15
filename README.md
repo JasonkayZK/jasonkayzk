@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        59 mins        ████████████████▌░░░░  79.1%
-CMake      7 mins         ██▏░░░░░░░░░░░░░░░░░░  10.3%
-Other      4 mins         █▎░░░░░░░░░░░░░░░░░░░   6.5%
-Markdown   2 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-C          0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript 1 hr 27 mins   ████████▉░░░░░░░░░░░░  42.6%
+C++        59 mins        ██████░░░░░░░░░░░░░░░  28.9%
+Markdown   39 mins        ████░░░░░░░░░░░░░░░░░  19.1%
+CMake      7 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+TypeScript 5 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ C          0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/05/14/Promise%E4%B8%AD%E7%9A%84all%E3%80%81race%E5%92%8Cany/' target='_blank'>Promise中的all、race和any</a> - 2021-05-14
 * <a href='https://jasonkayzk.github.io/2021/05/08/Github-Actions%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2Hexo/' target='_blank'>Github-Actions自动部署Hexo</a> - 2021-05-08
 * <a href='https://jasonkayzk.github.io/2021/05/07/Ubuntu%E5%B7%A5%E4%BD%9C%E5%8C%BA%EF%BC%88workspace%EF%BC%89%E4%BB%8B%E7%BB%8D/' target='_blank'>Ubuntu工作区（workspace）介绍</a> - 2021-05-07
 * <a href='https://jasonkayzk.github.io/2021/05/07/Linux%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7%E6%80%BB%E7%BB%93/' target='_blank'>Linux截图工具总结</a> - 2021-05-07
 * <a href='https://jasonkayzk.github.io/2021/05/07/Linux%E4%B8%8B%E8%87%AA%E5%88%B6ocr%E8%BD%AF%E4%BB%B6/' target='_blank'>Linux下自制OCR软件</a> - 2021-05-07
-* <a href='https://jasonkayzk.github.io/2021/04/21/%E4%BD%BF%E7%94%A8Uber%E5%BC%80%E6%BA%90%E7%9A%84goleak%E5%BA%93%E8%BF%9B%E8%A1%8Cgoroutine%E6%B3%84%E9%9C%B2%E6%A3%80%E6%B5%8B/' target='_blank'>使用Uber开源的goleak库进行goroutine泄露检测</a> - 2021-04-21
 <!-- blog ends -->
 
 </td>

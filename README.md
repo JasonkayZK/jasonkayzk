@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 1 hr 27 mins   ████████▉░░░░░░░░░░░░  42.6%
-C++        59 mins        ██████░░░░░░░░░░░░░░░  28.9%
-Markdown   39 mins        ████░░░░░░░░░░░░░░░░░  19.1%
-CMake      7 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-TypeScript 5 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Markdown   2 hrs 12 mins  █████▎░░░░░░░░░░░░░░░  25.4%
+YAML       2 hrs 2 mins   ████▉░░░░░░░░░░░░░░░░  23.5%
+JavaScript 1 hr 27 mins   ███▌░░░░░░░░░░░░░░░░░  16.8%
+C++        1 hr 27 mins   ███▌░░░░░░░░░░░░░░░░░  16.7%
+Other      39 mins        █▌░░░░░░░░░░░░░░░░░░░   7.6%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ TypeScript 5 mins         ▌░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/05/15/%E4%BD%BF%E7%94%A8Docker-Compose%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9ELK-Stack/' target='_blank'>使用Docker-Compose部署单节点ELK-Stack</a> - 2021-05-15
+* <a href='https://jasonkayzk.github.io/2021/05/15/%E4%BD%BF%E7%94%A8Docker-Compose%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9ELK/' target='_blank'>使用Docker-Compose部署单节点ELK</a> - 2021-05-15
 * <a href='https://jasonkayzk.github.io/2021/05/14/Promise%E4%B8%AD%E7%9A%84all%E3%80%81race%E5%92%8Cany/' target='_blank'>Promise中的all、race和any</a> - 2021-05-14
 * <a href='https://jasonkayzk.github.io/2021/05/08/Github-Actions%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2Hexo/' target='_blank'>Github-Actions自动部署Hexo</a> - 2021-05-08
 * <a href='https://jasonkayzk.github.io/2021/05/07/Ubuntu%E5%B7%A5%E4%BD%9C%E5%8C%BA%EF%BC%88workspace%EF%BC%89%E4%BB%8B%E7%BB%8D/' target='_blank'>Ubuntu工作区（workspace）介绍</a> - 2021-05-07
-* <a href='https://jasonkayzk.github.io/2021/05/07/Linux%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7%E6%80%BB%E7%BB%93/' target='_blank'>Linux截图工具总结</a> - 2021-05-07
-* <a href='https://jasonkayzk.github.io/2021/05/07/Linux%E4%B8%8B%E8%87%AA%E5%88%B6ocr%E8%BD%AF%E4%BB%B6/' target='_blank'>Linux下自制OCR软件</a> - 2021-05-07
 <!-- blog ends -->
 
 </td>

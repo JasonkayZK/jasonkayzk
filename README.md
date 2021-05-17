@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   2 hrs 12 mins  █████▎░░░░░░░░░░░░░░░  25.4%
-YAML       2 hrs 2 mins   ████▉░░░░░░░░░░░░░░░░  23.5%
-JavaScript 1 hr 27 mins   ███▌░░░░░░░░░░░░░░░░░  16.8%
-C++        1 hr 27 mins   ███▌░░░░░░░░░░░░░░░░░  16.7%
-Other      39 mins        █▌░░░░░░░░░░░░░░░░░░░   7.6%
+Markdown   2 hrs 42 mins  █████▏░░░░░░░░░░░░░░░  24.9%
+C++        2 hrs 20 mins  ████▌░░░░░░░░░░░░░░░░  21.6%
+YAML       2 hrs 2 mins   ███▉░░░░░░░░░░░░░░░░░  18.8%
+JavaScript 1 hr 27 mins   ██▊░░░░░░░░░░░░░░░░░░  13.5%
+Go         1 hr 10 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
 ```
 
 <!-- code_time ends -->

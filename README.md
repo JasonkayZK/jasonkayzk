@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   2 hrs 42 mins  █████▏░░░░░░░░░░░░░░░  24.9%
-C++        2 hrs 20 mins  ████▌░░░░░░░░░░░░░░░░  21.6%
-YAML       2 hrs 2 mins   ███▉░░░░░░░░░░░░░░░░░  18.8%
-JavaScript 1 hr 27 mins   ██▊░░░░░░░░░░░░░░░░░░  13.5%
-Go         1 hr 10 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
+Markdown   2 hrs 45 mins  █████▏░░░░░░░░░░░░░░░  24.9%
+C++        2 hrs 28 mins  ████▋░░░░░░░░░░░░░░░░  22.4%
+YAML       2 hrs 3 mins   ███▉░░░░░░░░░░░░░░░░░  18.5%
+JavaScript 1 hr 27 mins   ██▊░░░░░░░░░░░░░░░░░░  13.2%
+Go         1 hr 10 mins   ██▏░░░░░░░░░░░░░░░░░░  10.6%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ Go         1 hr 10 mins   ██▎░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/05/16/%E5%9C%A8VMWare%E4%B8%AD%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84K8S%E9%9B%86%E7%BE%A4/' target='_blank'>在VMWare中部署你的K8S集群</a> - 2021-05-16
+* <a href='https://jasonkayzk.github.io/2021/05/16/%E5%9C%A8Go%E4%B8%AD%E9%9B%86%E6%88%90ELK%E6%9C%8D%E5%8A%A1/' target='_blank'>在Go中集成ELK服务</a> - 2021-05-16
 * <a href='https://jasonkayzk.github.io/2021/05/15/%E4%BD%BF%E7%94%A8Docker-Compose%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9ELK-Stack/' target='_blank'>使用Docker-Compose部署单节点ELK-Stack</a> - 2021-05-15
 * <a href='https://jasonkayzk.github.io/2021/05/15/%E4%BD%BF%E7%94%A8Docker-Compose%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9ELK/' target='_blank'>使用Docker-Compose部署单节点ELK</a> - 2021-05-15
 * <a href='https://jasonkayzk.github.io/2021/05/14/Promise%E4%B8%AD%E7%9A%84all%E3%80%81race%E5%92%8Cany/' target='_blank'>Promise中的all、race和any</a> - 2021-05-14
-* <a href='https://jasonkayzk.github.io/2021/05/08/Github-Actions%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2Hexo/' target='_blank'>Github-Actions自动部署Hexo</a> - 2021-05-08
-* <a href='https://jasonkayzk.github.io/2021/05/07/Ubuntu%E5%B7%A5%E4%BD%9C%E5%8C%BA%EF%BC%88workspace%EF%BC%89%E4%BB%8B%E7%BB%8D/' target='_blank'>Ubuntu工作区（workspace）介绍</a> - 2021-05-07
 <!-- blog ends -->
 
 </td>

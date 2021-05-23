@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 3 hrs 30 mins  ████▌░░░░░░░░░░░░░░░░  21.7%
-YAML       2 hrs 31 mins  ███▎░░░░░░░░░░░░░░░░░  15.7%
-C++        2 hrs 28 mins  ███▏░░░░░░░░░░░░░░░░░  15.4%
-HTML       2 hrs 10 mins  ██▊░░░░░░░░░░░░░░░░░░  13.5%
-Markdown   2 hrs 10 mins  ██▊░░░░░░░░░░░░░░░░░░  13.5%
+Go         5 hrs 34 mins  ███████▎░░░░░░░░░░░░░  34.7%
+JavaScript 4 hrs 39 mins  ██████░░░░░░░░░░░░░░░  29.1%
+HTML       2 hrs 10 mins  ██▊░░░░░░░░░░░░░░░░░░  13.6%
+C++        2 hrs          ██▋░░░░░░░░░░░░░░░░░░  12.6%
+Markdown   37 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ Markdown   2 hrs 10 mins  ██▊░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/05/22/FFmpeg%E5%B8%B8%E7%94%A8API%E6%80%BB%E7%BB%93/' target='_blank'>FFmpeg常用API总结</a> - 2021-05-22
 * <a href='https://jasonkayzk.github.io/2021/05/16/%E5%9C%A8VMWare%E4%B8%AD%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84K8S%E9%9B%86%E7%BE%A4/' target='_blank'>在VMWare中部署你的K8S集群</a> - 2021-05-16
 * <a href='https://jasonkayzk.github.io/2021/05/16/%E5%9C%A8Go%E4%B8%AD%E9%9B%86%E6%88%90ELK%E6%9C%8D%E5%8A%A1/' target='_blank'>在Go中集成ELK服务</a> - 2021-05-16
 * <a href='https://jasonkayzk.github.io/2021/05/15/%E4%BD%BF%E7%94%A8Docker-Compose%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9ELK-Stack/' target='_blank'>使用Docker-Compose部署单节点ELK-Stack</a> - 2021-05-15
 * <a href='https://jasonkayzk.github.io/2021/05/15/%E4%BD%BF%E7%94%A8Docker-Compose%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9ELK/' target='_blank'>使用Docker-Compose部署单节点ELK</a> - 2021-05-15
-* <a href='https://jasonkayzk.github.io/2021/05/14/Promise%E4%B8%AD%E7%9A%84all%E3%80%81race%E5%92%8Cany/' target='_blank'>Promise中的all、race和any</a> - 2021-05-14
 <!-- blog ends -->
 
 </td>

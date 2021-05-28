@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         6 hrs 46 mins  █████████████░░░░░░░░  62.3%
-JavaScript 2 hrs 5 mins   ████░░░░░░░░░░░░░░░░░  19.1%
-Markdown   1 hr 7 mins    ██▏░░░░░░░░░░░░░░░░░░  10.4%
-HTML       14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-YAML       13 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Go         6 hrs 41 mins  ███████████▋░░░░░░░░░  55.4%
+JavaScript 1 hr 49 mins   ███▏░░░░░░░░░░░░░░░░░  15.2%
+YAML       1 hr 41 mins   ██▉░░░░░░░░░░░░░░░░░░  14.0%
+Markdown   1 hr 8 mins    █▉░░░░░░░░░░░░░░░░░░░   9.5%
+HTML       12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ YAML       13 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/05/27/%E5%9C%A8CentOS7%E4%B8%AD%E4%BD%BF%E7%94%A8Shadowsocks%E5%AE%A2%E6%88%B7%E7%AB%AF/' target='_blank'>在CentOS7中使用Shadowsocks客户端</a> - 2021-05-27
+* <a href='https://jasonkayzk.github.io/2021/05/26/CentOS7%E5%AE%89%E8%A3%85minikube/' target='_blank'>CentOS7安装minikube</a> - 2021-05-26
 * <a href='https://jasonkayzk.github.io/2021/05/22/FFmpeg%E5%B8%B8%E7%94%A8API%E6%80%BB%E7%BB%93/' target='_blank'>FFmpeg常用API总结</a> - 2021-05-22
 * <a href='https://jasonkayzk.github.io/2021/05/16/%E5%9C%A8VMWare%E4%B8%AD%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84K8S%E9%9B%86%E7%BE%A4/' target='_blank'>在VMWare中部署你的K8S集群</a> - 2021-05-16
 * <a href='https://jasonkayzk.github.io/2021/05/16/%E5%9C%A8Go%E4%B8%AD%E9%9B%86%E6%88%90ELK%E6%9C%8D%E5%8A%A1/' target='_blank'>在Go中集成ELK服务</a> - 2021-05-16
-* <a href='https://jasonkayzk.github.io/2021/05/15/%E4%BD%BF%E7%94%A8Docker-Compose%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9ELK-Stack/' target='_blank'>使用Docker-Compose部署单节点ELK-Stack</a> - 2021-05-15
-* <a href='https://jasonkayzk.github.io/2021/05/15/%E4%BD%BF%E7%94%A8Docker-Compose%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9ELK/' target='_blank'>使用Docker-Compose部署单节点ELK</a> - 2021-05-15
 <!-- blog ends -->
 
 </td>

@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-YAML       4 hrs 25 mins  ████████▉░░░░░░░░░░░░  42.7%
-Go         2 hrs 43 mins  █████▌░░░░░░░░░░░░░░░  26.2%
-Markdown   1 hr 10 mins   ██▎░░░░░░░░░░░░░░░░░░  11.3%
-JavaScript 55 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
-C++        18 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
+YAML       7 hrs 46 mins  ████████████████▏░░░░  76.9%
+JavaScript 52 mins        █▊░░░░░░░░░░░░░░░░░░░   8.6%
+Markdown   29 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+C++        21 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Docker     14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ C++        18 mins        ▌░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/05/31/%E9%85%8D%E7%BD%AEIngress%E5%A4%84%E7%90%86TLS%E4%BC%A0%E8%BE%93/' target='_blank'>配置Ingress处理TLS传输</a> - 2021-05-31
+* <a href='https://jasonkayzk.github.io/2021/05/30/%E5%9B%BD%E5%86%85%E5%9C%A8minikube%E4%B8%AD%E6%B7%BB%E5%8A%A0ingress-nginx%E6%8F%92%E4%BB%B6/' target='_blank'>国内在minikube中添加ingress-nginx插件</a> - 2021-05-30
 * <a href='https://jasonkayzk.github.io/2021/05/27/%E5%9C%A8CentOS7%E4%B8%AD%E4%BD%BF%E7%94%A8Shadowsocks%E5%AE%A2%E6%88%B7%E7%AB%AF/' target='_blank'>在CentOS7中使用Shadowsocks客户端</a> - 2021-05-27
 * <a href='https://jasonkayzk.github.io/2021/05/26/CentOS7%E5%AE%89%E8%A3%85minikube/' target='_blank'>CentOS7安装minikube</a> - 2021-05-26
 * <a href='https://jasonkayzk.github.io/2021/05/22/FFmpeg%E5%B8%B8%E7%94%A8API%E6%80%BB%E7%BB%93/' target='_blank'>FFmpeg常用API总结</a> - 2021-05-22
-* <a href='https://jasonkayzk.github.io/2021/05/16/%E5%9C%A8VMWare%E4%B8%AD%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84K8S%E9%9B%86%E7%BE%A4/' target='_blank'>在VMWare中部署你的K8S集群</a> - 2021-05-16
-* <a href='https://jasonkayzk.github.io/2021/05/16/%E5%9C%A8Go%E4%B8%AD%E9%9B%86%E6%88%90ELK%E6%9C%8D%E5%8A%A1/' target='_blank'>在Go中集成ELK服务</a> - 2021-05-16
 <!-- blog ends -->
 
 </td>

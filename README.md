@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       9 hrs 10 mins  ████████▎░░░░░░░░░░░░  39.8%
-YAML       7 hrs 53 mins  ███████▏░░░░░░░░░░░░░  34.2%
-C++        2 hrs 23 mins  ██▏░░░░░░░░░░░░░░░░░░  10.3%
-JavaScript 1 hr 13 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
-Markdown   1 hr 12 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
+Rust       9 hrs 10 mins  █████████▌░░░░░░░░░░░  45.5%
+YAML       5 hrs 8 mins   █████▎░░░░░░░░░░░░░░░  25.5%
+C++        2 hrs 52 mins  ██▉░░░░░░░░░░░░░░░░░░  14.2%
+Markdown   1 hr 11 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
+JavaScript 59 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
 ```
 
 <!-- code_time ends -->

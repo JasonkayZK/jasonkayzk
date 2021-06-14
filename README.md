@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       13 hrs 39 mins ███████████████▎░░░░░  73.2%
-Markdown   1 hr 32 mins   █▋░░░░░░░░░░░░░░░░░░░   8.3%
-C++        1 hr 4 mins    █▏░░░░░░░░░░░░░░░░░░░   5.8%
-TOML       36 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-JavaScript 27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+Rust       14 hrs 34 mins ██████████████▍░░░░░░  68.7%
+Markdown   1 hr 51 mins   █▊░░░░░░░░░░░░░░░░░░░   8.8%
+C++        1 hr 14 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
+Go         1 hr 13 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
+TOML       37 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ JavaScript 27 mins        ▌░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/06/13/%E6%B5%81%E9%87%8F%E7%BC%96%E6%8E%92%E7%B3%BB%E7%BB%9FEasegress%E5%88%9D%E6%8E%A2/' target='_blank'>流量编排系统Easegress初探</a> - 2021-06-13
 * <a href='https://jasonkayzk.github.io/2021/05/31/%E9%85%8D%E7%BD%AEIngress%E5%A4%84%E7%90%86TLS%E4%BC%A0%E8%BE%93/' target='_blank'>配置Ingress处理TLS传输</a> - 2021-05-31
 * <a href='https://jasonkayzk.github.io/2021/05/30/%E5%9B%BD%E5%86%85%E5%9C%A8minikube%E4%B8%AD%E6%B7%BB%E5%8A%A0ingress-nginx%E6%8F%92%E4%BB%B6/' target='_blank'>国内在minikube中添加ingress-nginx插件</a> - 2021-05-30
 * <a href='https://jasonkayzk.github.io/2021/05/27/%E5%9C%A8CentOS7%E4%B8%AD%E4%BD%BF%E7%94%A8Shadowsocks%E5%AE%A2%E6%88%B7%E7%AB%AF/' target='_blank'>在CentOS7中使用Shadowsocks客户端</a> - 2021-05-27
 * <a href='https://jasonkayzk.github.io/2021/05/26/CentOS7%E5%AE%89%E8%A3%85minikube/' target='_blank'>CentOS7安装minikube</a> - 2021-05-26
-* <a href='https://jasonkayzk.github.io/2021/05/22/FFmpeg%E5%B8%B8%E7%94%A8API%E6%80%BB%E7%BB%93/' target='_blank'>FFmpeg常用API总结</a> - 2021-05-22
 <!-- blog ends -->
 
 </td>

@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       20 hrs 2 mins  █████████████▎░░░░░░░  63.5%
-Markdown   2 hrs 52 mins  █▉░░░░░░░░░░░░░░░░░░░   9.1%
-C++        2 hrs 9 mins   █▍░░░░░░░░░░░░░░░░░░░   6.9%
-TOML       1 hr 29 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-Python     1 hr 19 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+Rust       17 hrs 30 mins █████████████▏░░░░░░░  62.5%
+C++        2 hrs 53 mins  ██▏░░░░░░░░░░░░░░░░░░  10.3%
+Markdown   2 hrs 16 mins  █▋░░░░░░░░░░░░░░░░░░░   8.2%
+TOML       1 hr 21 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
+Python     1 hr 16 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ Python     1 hr 19 mins   ▉░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/06/16/%E5%AE%9E%E6%97%B6%E6%B5%81%E6%95%B0%E6%8D%AE%E5%BA%93PipelineDB%E4%BB%8B%E7%BB%8D/' target='_blank'>实时流数据库PipelineDB介绍</a> - 2021-06-16
+* <a href='https://jasonkayzk.github.io/2021/06/16/%E5%AD%A6%E4%B9%A0Rust%E4%B8%A4%E5%91%A8%E5%90%8E%E6%88%91%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%83%B3/' target='_blank'>学习Rust两周后我的一些感想</a> - 2021-06-16
 * <a href='https://jasonkayzk.github.io/2021/06/13/%E6%B5%81%E9%87%8F%E7%BC%96%E6%8E%92%E7%B3%BB%E7%BB%9FEasegress%E5%88%9D%E6%8E%A2/' target='_blank'>流量编排系统Easegress初探</a> - 2021-06-13
 * <a href='https://jasonkayzk.github.io/2021/05/31/%E9%85%8D%E7%BD%AEIngress%E5%A4%84%E7%90%86TLS%E4%BC%A0%E8%BE%93/' target='_blank'>配置Ingress处理TLS传输</a> - 2021-05-31
 * <a href='https://jasonkayzk.github.io/2021/05/30/%E5%9B%BD%E5%86%85%E5%9C%A8minikube%E4%B8%AD%E6%B7%BB%E5%8A%A0ingress-nginx%E6%8F%92%E4%BB%B6/' target='_blank'>国内在minikube中添加ingress-nginx插件</a> - 2021-05-30
-* <a href='https://jasonkayzk.github.io/2021/05/27/%E5%9C%A8CentOS7%E4%B8%AD%E4%BD%BF%E7%94%A8Shadowsocks%E5%AE%A2%E6%88%B7%E7%AB%AF/' target='_blank'>在CentOS7中使用Shadowsocks客户端</a> - 2021-05-27
-* <a href='https://jasonkayzk.github.io/2021/05/26/CentOS7%E5%AE%89%E8%A3%85minikube/' target='_blank'>CentOS7安装minikube</a> - 2021-05-26
 <!-- blog ends -->
 
 </td>

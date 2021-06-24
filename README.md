@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         7 hrs 12 mins  ████████▊░░░░░░░░░░░░  42.2%
-C++        3 hrs 57 mins  ████▉░░░░░░░░░░░░░░░░  23.2%
-CMake      1 hr 29 mins   █▊░░░░░░░░░░░░░░░░░░░   8.7%
-Markdown   1 hr 11 mins   █▍░░░░░░░░░░░░░░░░░░░   6.9%
-C          1 hr 4 mins    █▎░░░░░░░░░░░░░░░░░░░   6.3%
+Go         7 hrs 31 mins  █████████▊░░░░░░░░░░░  46.6%
+C++        3 hrs 30 mins  ████▌░░░░░░░░░░░░░░░░  21.7%
+CMake      1 hr 29 mins   █▉░░░░░░░░░░░░░░░░░░░   9.2%
+Markdown   1 hr 22 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
+C          1 hr 4 mins    █▍░░░░░░░░░░░░░░░░░░░   6.7%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ C          1 hr 4 mins    █▎░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://jasonkayzk.github.io/2021/06/16/%E5%AE%9E%E6%97%B6%E6%B5%81%E6%95%B0%E6%8D%AE%E5%BA%93PipelineDB%E4%BB%8B%E7%BB%8D/' target='_blank'>实时流数据库PipelineDB介绍</a> - 2021-06-16
-* <a href='https://jasonkayzk.github.io/2021/06/16/%E5%AD%A6%E4%B9%A0Rust%E4%B8%A4%E5%91%A8%E5%90%8E%E6%88%91%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%83%B3/' target='_blank'>学习Rust两周后我的一些感想</a> - 2021-06-16
-* <a href='https://jasonkayzk.github.io/2021/06/13/%E6%B5%81%E9%87%8F%E7%BC%96%E6%8E%92%E7%B3%BB%E7%BB%9FEasegress%E5%88%9D%E6%8E%A2/' target='_blank'>流量编排系统Easegress初探</a> - 2021-06-13
-* <a href='https://jasonkayzk.github.io/2021/05/31/%E9%85%8D%E7%BD%AEIngress%E5%A4%84%E7%90%86TLS%E4%BC%A0%E8%BE%93/' target='_blank'>配置Ingress处理TLS传输</a> - 2021-05-31
-* <a href='https://jasonkayzk.github.io/2021/05/30/%E5%9B%BD%E5%86%85%E5%9C%A8minikube%E4%B8%AD%E6%B7%BB%E5%8A%A0ingress-nginx%E6%8F%92%E4%BB%B6/' target='_blank'>国内在minikube中添加ingress-nginx插件</a> - 2021-05-30
+* <a href='https://jasonkayzk.github.io/2021/06/23/CN2%E7%BD%91%E7%BB%9C%E7%BA%BF%E8%B7%AF%E6%80%BB%E7%BB%93/' target='_blank'>CN2网络线路总结</a> - 2021-06-23
+* <a href='https://jasonkayzk.github.io/2021/06/23/%E3%80%90%E8%BD%AC%E3%80%91%E6%8C%87%E6%A0%87%E6%95%B0%E6%8D%AETP50%E3%80%81TP90%E3%80%81TP99%E3%80%81TP999/' target='_blank'>【转】指标数据TP50、TP90、TP99、TP999</a> - 2021-06-23
+* <a href='https://jasonkayzk.github.io/2021/06/23/%E3%80%90%E8%BD%AC%E3%80%91%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E4%BC%98%E5%85%88%E7%BA%A7%E5%AE%9A%E4%B9%89/' target='_blank'>【转】测试用例优先级定义</a> - 2021-06-23
+* <a href='https://jasonkayzk.github.io/2021/06/20/%E5%9C%A8Go%E4%B8%AD%E4%BB%85%E4%BD%BF%E7%94%A8MySQL%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD%E5%88%86%E5%B8%83%E5%BC%8FID%E7%94%9F%E6%88%90%E5%99%A8/' target='_blank'>在Go中仅使用MySQL实现高性能分布式ID生成器</a> - 2021-06-20
+* <a href='https://jasonkayzk.github.io/2021/06/20/%E9%AB%98%E6%80%A7%E8%83%BD%E5%88%86%E5%B8%83%E5%BC%8FID%E7%94%9F%E6%88%90%E5%99%A8%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/' target='_blank'>高性能分布式ID生成器实现方法总结</a> - 2021-06-20
 <!-- blog ends -->
 
 </td>

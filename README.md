@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         6 hrs 37 mins  █████████▌░░░░░░░░░░░  45.4%
-C++        3 hrs 28 mins  █████░░░░░░░░░░░░░░░░  23.9%
-CMake      1 hr 28 mins   ██░░░░░░░░░░░░░░░░░░░  10.1%
-Markdown   1 hr 21 mins   █▉░░░░░░░░░░░░░░░░░░░   9.3%
-C          1 hr 4 mins    █▌░░░░░░░░░░░░░░░░░░░   7.4%
+Go         6 hrs 37 mins  ███████████▎░░░░░░░░░  53.8%
+Markdown   1 hr 35 mins   ██▋░░░░░░░░░░░░░░░░░░  13.0%
+C++        1 hr 23 mins   ██▎░░░░░░░░░░░░░░░░░░  11.3%
+C          50 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
+CMake      44 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ C          1 hr 4 mins    █▌░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/06/25/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%9B%98%EF%BC%9AFileBrowser/' target='_blank'>快速搭建属于你自己的网盘：FileBrowser</a> - 2021-06-25
+* <a href='https://jasonkayzk.github.io/2021/06/25/%E4%BD%BF%E7%94%A8Docker%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9Hadoop/' target='_blank'>使用Docker部署单节点Hadoop</a> - 2021-06-25
 * <a href='https://jasonkayzk.github.io/2021/06/24/%E3%80%90%E8%BD%AC%E3%80%91Nginx%E7%9A%84Header%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%8B%E5%88%92%E7%BA%BF%E6%97%B6%E7%9A%84%E4%B8%80%E4%B8%AA%E5%9D%91/' target='_blank'>【转】Nginx的Header中使用下划线时的一个坑</a> - 2021-06-24
 * <a href='https://jasonkayzk.github.io/2021/06/24/Linux%E8%BE%93%E5%87%BA%E6%B5%81%E9%87%8D%E5%AE%9A%E5%90%91/' target='_blank'>Linux输出流重定向</a> - 2021-06-24
 * <a href='https://jasonkayzk.github.io/2021/06/24/CentOS%E8%AE%BE%E7%BD%AE%E8%87%AA%E5%90%AF%E5%8A%A8/' target='_blank'>CentOS设置自启动</a> - 2021-06-24
-* <a href='https://jasonkayzk.github.io/2021/06/23/CN2%E7%BD%91%E7%BB%9C%E7%BA%BF%E8%B7%AF%E6%80%BB%E7%BB%93/' target='_blank'>CN2网络线路总结</a> - 2021-06-23
-* <a href='https://jasonkayzk.github.io/2021/06/23/%E3%80%90%E8%BD%AC%E3%80%91%E6%8C%87%E6%A0%87%E6%95%B0%E6%8D%AETP50%E3%80%81TP90%E3%80%81TP99%E3%80%81TP999/' target='_blank'>【转】指标数据TP50、TP90、TP99、TP999</a> - 2021-06-23
 <!-- blog ends -->
 
 </td>

@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         1 hr 55 mins   █████████░░░░░░░░░░░░  43.4%
-Markdown   59 mins        ████▋░░░░░░░░░░░░░░░░  22.6%
-YAML       33 mins        ██▋░░░░░░░░░░░░░░░░░░  12.8%
-C++        24 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
-Bash       9 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Go         4 hrs 33 mins  █████████████▋░░░░░░░  65.1%
+Markdown   1 hr 1 min     ███░░░░░░░░░░░░░░░░░░  14.7%
+YAML       33 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
+C++        20 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+Bash       9 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ Bash       9 mins         ▊░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/06/28/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82Go%E6%96%B9%E6%B3%95%E4%B8%AD%E7%9A%84%E5%80%BC%E6%8E%A5%E6%94%B6%E5%99%A8%E5%92%8C%E5%BC%95%E7%94%A8%E6%8E%A5%E6%94%B6%E5%99%A8/' target='_blank'>一文看懂Go方法中的值接收器和引用接收器</a> - 2021-06-28
 * <a href='https://jasonkayzk.github.io/2021/06/27/%E4%B8%80%E4%B8%AAGo%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%BB%88%E7%AB%AFPPT%E5%B1%95%E7%A4%BA%E5%BA%93%EF%BC%9Aslides/' target='_blank'>一个Go实现的终端PPT展示库：slides</a> - 2021-06-27
 * <a href='https://jasonkayzk.github.io/2021/06/27/%E8%BD%AF%E4%BB%B6%E5%8F%91%E5%B8%83%E7%89%88%E6%9C%ACAlpha%E3%80%81Beta%E3%80%81GA%E3%80%81RC%E7%AD%89%E5%90%AB%E4%B9%89%E6%80%BB%E7%BB%93/' target='_blank'>软件发布版本Alpha、Beta、GA、RC等含义总结</a> - 2021-06-27
 * <a href='https://jasonkayzk.github.io/2021/06/26/Linux%E4%B8%AD%E7%9A%84chroot%E5%91%BD%E4%BB%A4/' target='_blank'>Linux中的chroot命令</a> - 2021-06-26
 * <a href='https://jasonkayzk.github.io/2021/06/25/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%9B%98%EF%BC%9AFileBrowser/' target='_blank'>快速搭建属于你自己的网盘：FileBrowser</a> - 2021-06-25
-* <a href='https://jasonkayzk.github.io/2021/06/25/%E4%BD%BF%E7%94%A8Docker%E9%83%A8%E7%BD%B2%E5%8D%95%E8%8A%82%E7%82%B9Hadoop/' target='_blank'>使用Docker部署单节点Hadoop</a> - 2021-06-25
 <!-- blog ends -->
 
 </td>

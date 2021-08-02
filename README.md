@@ -78,9 +78,9 @@
 <!-- code_time starts -->
 
 ```text
-Go         42 hrs 53 mins ██████████████████▍░░  87.6%
-Protoco... 3 hrs 12 mins  █▍░░░░░░░░░░░░░░░░░░░   6.5%
-JSON       2 hrs 11 mins  ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+Go         41 hrs 12 mins ██████████████████▍░░  87.6%
+Protoco... 2 hrs 56 mins  █▎░░░░░░░░░░░░░░░░░░░   6.3%
+JSON       2 hrs 11 mins  ▉░░░░░░░░░░░░░░░░░░░░   4.7%
 Bash       17 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 SQL        14 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
@@ -93,11 +93,11 @@ SQL        14 mins        ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/08/01/WLB%E7%9C%8B%E4%BC%BC%E7%AE%80%E5%8D%95%EF%BC%8C%E5%85%B6%E5%AE%9E%E5%BE%88%E9%9A%BE%EF%BC%81/' target='_blank'>WLB看似简单，其实很难！</a> - 2021-08-01
 * <a href='https://jasonkayzk.github.io/2021/07/05/%E5%9C%A8Docker%E4%B8%AD%E4%BD%93%E9%AA%8CGo1-17%E4%B8%AD%E7%9A%84%E6%B3%9B%E5%9E%8B/' target='_blank'>在Docker中体验Go1.17中的泛型</a> - 2021-07-05
 * <a href='https://jasonkayzk.github.io/2021/07/03/%E6%B7%B1%E5%9C%B3%EF%BC%8C%E6%90%AC%E5%AE%B6%EF%BC%8C%E6%9D%82%E4%B9%B1/' target='_blank'>深圳，搬家，杂乱</a> - 2021-07-03
 * <a href='https://jasonkayzk.github.io/2021/06/28/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82Go%E6%96%B9%E6%B3%95%E4%B8%AD%E7%9A%84%E5%80%BC%E6%8E%A5%E6%94%B6%E5%99%A8%E5%92%8C%E5%BC%95%E7%94%A8%E6%8E%A5%E6%94%B6%E5%99%A8/' target='_blank'>一文看懂Go方法中的值接收器和引用接收器</a> - 2021-06-28
 * <a href='https://jasonkayzk.github.io/2021/06/27/%E4%B8%80%E4%B8%AAGo%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%BB%88%E7%AB%AFPPT%E5%B1%95%E7%A4%BA%E5%BA%93%EF%BC%9Aslides/' target='_blank'>一个Go实现的终端PPT展示库：slides</a> - 2021-06-27
-* <a href='https://jasonkayzk.github.io/2021/06/27/%E8%BD%AF%E4%BB%B6%E5%8F%91%E5%B8%83%E7%89%88%E6%9C%ACAlpha%E3%80%81Beta%E3%80%81GA%E3%80%81RC%E7%AD%89%E5%90%AB%E4%B9%89%E6%80%BB%E7%BB%93/' target='_blank'>软件发布版本Alpha、Beta、GA、RC等含义总结</a> - 2021-06-27
 <!-- blog ends -->
 
 </td>

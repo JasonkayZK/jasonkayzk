@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         38 hrs 34 mins ████████████████████▊  99.3%
+Go         38 hrs 34 mins ████████████████████▊  99.4%
 SQL        5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 YAML       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-C++        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+C++        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ JSON       1 min          ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/08/15/%E8%A7%A3%E5%86%B3Github%E7%AA%81%E7%84%B6%E4%B8%8D%E6%94%AF%E6%8C%81%E5%AF%86%E7%A0%81%E8%AE%BF%E9%97%AE%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决Github突然不支持密码访问的问题</a> - 2021-08-15
+* <a href='https://jasonkayzk.github.io/2021/08/15/BI%E5%B7%A5%E5%85%B7Redash%E4%BD%93%E9%AA%8C/' target='_blank'>BI工具Redash体验</a> - 2021-08-15
 * <a href='https://jasonkayzk.github.io/2021/08/01/WLB%E7%9C%8B%E4%BC%BC%E7%AE%80%E5%8D%95%EF%BC%8C%E5%85%B6%E5%AE%9E%E5%BE%88%E9%9A%BE%EF%BC%81/' target='_blank'>WLB看似简单，其实很难！</a> - 2021-08-01
 * <a href='https://jasonkayzk.github.io/2021/07/05/%E5%9C%A8Docker%E4%B8%AD%E4%BD%93%E9%AA%8CGo1-17%E4%B8%AD%E7%9A%84%E6%B3%9B%E5%9E%8B/' target='_blank'>在Docker中体验Go1.17中的泛型</a> - 2021-07-05
 * <a href='https://jasonkayzk.github.io/2021/07/03/%E6%B7%B1%E5%9C%B3%EF%BC%8C%E6%90%AC%E5%AE%B6%EF%BC%8C%E6%9D%82%E4%B9%B1/' target='_blank'>深圳，搬家，杂乱</a> - 2021-07-03
-* <a href='https://jasonkayzk.github.io/2021/06/28/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82Go%E6%96%B9%E6%B3%95%E4%B8%AD%E7%9A%84%E5%80%BC%E6%8E%A5%E6%94%B6%E5%99%A8%E5%92%8C%E5%BC%95%E7%94%A8%E6%8E%A5%E6%94%B6%E5%99%A8/' target='_blank'>一文看懂Go方法中的值接收器和引用接收器</a> - 2021-06-28
-* <a href='https://jasonkayzk.github.io/2021/06/27/%E4%B8%80%E4%B8%AAGo%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%BB%88%E7%AB%AFPPT%E5%B1%95%E7%A4%BA%E5%BA%93%EF%BC%9Aslides/' target='_blank'>一个Go实现的终端PPT展示库：slides</a> - 2021-06-27
 <!-- blog ends -->
 
 </td>

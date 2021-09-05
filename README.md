@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         31 hrs 16 mins █████████████████▌░░░  83.7%
-Bash       2 hrs 25 mins  █▎░░░░░░░░░░░░░░░░░░░   6.5%
-C++        1 hr 4 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-SQL        58 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Markdown   48 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Go         26 hrs 53 mins █████████████████▎░░░  82.5%
+Bash       1 hr 41 mins   █░░░░░░░░░░░░░░░░░░░░   5.2%
+C++        1 hr 36 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
+SQL        58 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Protoco... 36 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ Markdown   48 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/09/04/%E3%80%90%E5%88%86%E4%BA%AB%E3%80%91Epic-Game%E8%87%AA%E5%8A%A8%E9%A2%86%E5%8F%96Docker%E9%95%9C%E5%83%8F/' target='_blank'>【分享】Epic-Game自动领取Docker镜像</a> - 2021-09-04
 * <a href='https://jasonkayzk.github.io/2021/08/29/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-3%EF%BC%9AUnionFS/' target='_blank'>Docker原理实战-3：UnionFS</a> - 2021-08-29
 * <a href='https://jasonkayzk.github.io/2021/08/29/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-2%EF%BC%9ACgroups/' target='_blank'>Docker原理实战-2：Cgroups</a> - 2021-08-29
 * <a href='https://jasonkayzk.github.io/2021/08/29/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-1%EF%BC%9ANamespace/' target='_blank'>Docker原理实战-1：Namespace</a> - 2021-08-29
 * <a href='https://jasonkayzk.github.io/2021/08/21/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%95%9C%E5%83%8F-1/' target='_blank'>从零开始搭建大数据镜像-1</a> - 2021-08-21
-* <a href='https://jasonkayzk.github.io/2021/08/15/%E8%A7%A3%E5%86%B3Github%E7%AA%81%E7%84%B6%E4%B8%8D%E6%94%AF%E6%8C%81%E5%AF%86%E7%A0%81%E8%AE%BF%E9%97%AE%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决Github突然不支持密码访问的问题</a> - 2021-08-15
 <!-- blog ends -->
 
 </td>

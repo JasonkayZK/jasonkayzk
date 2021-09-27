@@ -78,11 +78,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         25 hrs 12 mins ██████████████████▊░░  89.7%
-C++        1 hr 11 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-Java       45 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-Bash       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-Protoco... 17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Go         29 hrs 40 mins ██████████████████▋░░  89.3%
+C++        1 hr 11 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+YAML       1 hr 1 min     ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Java       45 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Protoco... 17 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
 <!-- code_time ends -->
@@ -93,11 +93,11 @@ Protoco... 17 mins        ▏░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/09/26/%E5%9C%A8Golang%E5%8F%91%E7%94%9FPanic%E5%90%8E%E6%89%93%E5%8D%B0%E5%87%BA%E5%A0%86%E6%A0%88%E4%BF%A1%E6%81%AF/' target='_blank'>在Golang发生Panic后打印出堆栈信息</a> - 2021-09-26
 * <a href='https://jasonkayzk.github.io/2021/09/05/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-4%EF%BC%9A%E5%AE%B9%E5%99%A8Container/' target='_blank'>Docker原理实战-4：容器Container</a> - 2021-09-05
 * <a href='https://jasonkayzk.github.io/2021/09/04/%E3%80%90%E5%88%86%E4%BA%AB%E3%80%91Epic-Game%E8%87%AA%E5%8A%A8%E9%A2%86%E5%8F%96Docker%E9%95%9C%E5%83%8F/' target='_blank'>【分享】Epic-Game自动领取Docker镜像</a> - 2021-09-04
 * <a href='https://jasonkayzk.github.io/2021/08/29/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-3%EF%BC%9AUnionFS/' target='_blank'>Docker原理实战-3：UnionFS</a> - 2021-08-29
 * <a href='https://jasonkayzk.github.io/2021/08/29/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-2%EF%BC%9ACgroups/' target='_blank'>Docker原理实战-2：Cgroups</a> - 2021-08-29
-* <a href='https://jasonkayzk.github.io/2021/08/29/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-1%EF%BC%9ANamespace/' target='_blank'>Docker原理实战-1：Namespace</a> - 2021-08-29
 <!-- blog ends -->
 
 </td>

@@ -77,8 +77,8 @@
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: 271226192@qq.com
 - 😄 Pronouns: Jasonkay
-- ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
+- ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
 
 
 <table width="800px">

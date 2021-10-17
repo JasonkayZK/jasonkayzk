@@ -1,4 +1,5 @@
-### Hi there, I’m [JasonkayZK](https://jasonkayzk.github.io/) 👋 <a target="_blank" href=https://github.com/blueedgetechno><img src=https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social />&nbsp;</a>
+### Hi there, I’m [JasonkayZK](https://jasonkayzk.github.io/) 👋 
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
@@ -77,6 +78,7 @@
 - 📫 Reach me: 271226192@qq.com
 - 😄 Pronouns: Jasonkay
 - ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
+- 👏 Follow Me: <a target="_blank" href=https://github.com/jasonkayzk><img src=https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social /></a>
 
 
 <table width="800px">

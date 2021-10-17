@@ -4,6 +4,13 @@
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
 </p>
 
+
+<p align="center">
+<img width="500" src="https://metrics.lecoq.io/jasonkayzk?template=classic&repositories.forks=true&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%2011%25/" alt="Github Metrics"/>
+<br>
+</p>
+
+
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
@@ -70,12 +77,6 @@
 - 📫 Reach me: 271226192@qq.com
 - 😄 Pronouns: Jasonkay
 - ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
-
-
-<p align="center">
-<img width="500" src="https://metrics.lecoq.io/jasonkayzk?template=classic&repositories.forks=true&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%2011%25/" alt="Github Metrics"/>
-<br>
-</p>
 
 
 <table width="800px">

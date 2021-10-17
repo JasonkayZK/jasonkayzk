@@ -1,8 +1,16 @@
-### Hi there, I’m [JasonkayZK](https://jasonkayzk.github.io/) 👋
+### Hi there, I’m [JasonkayZK](https://jasonkayzk.github.io/) 👋 
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
 </p>
+
+
+<p align="center">
+<img width="500" src="https://metrics.lecoq.io/jasonkayzk?template=classic&repositories.forks=true&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%2011%25/" alt="Github Metrics"/>
+<br>
+</p>
+
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
@@ -32,6 +40,8 @@
 [![](https://img.shields.io/badge/Dart-003545?style=flat-square&logo=dart&logoColor=ffffff)](https://dart.dev/)
 [![](https://img.shields.io/badge/Lua-cb3837?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
 [![](https://img.shields.io/badge/Shell-f05032?style=flat-square&logo=powershell&logoColor=ffffff)](https://www.shell.com/)
+[![](https://img.shields.io/badge/C%23-43853d?style=flat-square&logo=CSharp&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
@@ -67,7 +77,9 @@
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: 271226192@qq.com
 - 😄 Pronouns: Jasonkay
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
 - ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
+
 
 <table width="800px">
 <tr>
@@ -106,20 +118,14 @@ Python     43 mins        ▊░░░░░░░░░░░░░░░░░
 </table>
 
 
-[![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/jasonkayzk/)
+|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
+
+
+![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
 
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
 </p>
-
-
-## My Fans ([999+](https://github.com/jasonkayzk?tab=followers))
-
-| ![erdaltsksn](https://avatars0.githubusercontent.com/u/22197800?s=80&v=4) | ![ysh-x](https://avatars3.githubusercontent.com/u/42147996?s=80&v=4) | ![Charcliu](https://avatars2.githubusercontent.com/u/23503649?s=80&v=4) | ![tristaZero](https://avatars2.githubusercontent.com/u/27757146?s=80&v=4) | ![BaseMax](https://avatars3.githubusercontent.com/u/2658040?s=80&v=4) | ![LouisYLWang](https://avatars3.githubusercontent.com/u/11455901?s=80&v=4) | ![ASJ-PAYIZ](https://avatars1.githubusercontent.com/u/48379266?s=80&v=4) | ![wangxiaoxiang5599](https://avatars2.githubusercontent.com/u/31461411?s=80&v=4) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|         [erdaltsksn](https://github.com/erdaltsksn)          |              [ysh-x](https://github.com/ysh-x)               |           [Charcliu](https://github.com/Charcliu)            |         [tristaZero](https://github.com/tristaZero)          |            [BaseMax](https://github.com/BaseMax)             |        [LouisYLWang](https://github.com/LouisYLWang)         |          [ASJ-PAYIZ](https://github.com/ASJ-PAYIZ)           |  [wangxiaoxiang5599](https://github.com/wangxiaoxiang5599)   |
-| ![Jason Lee](https://avatars1.githubusercontent.com/u/37927931?s=80&v=4) | ![HenryChen1](https://avatars3.githubusercontent.com/u/24852788?s=80&v=4) | ![vikfret](https://avatars3.githubusercontent.com/u/56179621?s=80&v=4) | ![Ruan YiFeng](https://avatars2.githubusercontent.com/u/905434?s=80&v=4) | ![Weighth](https://avatars3.githubusercontent.com/u/55311703?s=80&v=4) | ![rakzhodekams](https://avatars0.githubusercontent.com/u/16127381?s=80&v=4) | ![flashfoxter](https://avatars1.githubusercontent.com/u/2852886?s=80&v=4) | ![DuHouAn](https://avatars0.githubusercontent.com/u/33805265?s=80&v=4) |
-|       [hamidejafari](https://github.com/hamidejafari)        |         [HenryChen1](https://github.com/HenryChen1)          |            [vikfret](https://github.com/vikfret)             |           [Ruan YiFeng](https://github.com/ruanyf)           |            [Weighth](https://github.com/Weighth)             |       [rakzhodekams](https://github.com/rakzhodekams)        |        [flashfoxter](https://github.com/flashfoxter)         |            [DuHouAn](https://github.com/DuHouAn)             |
-

@@ -73,7 +73,7 @@
 
 
 <p align="center">
-<img width="500" src="https://metrics.lecoq.io/jasonkayzk?template=classic&followup=1&activity=1&lines=1&stars=1&stars.limit=4&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai/" alt="Github Metrics"/>
+<img width="500" src="https://metrics.lecoq.io/jasonkayzk?template=classic&repositories.forks=true&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%2011%25/" alt="Github Metrics"/>
 <br>
 </p>
 
@@ -117,8 +117,9 @@ Python     43 mins        ▊░░░░░░░░░░░░░░░░░
 
 [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/jasonkayzk/)
 
-|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github.com/jasonkayzk/)|
+|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
 

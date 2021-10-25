@@ -90,11 +90,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         24 hrs 33 mins ████████████████▊░░░░  80.3%
-Protoco... 2 hrs 28 mins  █▋░░░░░░░░░░░░░░░░░░░   8.1%
-Rust       1 hr 28 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
-C++        45 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-Java       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Go         28 hrs 44 mins █████████████████▏░░░  81.6%
+Protoco... 2 hrs 28 mins  █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Rust       2 hrs 2 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
+C++        36 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Java       33 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
 ```
 
 <!-- code_time ends -->
@@ -105,11 +105,11 @@ Java       33 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/10/22/%E6%8E%A7%E5%88%B6Goroutine%E6%95%B0%E9%87%8F%E7%9A%84%E6%96%B9%E6%B3%95/' target='_blank'>控制Goroutine数量的方法</a> - 2021-10-22
+* <a href='https://jasonkayzk.github.io/2021/10/20/Rust%E4%B8%AD%E7%9A%84PhantomType/' target='_blank'>Rust中的PhantomType</a> - 2021-10-20
 * <a href='https://jasonkayzk.github.io/2021/10/10/%E5%9C%A8Git%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%A2%9E%E5%8A%A0pre-commit%E6%A0%A1%E9%AA%8C/' target='_blank'>在Git项目中增加pre-commit校验</a> - 2021-10-10
 * <a href='https://jasonkayzk.github.io/2021/10/10/Rust%E5%AE%9E%E7%8E%B0WebAssembly%E5%88%9D%E7%AA%A5/' target='_blank'>Rust实现WebAssembly初窥</a> - 2021-10-10
 * <a href='https://jasonkayzk.github.io/2021/09/26/%E5%9C%A8Golang%E5%8F%91%E7%94%9FPanic%E5%90%8E%E6%89%93%E5%8D%B0%E5%87%BA%E5%A0%86%E6%A0%88%E4%BF%A1%E6%81%AF/' target='_blank'>在Golang发生Panic后打印出堆栈信息</a> - 2021-09-26
-* <a href='https://jasonkayzk.github.io/2021/09/05/Docker%E5%8E%9F%E7%90%86%E5%AE%9E%E6%88%98-4%EF%BC%9A%E5%AE%B9%E5%99%A8Container/' target='_blank'>Docker原理实战-4：容器Container</a> - 2021-09-05
-* <a href='https://jasonkayzk.github.io/2021/09/04/%E3%80%90%E5%88%86%E4%BA%AB%E3%80%91Epic-Game%E8%87%AA%E5%8A%A8%E9%A2%86%E5%8F%96Docker%E9%95%9C%E5%83%8F/' target='_blank'>【分享】Epic-Game自动领取Docker镜像</a> - 2021-09-04
 <!-- blog ends -->
 
 </td>

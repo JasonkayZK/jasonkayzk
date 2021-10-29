@@ -125,7 +125,9 @@ Protoco... 20 mins        ▏░░░░░░░░░░░░░░░░░
 ![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
 
 
-<a align="center" href="https://chat.getloli.com/room/@JasonkayZK?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@JasonkayZK/svg?width=600&height=280&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
+<p align="center">
+<a href="https://chat.getloli.com/room/@JasonkayZK?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@JasonkayZK/svg?width=600&height=280&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
+</p>
 
 
 <p align="center"> 

@@ -125,24 +125,7 @@ Protoco... 20 mins        ▏░░░░░░░░░░░░░░░░░
 ![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
 
 
-<a href="https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom"><img src="https://chat.getloli.com/room/@YJLAugus.github/svg?width=600&height=280&limit=20&theme=light&title=YJLAugus@github:%20~&fontSize=13" align="left"></a>
-
-
-<iframe id="chat-room"
-    style='position:inherit; top:0px; left:0px; width:600px; height:280px;'
-    frameborder='no'
-    scrolling='true'
-    src="https://baidu.com/">
-</iframe>
-
-
-<iframe id="File-Sharing"
-    title="File-Sharing"
-    style='position:inherit; top:0px; left:0px; width:100%; height:1280px; z-index:999'
-    frameborder='no'
-    scrolling='true'
-    src="https://www.laogoupan.com/n15005">
-</iframe>
+<a align="center" href="https://chat.getloli.com/room/@JasonkayZK?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@JasonkayZK/svg?width=600&height=280&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
 
 
 <p align="center"> 

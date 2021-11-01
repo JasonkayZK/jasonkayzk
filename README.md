@@ -90,11 +90,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         15 hrs 4 mins  ██████████▉░░░░░░░░░░  52.0%
-Rust       12 hrs 3 mins  ████████▋░░░░░░░░░░░░  41.6%
-Markdown   42 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-C++        30 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-Protoco... 19 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Rust       11 hrs 29 mins ████████▌░░░░░░░░░░░░  40.6%
+Go         11 hrs 22 mins ████████▍░░░░░░░░░░░░  40.1%
+Markdown   2 hrs 14 mins  █▋░░░░░░░░░░░░░░░░░░░   7.9%
+YAML       1 hr 25 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
+C++        33 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time ends -->
@@ -105,11 +105,11 @@ Protoco... 19 mins        ▏░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/10/31/%E4%BD%BF%E7%94%A8K8S%E9%83%A8%E7%BD%B2%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84Go%E5%BA%94%E7%94%A8/' target='_blank'>使用K8S部署最简单的Go应用</a> - 2021-10-31
 * <a href='https://jasonkayzk.github.io/2021/10/22/%E6%8E%A7%E5%88%B6Goroutine%E6%95%B0%E9%87%8F%E7%9A%84%E6%96%B9%E6%B3%95/' target='_blank'>控制Goroutine数量的方法</a> - 2021-10-22
 * <a href='https://jasonkayzk.github.io/2021/10/20/Rust%E4%B8%AD%E7%9A%84PhantomType/' target='_blank'>Rust中的PhantomType</a> - 2021-10-20
 * <a href='https://jasonkayzk.github.io/2021/10/10/%E5%9C%A8Git%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%A2%9E%E5%8A%A0pre-commit%E6%A0%A1%E9%AA%8C/' target='_blank'>在Git项目中增加pre-commit校验</a> - 2021-10-10
 * <a href='https://jasonkayzk.github.io/2021/10/10/Rust%E5%AE%9E%E7%8E%B0WebAssembly%E5%88%9D%E7%AA%A5/' target='_blank'>Rust实现WebAssembly初窥</a> - 2021-10-10
-* <a href='https://jasonkayzk.github.io/2021/09/26/%E5%9C%A8Golang%E5%8F%91%E7%94%9FPanic%E5%90%8E%E6%89%93%E5%8D%B0%E5%87%BA%E5%A0%86%E6%A0%88%E4%BF%A1%E6%81%AF/' target='_blank'>在Golang发生Panic后打印出堆栈信息</a> - 2021-09-26
 <!-- blog ends -->
 
 </td>

@@ -67,7 +67,11 @@
 [![](https://img.shields.io/badge/-Tensorflow-fcc624?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/-Keras-f05032?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![](https://img.shields.io/badge/-Istio-2496ED?style=flat-square&logo=istio&logoColor=white)](https://https://istio.io/)
+[![](https://img.shields.io/badge/-Grafana-f05032?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
+[![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
+
 
 
 - 🔭 I’m currently working in Tencent (Shenzhen, China).

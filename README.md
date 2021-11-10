@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         22 hrs 45 mins ████████████████░░░░░  76.7%
-YAML       3 hrs 49 mins  ██▋░░░░░░░░░░░░░░░░░░  12.9%
-SQL        1 hr 36 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
-Bash       27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Protoco... 25 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Go         18 hrs 41 mins ██████████████▍░░░░░░  68.8%
+YAML       3 hrs 18 mins  ██▌░░░░░░░░░░░░░░░░░░  12.2%
+SQL        2 hrs 16 mins  █▊░░░░░░░░░░░░░░░░░░░   8.3%
+Bash       1 hr 13 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+Markdown   43 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ Protoco... 25 mins        ▎░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2021/11/09/%E4%BD%BF%E7%94%A8C++%E8%A7%A3%E9%87%8A%E5%99%A8Cling/' target='_blank'>使用C++解释器Cling</a> - 2021-11-09
+* <a href='https://jasonkayzk.github.io/2021/11/09/%E5%AE%89%E8%A3%85JupyterLab/' target='_blank'>安装JupyterLab</a> - 2021-11-09
 * <a href='https://jasonkayzk.github.io/2021/10/31/%E4%BD%BF%E7%94%A8K8S%E9%83%A8%E7%BD%B2%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84Go%E5%BA%94%E7%94%A8/' target='_blank'>使用K8S部署最简单的Go应用</a> - 2021-10-31
 * <a href='https://jasonkayzk.github.io/2021/10/22/%E6%8E%A7%E5%88%B6Goroutine%E6%95%B0%E9%87%8F%E7%9A%84%E6%96%B9%E6%B3%95/' target='_blank'>控制Goroutine数量的方法</a> - 2021-10-22
 * <a href='https://jasonkayzk.github.io/2021/10/20/Rust%E4%B8%AD%E7%9A%84PhantomType/' target='_blank'>Rust中的PhantomType</a> - 2021-10-20
-* <a href='https://jasonkayzk.github.io/2021/10/10/%E5%9C%A8Git%E9%A1%B9%E7%9B%AE%E4%B8%AD%E5%A2%9E%E5%8A%A0pre-commit%E6%A0%A1%E9%AA%8C/' target='_blank'>在Git项目中增加pre-commit校验</a> - 2021-10-10
-* <a href='https://jasonkayzk.github.io/2021/10/10/Rust%E5%AE%9E%E7%8E%B0WebAssembly%E5%88%9D%E7%AA%A5/' target='_blank'>Rust实现WebAssembly初窥</a> - 2021-10-10
 <!-- blog ends -->
 
 </td>

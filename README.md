@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       10 hrs 4 mins  ████████▉░░░░░░░░░░░░  42.7%
-Go         7 hrs 6 mins   ██████▎░░░░░░░░░░░░░░  30.1%
-Markdown   3 hrs 10 mins  ██▊░░░░░░░░░░░░░░░░░░  13.4%
-Protoco... 1 hr 26 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
-JSON       1 hr 19 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Rust       8 hrs 38 mins  ████████▊░░░░░░░░░░░░  41.7%
+Go         7 hrs 6 mins   ███████▏░░░░░░░░░░░░░  34.3%
+Markdown   1 hr 43 mins   █▊░░░░░░░░░░░░░░░░░░░   8.3%
+Protoco... 1 hr 26 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
+JSON       1 hr 19 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
 ```
 
 <!-- code_time ends -->

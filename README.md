@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       3 hrs 24 mins  ███████████████████▎░  92.1%
-Go         10 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-Git Config 3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Markdown   1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-go.mod     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Rust       6 hrs 54 mins  █████████████████▉░░░  85.2%
+SQL        49 mins        ██░░░░░░░░░░░░░░░░░░░  10.1%
+Go         21 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+go.mod     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ go.mod     0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/02/11/%E4%B8%80%E4%BA%9B%E5%AD%A6%E4%B9%A0Rust%E7%9A%84%E6%80%BB%E7%BB%93/' target='_blank'>一些学习Rust的总结</a> - 2022-02-11
 * <a href='https://jasonkayzk.github.io/2021/11/09/%E4%BD%BF%E7%94%A8C++%E8%A7%A3%E9%87%8A%E5%99%A8Cling/' target='_blank'>使用C++解释器Cling</a> - 2021-11-09
 * <a href='https://jasonkayzk.github.io/2021/11/09/%E5%AE%89%E8%A3%85JupyterLab/' target='_blank'>安装JupyterLab</a> - 2021-11-09
 * <a href='https://jasonkayzk.github.io/2021/10/31/%E4%BD%BF%E7%94%A8K8S%E9%83%A8%E7%BD%B2%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84Go%E5%BA%94%E7%94%A8/' target='_blank'>使用K8S部署最简单的Go应用</a> - 2021-10-31
 * <a href='https://jasonkayzk.github.io/2021/10/22/%E6%8E%A7%E5%88%B6Goroutine%E6%95%B0%E9%87%8F%E7%9A%84%E6%96%B9%E6%B3%95/' target='_blank'>控制Goroutine数量的方法</a> - 2021-10-22
-* <a href='https://jasonkayzk.github.io/2021/10/20/Rust%E4%B8%AD%E7%9A%84PhantomType/' target='_blank'>Rust中的PhantomType</a> - 2021-10-20
 <!-- blog ends -->
 
 </td>

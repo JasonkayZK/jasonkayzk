@@ -122,7 +122,7 @@ Markdown   23 mins        ▏░░░░░░░░░░░░░░░░░
 </table>
 
 
-|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|[![jasonkay's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jasonkay&theme=Dark)](https://leetcode-cn.com/u/jasonkay/)|
+|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=Jasonkay&theme=dark&cn=true)](https://leetcode-cn.com/u/jasonkay/)|
 |-|-|
 
 

@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        15 hrs 23 mins ████████████▍░░░░░░░░  59.3%
-Go         8 hrs 1 min    ██████▍░░░░░░░░░░░░░░  30.9%
-ObjectiveC 1 hr 22 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
-CMake      21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Markdown   16 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+C++        15 hrs 23 mins ██████████████▊░░░░░░  70.6%
+Go         3 hrs 45 mins  ███▋░░░░░░░░░░░░░░░░░  17.3%
+ObjectiveC 1 hr 23 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
+CMake      30 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Markdown   28 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ Markdown   16 mins        ▏░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/05/04/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/' target='_blank'>五一假期的一些总结</a> - 2022-05-04
+* <a href='https://jasonkayzk.github.io/2022/05/04/C++%E5%BA%93%E4%B9%8Bfmt/' target='_blank'>C++库之fmt</a> - 2022-05-04
+* <a href='https://jasonkayzk.github.io/2022/05/03/What-is-object-slicing/' target='_blank'>What is object slicing?</a> - 2022-05-03
 * <a href='https://jasonkayzk.github.io/2022/04/30/A-method-to-add-string-literals-in-Cpp/' target='_blank'>A method to add string literals in C++</a> - 2022-04-30
 * <a href='https://jasonkayzk.github.io/2022/02/27/%E6%B7%B1%E5%85%A5%E6%8E%A2%E8%AE%A8MySQL%E6%9F%A5%E8%AF%A2%E6%97%B6%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%B0%BE%E9%83%A8%E5%AD%98%E5%9C%A8%E7%A9%BA%E6%A0%BC%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>深入探讨MySQL查询时字符串尾部存在空格的问题</a> - 2022-02-27
-* <a href='https://jasonkayzk.github.io/2022/02/20/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8/' target='_blank'>使用Rust实现一个双向链表</a> - 2022-02-20
-* <a href='https://jasonkayzk.github.io/2022/02/12/%E4%B8%80%E8%87%B4%E6%80%A7Hash%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93%E4%B8%8E%E5%BA%94%E7%94%A8/' target='_blank'>一致性Hash算法总结与应用</a> - 2022-02-12
-* <a href='https://jasonkayzk.github.io/2022/02/11/MySQL%E4%B8%80%E8%87%B4%E6%80%A7%E8%A7%86%E5%9B%BE%E7%9A%84%E5%9D%91/' target='_blank'>MySQL一致性视图的坑</a> - 2022-02-11
 <!-- blog ends -->
 
 </td>

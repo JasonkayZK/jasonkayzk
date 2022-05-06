@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        15 hrs 23 mins ██████████████▊░░░░░░  70.6%
-Go         3 hrs 45 mins  ███▋░░░░░░░░░░░░░░░░░  17.3%
-ObjectiveC 1 hr 23 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
-CMake      30 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Markdown   28 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+C++        13 hrs 21 mins ████████████▊░░░░░░░░  61.2%
+Go         2 hrs 41 mins  ██▌░░░░░░░░░░░░░░░░░░  12.3%
+ObjectiveC 1 hr 31 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
+CMake      1 hr 29 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+C          1 hr 11 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ Markdown   28 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/05/05/%E8%AE%BE%E7%BD%AEvcpkg%E9%BB%98%E8%AE%A4%E5%AE%89%E8%A3%8564%E4%BD%8D%E5%BA%93/' target='_blank'>设置vcpkg默认安装64位库</a> - 2022-05-05
 * <a href='https://jasonkayzk.github.io/2022/05/04/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/' target='_blank'>五一假期的一些总结</a> - 2022-05-04
 * <a href='https://jasonkayzk.github.io/2022/05/04/C++%E5%BA%93%E4%B9%8Bfmt/' target='_blank'>C++库之fmt</a> - 2022-05-04
 * <a href='https://jasonkayzk.github.io/2022/05/03/What-is-object-slicing/' target='_blank'>What is object slicing?</a> - 2022-05-03
 * <a href='https://jasonkayzk.github.io/2022/04/30/A-method-to-add-string-literals-in-Cpp/' target='_blank'>A method to add string literals in C++</a> - 2022-04-30
-* <a href='https://jasonkayzk.github.io/2022/02/27/%E6%B7%B1%E5%85%A5%E6%8E%A2%E8%AE%A8MySQL%E6%9F%A5%E8%AF%A2%E6%97%B6%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%B0%BE%E9%83%A8%E5%AD%98%E5%9C%A8%E7%A9%BA%E6%A0%BC%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>深入探讨MySQL查询时字符串尾部存在空格的问题</a> - 2022-02-27
 <!-- blog ends -->
 
 </td>

@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        5 hrs 16 mins  █████▌░░░░░░░░░░░░░░░  26.6%
-Go         4 hrs 8 mins   ████▍░░░░░░░░░░░░░░░░  20.8%
-C          3 hrs 34 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
-ObjectiveC 3 hrs 7 mins   ███▎░░░░░░░░░░░░░░░░░  15.7%
-CMake      1 hr 43 mins   █▊░░░░░░░░░░░░░░░░░░░   8.7%
+C++        7 hrs 4 mins   █████▋░░░░░░░░░░░░░░░  27.4%
+Go         5 hrs 28 mins  ████▍░░░░░░░░░░░░░░░░  21.1%
+ObjectiveC 4 hrs 56 mins  ████░░░░░░░░░░░░░░░░░  19.1%
+C          3 hrs 34 mins  ██▉░░░░░░░░░░░░░░░░░░  13.8%
+CMake      1 hr 57 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ CMake      1 hr 43 mins   █▊░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/05/08/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3C++%E4%B8%AD%E7%9A%84move%E5%92%8Cforward/' target='_blank'>深入理解C++中的move和forward</a> - 2022-05-08
 * <a href='https://jasonkayzk.github.io/2022/05/05/%E8%AE%BE%E7%BD%AEvcpkg%E9%BB%98%E8%AE%A4%E5%AE%89%E8%A3%8564%E4%BD%8D%E5%BA%93/' target='_blank'>设置vcpkg默认安装64位库</a> - 2022-05-05
 * <a href='https://jasonkayzk.github.io/2022/05/04/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/' target='_blank'>五一假期的一些总结</a> - 2022-05-04
 * <a href='https://jasonkayzk.github.io/2022/05/04/C++%E5%BA%93%E4%B9%8Bfmt/' target='_blank'>C++库之fmt</a> - 2022-05-04
 * <a href='https://jasonkayzk.github.io/2022/05/03/What-is-object-slicing/' target='_blank'>What is object slicing?</a> - 2022-05-03
-* <a href='https://jasonkayzk.github.io/2022/04/30/A-method-to-add-string-literals-in-Cpp/' target='_blank'>A method to add string literals in C++</a> - 2022-04-30
 <!-- blog ends -->
 
 </td>

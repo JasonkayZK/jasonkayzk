@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        7 hrs 4 mins   █████▋░░░░░░░░░░░░░░░  27.4%
-Go         5 hrs 28 mins  ████▍░░░░░░░░░░░░░░░░  21.1%
-ObjectiveC 4 hrs 56 mins  ████░░░░░░░░░░░░░░░░░  19.1%
-C          3 hrs 34 mins  ██▉░░░░░░░░░░░░░░░░░░  13.8%
-CMake      1 hr 57 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
+C++        8 hrs 37 mins  █████▊░░░░░░░░░░░░░░░  27.4%
+Go         7 hrs 16 mins  ████▊░░░░░░░░░░░░░░░░  23.1%
+ObjectiveC 5 hrs 23 mins  ███▌░░░░░░░░░░░░░░░░░  17.1%
+C          3 hrs 37 mins  ██▍░░░░░░░░░░░░░░░░░░  11.5%
+CMake      2 hrs 13 mins  █▍░░░░░░░░░░░░░░░░░░░   7.1%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ CMake      1 hr 57 mins   █▌░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/05/09/C++%E4%B8%AD%E4%BD%BF%E7%94%A8GoogleTest%E8%BF%9B%E8%A1%8C%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/' target='_blank'>C++中使用GoogleTest进行单元测试</a> - 2022-05-09
 * <a href='https://jasonkayzk.github.io/2022/05/08/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3C++%E4%B8%AD%E7%9A%84move%E5%92%8Cforward/' target='_blank'>深入理解C++中的move和forward</a> - 2022-05-08
 * <a href='https://jasonkayzk.github.io/2022/05/05/%E8%AE%BE%E7%BD%AEvcpkg%E9%BB%98%E8%AE%A4%E5%AE%89%E8%A3%8564%E4%BD%8D%E5%BA%93/' target='_blank'>设置vcpkg默认安装64位库</a> - 2022-05-05
 * <a href='https://jasonkayzk.github.io/2022/05/04/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/' target='_blank'>五一假期的一些总结</a> - 2022-05-04
 * <a href='https://jasonkayzk.github.io/2022/05/04/C++%E5%BA%93%E4%B9%8Bfmt/' target='_blank'>C++库之fmt</a> - 2022-05-04
-* <a href='https://jasonkayzk.github.io/2022/05/03/What-is-object-slicing/' target='_blank'>What is object slicing?</a> - 2022-05-03
 <!-- blog ends -->
 
 </td>

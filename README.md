@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         8 hrs 45 mins  █████▍░░░░░░░░░░░░░░░  25.8%
-C++        8 hrs 2 mins   ████▉░░░░░░░░░░░░░░░░  23.7%
-ObjectiveC 5 hrs 55 mins  ███▋░░░░░░░░░░░░░░░░░  17.4%
-C          3 hrs 37 mins  ██▏░░░░░░░░░░░░░░░░░░  10.7%
-CMake      2 hrs 18 mins  █▍░░░░░░░░░░░░░░░░░░░   6.8%
+C++        9 hrs 57 mins  █████▉░░░░░░░░░░░░░░░  28.5%
+Go         9 hrs 3 mins   █████▍░░░░░░░░░░░░░░░  25.9%
+ObjectiveC 7 hrs 20 mins  ████▍░░░░░░░░░░░░░░░░  21.0%
+C          2 hrs 27 mins  █▍░░░░░░░░░░░░░░░░░░░   7.0%
+CMake      1 hr 25 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ CMake      2 hrs 18 mins  █▍░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/05/11/C++%E7%BC%96%E8%AF%91%E5%99%A8%E4%BC%98%E5%8C%96%E4%B8%AD%E7%9A%84RVO%E5%92%8CNRVO/' target='_blank'>C++编译器优化中的RVO和NRVO</a> - 2022-05-11
+* <a href='https://jasonkayzk.github.io/2022/05/11/%E7%AE%A1%E7%90%86Git%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%9A%84%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF%E8%BF%BD%E8%B8%AA/' target='_blank'>管理Git在本地的远程分支追踪</a> - 2022-05-11
 * <a href='https://jasonkayzk.github.io/2022/05/09/C++%E4%B8%AD%E4%BD%BF%E7%94%A8GoogleTest%E8%BF%9B%E8%A1%8C%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/' target='_blank'>C++中使用GoogleTest进行单元测试</a> - 2022-05-09
 * <a href='https://jasonkayzk.github.io/2022/05/08/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3C++%E4%B8%AD%E7%9A%84move%E5%92%8Cforward/' target='_blank'>深入理解C++中的move和forward</a> - 2022-05-08
 * <a href='https://jasonkayzk.github.io/2022/05/05/%E8%AE%BE%E7%BD%AEvcpkg%E9%BB%98%E8%AE%A4%E5%AE%89%E8%A3%8564%E4%BD%8D%E5%BA%93/' target='_blank'>设置vcpkg默认安装64位库</a> - 2022-05-05
-* <a href='https://jasonkayzk.github.io/2022/05/04/%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/' target='_blank'>五一假期的一些总结</a> - 2022-05-04
-* <a href='https://jasonkayzk.github.io/2022/05/04/C++%E5%BA%93%E4%B9%8Bfmt/' target='_blank'>C++库之fmt</a> - 2022-05-04
 <!-- blog ends -->
 
 </td>

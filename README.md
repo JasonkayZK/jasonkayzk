@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         31 hrs 49 mins ██████████████▏░░░░░░  67.7%
-Protoco... 4 hrs 47 mins  ██▏░░░░░░░░░░░░░░░░░░  10.2%
-protobuf   3 hrs 24 mins  █▌░░░░░░░░░░░░░░░░░░░   7.2%
-SQL        2 hrs 59 mins  █▎░░░░░░░░░░░░░░░░░░░   6.3%
-ObjectiveC 1 hr 51 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Go         30 hrs 39 mins ███████████████▎░░░░░  72.9%
+Protoco... 2 hrs 49 mins  █▍░░░░░░░░░░░░░░░░░░░   6.7%
+protobuf   2 hrs 28 mins  █▏░░░░░░░░░░░░░░░░░░░   5.9%
+SQL        2 hrs 24 mins  █▏░░░░░░░░░░░░░░░░░░░   5.7%
+ObjectiveC 1 hr 10 mins   ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 ```
 
 <!-- code_time ends -->

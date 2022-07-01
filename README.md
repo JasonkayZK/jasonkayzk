@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         13 hrs 5 mins  ████████████████░░░░░  76.8%
-Markdown   1 hr 21 mins   █▋░░░░░░░░░░░░░░░░░░░   8.0%
-JSON       36 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-Text       19 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-protobuf   17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Go         12 hrs 5 mins  ████████████████▎░░░░  77.6%
+Markdown   1 hr 37 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
+JSON       34 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+Text       16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Java       15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time ends -->
@@ -110,10 +110,10 @@ protobuf   17 mins        ▎░░░░░░░░░░░░░░░░░
 
 <!-- blog starts -->
 * <a href='https://jasonkayzk.github.io/2022/06/22/ES%E4%BF%AE%E6%94%B9%E7%B4%A2%E5%BC%95%E7%BB%93%E6%9E%84/' target='_blank'>ES修改索引结构</a> - 2022-06-22
+* <a href='https://jasonkayzk.github.io/2022/06/14/ElasticSearch%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/' target='_blank'>ElasticSearch基本使用总结</a> - 2022-06-14
 * <a href='https://jasonkayzk.github.io/2022/06/03/%E6%B5%85%E8%B0%88%E5%8D%8F%E7%A8%8B/' target='_blank'>浅谈协程</a> - 2022-06-03
 * <a href='https://jasonkayzk.github.io/2022/06/01/%E6%B5%85%E8%B0%88%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8/' target='_blank'>浅谈函数调用</a> - 2022-06-01
 * <a href='https://jasonkayzk.github.io/2022/05/28/C++%E4%B8%BB%E6%B5%81%E7%BC%96%E8%AF%91%E5%99%A8%E6%80%BB%E7%BB%93/' target='_blank'>C++主流编译器总结</a> - 2022-05-28
-* <a href='https://jasonkayzk.github.io/2022/05/28/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%AF%91%E5%99%A8/' target='_blank'>分享一个在线编译器</a> - 2022-05-28
 <!-- blog ends -->
 
 </td>

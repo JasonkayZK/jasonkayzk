@@ -109,11 +109,11 @@ C++        1 hr 6 mins    ▊░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/08/08/%E6%8E%92%E6%9F%A5tcp%E8%BF%9E%E6%8E%A5%E6%95%B0%E4%B8%8D%E6%96%AD%E5%8D%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>排查tcp连接数不断升高的问题</a> - 2022-08-08
 * <a href='https://jasonkayzk.github.io/2022/08/07/some-new-thoughts/' target='_blank'>Some new thoughts</a> - 2022-08-07
 * <a href='https://jasonkayzk.github.io/2022/07/05/%E9%85%8D%E7%BD%AEClion%E4%B8%AD%E7%9A%84%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC/' target='_blank'>配置Clion中的代码风格</a> - 2022-07-05
 * <a href='https://jasonkayzk.github.io/2022/07/01/ELK%E8%AE%BE%E7%BD%AE%E5%AF%86%E7%A0%81/' target='_blank'>ELK设置密码</a> - 2022-07-01
 * <a href='https://jasonkayzk.github.io/2022/06/22/ES%E4%BF%AE%E6%94%B9%E7%B4%A2%E5%BC%95%E7%BB%93%E6%9E%84/' target='_blank'>ES修改索引结构</a> - 2022-06-22
-* <a href='https://jasonkayzk.github.io/2022/06/14/ElasticSearch%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/' target='_blank'>ElasticSearch基本使用总结</a> - 2022-06-14
 <!-- blog ends -->
 
 </td>

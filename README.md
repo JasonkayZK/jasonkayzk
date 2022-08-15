@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         7 hrs 17 mins  █████▎░░░░░░░░░░░░░░░  25.6%
+Go         7 hrs 17 mins  █████▍░░░░░░░░░░░░░░░  25.6%
 PHP        6 hrs 32 mins  ████▊░░░░░░░░░░░░░░░░  22.9%
-Rust       5 hrs 23 mins  ███▉░░░░░░░░░░░░░░░░░  18.9%
+Rust       6 hrs 18 mins  ████▋░░░░░░░░░░░░░░░░  22.1%
 Python     2 hrs 10 mins  █▌░░░░░░░░░░░░░░░░░░░   7.6%
-C++        1 hr 33 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
+C++        1 hr 10 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ C++        1 hr 33 mins   █▏░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/08/14/%E8%A7%A3%E5%86%B3Cargo%E4%B8%8B%E8%BD%BD%E8%BF%87%E6%85%A2%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决Cargo下载过慢的问题</a> - 2022-08-14
+* <a href='https://jasonkayzk.github.io/2022/08/14/centos7%E4%B8%AD%E4%BD%BF%E7%94%A8yum%E5%AE%89%E8%A3%85docker%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/' target='_blank'>centos7中使用yum安装docker报错解决方法</a> - 2022-08-14
 * <a href='https://jasonkayzk.github.io/2022/08/08/%E6%8E%92%E6%9F%A5tcp%E8%BF%9E%E6%8E%A5%E6%95%B0%E4%B8%8D%E6%96%AD%E5%8D%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>排查tcp连接数不断升高的问题</a> - 2022-08-08
 * <a href='https://jasonkayzk.github.io/2022/08/07/some-new-thoughts/' target='_blank'>Some new thoughts</a> - 2022-08-07
 * <a href='https://jasonkayzk.github.io/2022/07/05/%E9%85%8D%E7%BD%AEClion%E4%B8%AD%E7%9A%84%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC/' target='_blank'>配置Clion中的代码风格</a> - 2022-07-05
-* <a href='https://jasonkayzk.github.io/2022/07/01/ELK%E8%AE%BE%E7%BD%AE%E5%AF%86%E7%A0%81/' target='_blank'>ELK设置密码</a> - 2022-07-01
-* <a href='https://jasonkayzk.github.io/2022/06/22/ES%E4%BF%AE%E6%94%B9%E7%B4%A2%E5%BC%95%E7%BB%93%E6%9E%84/' target='_blank'>ES修改索引结构</a> - 2022-06-22
 <!-- blog ends -->
 
 </td>

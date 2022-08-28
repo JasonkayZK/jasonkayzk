@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         17 hrs 10 mins ███████████▌░░░░░░░░░  55.4%
-Rust       4 hrs 33 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
-ObjectiveC 1 hr 54 mins   █▎░░░░░░░░░░░░░░░░░░░   6.2%
-TypeScript 1 hr 49 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
-C++        1 hr 34 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
+Go         15 hrs 45 mins ███████████▎░░░░░░░░░  53.8%
+TypeScript 3 hrs 35 mins  ██▌░░░░░░░░░░░░░░░░░░  12.3%
+C++        2 hrs 6 mins   █▌░░░░░░░░░░░░░░░░░░░   7.2%
+ObjectiveC 2 hrs          █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Rust       1 hr 56 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
 ```
 
 <!-- code_time ends -->

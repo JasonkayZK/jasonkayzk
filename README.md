@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 11 hrs 12 mins ███████▌░░░░░░░░░░░░░  35.9%
-Go         9 hrs          ██████░░░░░░░░░░░░░░░  28.8%
-ObjectiveC 3 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░   9.8%
-JSON       2 hrs 38 mins  █▊░░░░░░░░░░░░░░░░░░░   8.4%
-C++        2 hrs 26 mins  █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Go         10 hrs 11 mins ███████▋░░░░░░░░░░░░░  36.8%
+TypeScript 6 hrs 51 mins  █████▏░░░░░░░░░░░░░░░  24.8%
+ObjectiveC 3 hrs 15 mins  ██▍░░░░░░░░░░░░░░░░░░  11.8%
+C++        2 hrs 33 mins  █▉░░░░░░░░░░░░░░░░░░░   9.2%
+JSON       2 hrs 22 mins  █▊░░░░░░░░░░░░░░░░░░░   8.6%
 ```
 
 <!-- code_time ends -->

@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         13 hrs 15 mins █████████▏░░░░░░░░░░░  43.5%
-ObjectiveC 6 hrs 6 mins   ████▏░░░░░░░░░░░░░░░░  20.0%
-C++        4 hrs 2 mins   ██▊░░░░░░░░░░░░░░░░░░  13.2%
-Markdown   1 hr 34 mins   █░░░░░░░░░░░░░░░░░░░░   5.2%
-JSON       1 hr 34 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
+Go         13 hrs 15 mins ████████▎░░░░░░░░░░░░  39.3%
+ObjectiveC 4 hrs 58 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
+SQL        4 hrs 45 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
+C++        3 hrs 35 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
+Markdown   1 hr 38 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
 ```
 
 <!-- code_time ends -->

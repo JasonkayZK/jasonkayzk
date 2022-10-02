@@ -46,6 +46,7 @@
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-framework/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-PostgreSQL-005571?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
@@ -75,11 +76,10 @@
 
 
 - 🔭 I’m currently working in Tencent (Shenzhen, China).
-- 🌱 I’m currently learning Java, Golang, Rust, JS & TS.
-- 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
+- 🌱 I’m currently learning Java, Golang, Rust, C++, JS & TS.
+- 👯 I’m looking to collaborate on Database developing, SaaS and so on…
 - 🤔 I’m looking for help with Golang or Java development.
-- 💬 Ask me about Anything you want~
-- 📫 Reach me: 271226192@qq.com
+- 📫 Reach me: jasonkayzk@gmail.com
 - 😄 Pronouns: Jasonkay
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
 - ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.

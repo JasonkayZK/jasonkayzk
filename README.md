@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         8 hrs 27 mins  ██████████░░░░░░░░░░░  47.7%
-ObjectiveC 2 hrs 40 mins  ███▏░░░░░░░░░░░░░░░░░  15.1%
-C++        1 hr 41 mins   ██░░░░░░░░░░░░░░░░░░░   9.5%
-CMake      1 hr 4 mins    █▎░░░░░░░░░░░░░░░░░░░   6.1%
-SQL        58 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Go         8 hrs 27 mins  █████████░░░░░░░░░░░░  43.2%
+ObjectiveC 2 hrs 40 mins  ██▊░░░░░░░░░░░░░░░░░░  13.6%
+Rust       2 hrs 7 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
+C++        1 hr 34 mins   █▋░░░░░░░░░░░░░░░░░░░   8.0%
+CMake      1 hr 4 mins    █▏░░░░░░░░░░░░░░░░░░░   5.5%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ SQL        58 mins        █▏░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/10/08/I-decided-to-build-my-next-open-source-project-by-Rust/' target='_blank'>我决定用 Rust 构建我的下一个开源项目</a> - 2022-10-08
+* <a href='https://jasonkayzk.github.io/2022/10/07/%E7%94%A8TypeScript%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AAMock-Protobuf%E7%9A%84%E5%B7%A5%E5%85%B7/' target='_blank'>用TypeScript写了一个Mock Protobuf的工具</a> - 2022-10-07
+* <a href='https://jasonkayzk.github.io/2022/10/07/%E8%BF%99%E4%B8%AA%E5%8D%81%E4%B8%80%E6%88%91%E5%81%9A%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%EF%BC%9F/' target='_blank'>这个十一我做了些什么？</a> - 2022-10-07
 * <a href='https://jasonkayzk.github.io/2022/09/02/%E5%8D%9A%E5%AE%A2%E4%B8%89%E5%91%A8%E5%B9%B4%EF%BC%8C%E6%9D%A5%E7%9C%8B%E7%9C%8B%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%95%B0%E6%8D%AE%E5%86%8D%E8%81%8A%E8%81%8A%E8%AE%BE%E8%AE%A1/' target='_blank'>博客三周年，来看看有意思的数据再聊聊设计</a> - 2022-09-02
 * <a href='https://jasonkayzk.github.io/2022/08/14/%E8%A7%A3%E5%86%B3Cargo%E4%B8%8B%E8%BD%BD%E8%BF%87%E6%85%A2%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决Cargo下载过慢的问题</a> - 2022-08-14
-* <a href='https://jasonkayzk.github.io/2022/08/14/centos7%E4%B8%AD%E4%BD%BF%E7%94%A8yum%E5%AE%89%E8%A3%85docker%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/' target='_blank'>centos7中使用yum安装docker报错解决方法</a> - 2022-08-14
-* <a href='https://jasonkayzk.github.io/2022/08/08/%E6%8E%92%E6%9F%A5tcp%E8%BF%9E%E6%8E%A5%E6%95%B0%E4%B8%8D%E6%96%AD%E5%8D%87%E9%AB%98%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>排查tcp连接数不断升高的问题</a> - 2022-08-08
-* <a href='https://jasonkayzk.github.io/2022/08/07/some-new-thoughts/' target='_blank'>Some new thoughts</a> - 2022-08-07
 <!-- blog ends -->
 
 </td>

@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         17 hrs 15 mins █████████████▎░░░░░░░  63.2%
-Rust       2 hrs 7 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
-ObjectiveC 1 hr 21 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
-C++        58 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
-protobuf   57 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Go         21 hrs 35 mins ██████████████▍░░░░░░  68.8%
+Rust       2 hrs 7 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+protobuf   1 hr 9 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+Protoco... 1 hr 3 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+ObjectiveC 52 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ protobuf   57 mins        ▋░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/10/08/mit-6-824-lab1-MapReduce%E6%80%BB%E7%BB%93/' target='_blank'>mit-6.824 lab1 MapReduce总结</a> - 2022-10-08
 * <a href='https://jasonkayzk.github.io/2022/10/08/I-decided-to-build-my-next-open-source-project-by-Rust/' target='_blank'>我决定用 Rust 构建我的下一个开源项目</a> - 2022-10-08
 * <a href='https://jasonkayzk.github.io/2022/10/07/%E7%94%A8TypeScript%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AAMock-Protobuf%E7%9A%84%E5%B7%A5%E5%85%B7/' target='_blank'>用TypeScript写了一个Mock Protobuf的工具</a> - 2022-10-07
 * <a href='https://jasonkayzk.github.io/2022/10/07/%E8%BF%99%E4%B8%AA%E5%8D%81%E4%B8%80%E6%88%91%E5%81%9A%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%EF%BC%9F/' target='_blank'>这个十一我做了些什么？</a> - 2022-10-07
 * <a href='https://jasonkayzk.github.io/2022/09/02/%E5%8D%9A%E5%AE%A2%E4%B8%89%E5%91%A8%E5%B9%B4%EF%BC%8C%E6%9D%A5%E7%9C%8B%E7%9C%8B%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%95%B0%E6%8D%AE%E5%86%8D%E8%81%8A%E8%81%8A%E8%AE%BE%E8%AE%A1/' target='_blank'>博客三周年，来看看有意思的数据再聊聊设计</a> - 2022-09-02
-* <a href='https://jasonkayzk.github.io/2022/08/14/%E8%A7%A3%E5%86%B3Cargo%E4%B8%8B%E8%BD%BD%E8%BF%87%E6%85%A2%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决Cargo下载过慢的问题</a> - 2022-08-14
 <!-- blog ends -->
 
 </td>

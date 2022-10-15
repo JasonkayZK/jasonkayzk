@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         25 hrs 12 mins ███████████████░░░░░░  71.5%
-Rust       2 hrs 7 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
-protobuf   1 hr 10 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Protoco... 1 hr 4 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.0%
-ObjectiveC 51 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+Go         24 hrs 29 mins ███████████████▎░░░░░  73.1%
+Rust       2 hrs 7 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
+protobuf   1 hr 11 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Protoco... 1 hr 4 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Text       50 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 
 <!-- code_time ends -->

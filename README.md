@@ -94,10 +94,10 @@
 <!-- code_time starts -->
 
 ```text
-Go         10 hrs 13 mins ████████████████▏░░░░  77.4%
-Text       1 hr 11 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
-Markdown   50 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
-Docker     30 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Go         9 hrs 58 mins  ████████████████░░░░░  76.6%
+Text       1 hr 11 mins   █▉░░░░░░░░░░░░░░░░░░░   9.2%
+Markdown   50 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Docker     30 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 YAML       11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
@@ -109,11 +109,11 @@ YAML       11 mins        ▎░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/10/23/10%E5%88%86%E9%92%9F%E6%90%9E%E6%87%82CAP%E7%90%86%E8%AE%BA%E7%AC%94%E8%AE%B0/' target='_blank'>10分钟搞懂CAP理论笔记</a> - 2022-10-23
 * <a href='https://jasonkayzk.github.io/2022/10/22/%E5%8D%95%E6%9C%BA%E9%83%A8%E7%BD%B2autok3s/' target='_blank'>单机部署autok3s</a> - 2022-10-22
 * <a href='https://jasonkayzk.github.io/2022/10/21/%E5%8D%95%E6%9C%BA%E9%83%A8%E7%BD%B2k3s/' target='_blank'>单机部署k3s</a> - 2022-10-21
 * <a href='https://jasonkayzk.github.io/2022/10/19/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7syncthing/' target='_blank'>跨平台文件同步工具syncthing</a> - 2022-10-19
 * <a href='https://jasonkayzk.github.io/2022/10/08/mit-6-824-lab1-MapReduce%E6%80%BB%E7%BB%93/' target='_blank'>mit-6.824 lab1 MapReduce总结</a> - 2022-10-08
-* <a href='https://jasonkayzk.github.io/2022/10/08/I-decided-to-build-my-next-open-source-project-by-Rust/' target='_blank'>我决定用 Rust 构建我的下一个开源项目</a> - 2022-10-08
 <!-- blog ends -->
 
 </td>

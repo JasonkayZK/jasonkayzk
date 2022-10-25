@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         9 hrs 58 mins  ████████████████░░░░░  76.6%
-Text       1 hr 11 mins   █▉░░░░░░░░░░░░░░░░░░░   9.2%
-Markdown   50 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
-Docker     30 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-YAML       11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Go         5 hrs 44 mins  █████████████▏░░░░░░░  63.0%
+Text       1 hr 20 mins   ███░░░░░░░░░░░░░░░░░░  14.8%
+Docker     38 mins        █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Markdown   35 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
+YAML       28 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ YAML       11 mins        ▎░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/10/25/%E5%9C%A8k3s%E9%9B%86%E7%BE%A4%E4%B8%8A%E9%83%A8%E7%BD%B2ClickHouse%E9%9B%86%E7%BE%A4/' target='_blank'>在k3s集群上部署ClickHouse集群</a> - 2022-10-25
+* <a href='https://jasonkayzk.github.io/2022/10/24/%E4%BD%BF%E7%94%A8Nginx%E4%BB%A3%E7%90%86TCP%E6%88%96UDP/' target='_blank'>使用Nginx代理TCP或UDP</a> - 2022-10-24
 * <a href='https://jasonkayzk.github.io/2022/10/23/10%E5%88%86%E9%92%9F%E6%90%9E%E6%87%82CAP%E7%90%86%E8%AE%BA%E7%AC%94%E8%AE%B0/' target='_blank'>10分钟搞懂CAP理论笔记</a> - 2022-10-23
 * <a href='https://jasonkayzk.github.io/2022/10/22/%E5%8D%95%E6%9C%BA%E9%83%A8%E7%BD%B2autok3s/' target='_blank'>单机部署autok3s</a> - 2022-10-22
 * <a href='https://jasonkayzk.github.io/2022/10/21/%E5%8D%95%E6%9C%BA%E9%83%A8%E7%BD%B2k3s/' target='_blank'>单机部署k3s</a> - 2022-10-21
-* <a href='https://jasonkayzk.github.io/2022/10/19/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7syncthing/' target='_blank'>跨平台文件同步工具syncthing</a> - 2022-10-19
-* <a href='https://jasonkayzk.github.io/2022/10/08/mit-6-824-lab1-MapReduce%E6%80%BB%E7%BB%93/' target='_blank'>mit-6.824 lab1 MapReduce总结</a> - 2022-10-08
 <!-- blog ends -->
 
 </td>

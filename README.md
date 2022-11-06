@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         12 hrs 47 mins █████████▎░░░░░░░░░░░  44.2%
-Rust       11 hrs 23 mins ████████▎░░░░░░░░░░░░  39.4%
-Markdown   1 hr 14 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Text       1 hr 2 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-SQL        36 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Rust       11 hrs 48 mins █████████▏░░░░░░░░░░░  44.0%
+Go         10 hrs 42 mins ████████▎░░░░░░░░░░░░  39.9%
+Markdown   1 hr 1 min     ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Text       58 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+SQL        36 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 
 <!-- code_time ends -->
@@ -110,10 +110,10 @@ SQL        36 mins        ▍░░░░░░░░░░░░░░░░░
 
 <!-- blog starts -->
 * <a href='https://jasonkayzk.github.io/2022/10/31/docker%E5%AE%89%E8%A3%85bytebase/' target='_blank'>Docker安装Bytebase</a> - 2022-10-31
+* <a href='https://jasonkayzk.github.io/2022/10/30/%E5%85%B1%E8%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E5%89%8D%E7%94%9F%E4%BB%8A%E4%B8%96%E6%80%BB%E7%BB%93/' target='_blank'>共识算法的前生今世总结</a> - 2022-10-30
 * <a href='https://jasonkayzk.github.io/2022/10/30/%E5%88%86%E4%BA%AB%E4%B8%A4%E7%AF%87%E5%85%B3%E4%BA%8E%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E5%86%99%E7%9A%84%E5%BE%88%E5%A5%BD%E7%9A%84%E6%96%87%E7%AB%A0/' target='_blank'>分享两篇关于函数式编程写的很好的文章</a> - 2022-10-30
 * <a href='https://jasonkayzk.github.io/2022/10/26/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91Go%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/' target='_blank'>【翻译】Go内存模型</a> - 2022-10-26
 * <a href='https://jasonkayzk.github.io/2022/10/25/%E5%9C%A8k3s%E9%9B%86%E7%BE%A4%E4%B8%8A%E9%83%A8%E7%BD%B2ClickHouse%E9%9B%86%E7%BE%A4/' target='_blank'>在k3s集群上部署ClickHouse集群</a> - 2022-10-25
-* <a href='https://jasonkayzk.github.io/2022/10/24/%E4%BD%BF%E7%94%A8Nginx%E4%BB%A3%E7%90%86TCP%E6%88%96UDP/' target='_blank'>使用Nginx代理TCP或UDP</a> - 2022-10-24
 <!-- blog ends -->
 
 </td>

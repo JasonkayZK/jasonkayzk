@@ -94,11 +94,11 @@
 <!-- code_time starts -->
 
 ```text
-Go         9 hrs 44 mins  ██████████▏░░░░░░░░░░  48.6%
-ObjectiveC 2 hrs 28 mins  ██▌░░░░░░░░░░░░░░░░░░  12.3%
-C++        2 hrs 20 mins  ██▍░░░░░░░░░░░░░░░░░░  11.7%
-Rust       1 hr 11 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
-YAML       1 hr 3 mins    █░░░░░░░░░░░░░░░░░░░░   5.2%
+Go         9 hrs 44 mins  █████████▍░░░░░░░░░░░  44.8%
+ObjectiveC 3 hrs 31 mins  ███▍░░░░░░░░░░░░░░░░░  16.2%
+C++        3 hrs 16 mins  ███▏░░░░░░░░░░░░░░░░░  15.1%
+YAML       1 hr 3 mins    █░░░░░░░░░░░░░░░░░░░░   4.8%
+Text       58 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 
 <!-- code_time ends -->
@@ -109,11 +109,11 @@ YAML       1 hr 3 mins    █░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/11/12/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E5%AD%A6%E4%B9%A0%E5%B9%B6%E9%83%A8%E7%BD%B2%E9%AB%98%E5%8F%AF%E7%94%A8Postgres%E7%9A%84%E7%BD%91%E7%AB%99CrunchyData/' target='_blank'>分享一个可以学习并部署高可用Postgres的网站CrunchyData</a> - 2022-11-12
+* <a href='https://jasonkayzk.github.io/2022/11/12/%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0C-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E8%B7%9F%E8%B8%AA/' target='_blank'>简单实现C++内存分配跟踪</a> - 2022-11-12
 * <a href='https://jasonkayzk.github.io/2022/11/05/BTree%E3%80%81B-Tree%E5%92%8CLSM-Tree%E5%B8%B8%E7%94%A8%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%80%BB%E7%BB%93/' target='_blank'>BTree、B+Tree和LSM-Tree常用存储引擎数据结构总结</a> - 2022-11-05
 * <a href='https://jasonkayzk.github.io/2022/10/31/docker%E5%AE%89%E8%A3%85bytebase/' target='_blank'>Docker安装Bytebase</a> - 2022-10-31
 * <a href='https://jasonkayzk.github.io/2022/10/30/%E5%85%B1%E8%AF%86%E7%AE%97%E6%B3%95%E7%9A%84%E5%89%8D%E7%94%9F%E4%BB%8A%E4%B8%96%E6%80%BB%E7%BB%93/' target='_blank'>共识算法的前生今世总结</a> - 2022-10-30
-* <a href='https://jasonkayzk.github.io/2022/10/30/%E5%88%86%E4%BA%AB%E4%B8%A4%E7%AF%87%E5%85%B3%E4%BA%8E%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E5%86%99%E7%9A%84%E5%BE%88%E5%A5%BD%E7%9A%84%E6%96%87%E7%AB%A0/' target='_blank'>分享两篇关于函数式编程写的很好的文章</a> - 2022-10-30
-* <a href='https://jasonkayzk.github.io/2022/10/26/%E3%80%90%E7%BF%BB%E8%AF%91%E3%80%91Go%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/' target='_blank'>【翻译】Go内存模型</a> - 2022-10-26
 <!-- blog ends -->
 
 </td>

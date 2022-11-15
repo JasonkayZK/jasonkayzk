@@ -75,10 +75,9 @@
 
 
 
-- 🔭 I’m currently working in Tencent (Shenzhen, China).
+- 🔭 I’m currently seeking opportunities in Shenzhen, China.
 - 🌱 I’m currently learning Java, Golang, Rust, C++, JS & TS.
-- 👯 I’m looking to collaborate on Database developing, SaaS and so on…
-- 🤔 I’m looking for help with Golang or Java development.
+- 👯 I’m looking to collaborate on database and cloud-native developing.
 - 📫 Reach me: jasonkayzk@gmail.com
 - 😄 Pronouns: Jasonkay
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)

@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        5 hrs 35 mins  ████████▊░░░░░░░░░░░░  42.0%
-ObjectiveC 4 hrs 27 mins  ███████░░░░░░░░░░░░░░  33.5%
-Go         2 hrs 23 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
-Text       20 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Markdown   12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+C++        5 hrs 2 mins   ████████▊░░░░░░░░░░░░  41.7%
+ObjectiveC 3 hrs 46 mins  ██████▌░░░░░░░░░░░░░░  31.1%
+Rust       1 hr 31 mins   ██▋░░░░░░░░░░░░░░░░░░  12.6%
+Go         41 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Markdown   33 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ Markdown   12 mins        ▎░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/11/17/%E4%B8%BACargo%E7%BC%96%E8%AF%91%E7%9A%84%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E5%A2%9E%E5%8A%A0commit%E7%89%88%E6%9C%AC%E5%8F%B7/' target='_blank'>为Cargo编译的可执行文件增加commit版本号</a> - 2022-11-17
+* <a href='https://jasonkayzk.github.io/2022/11/17/Rust%E4%BB%8Epanic%E4%B8%AD%E6%81%A2%E5%A4%8D/' target='_blank'>Rust从panic中恢复</a> - 2022-11-17
 * <a href='https://jasonkayzk.github.io/2022/11/13/%E8%AE%B0%E5%BD%95%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%81%E7%A7%BBDebian/' target='_blank'>记录服务器迁移Debian</a> - 2022-11-13
 * <a href='https://jasonkayzk.github.io/2022/11/12/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E5%AD%A6%E4%B9%A0%E5%B9%B6%E9%83%A8%E7%BD%B2%E9%AB%98%E5%8F%AF%E7%94%A8Postgres%E7%9A%84%E7%BD%91%E7%AB%99CrunchyData/' target='_blank'>分享一个可以学习并部署高可用Postgres的网站CrunchyData</a> - 2022-11-12
 * <a href='https://jasonkayzk.github.io/2022/11/12/%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0C-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E8%B7%9F%E8%B8%AA/' target='_blank'>简单实现C++内存分配跟踪</a> - 2022-11-12
-* <a href='https://jasonkayzk.github.io/2022/11/05/BTree%E3%80%81B-Tree%E5%92%8CLSM-Tree%E5%B8%B8%E7%94%A8%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%80%BB%E7%BB%93/' target='_blank'>BTree、B+Tree和LSM-Tree常用存储引擎数据结构总结</a> - 2022-11-05
-* <a href='https://jasonkayzk.github.io/2022/10/31/docker%E5%AE%89%E8%A3%85bytebase/' target='_blank'>Docker安装Bytebase</a> - 2022-10-31
 <!-- blog ends -->
 
 </td>

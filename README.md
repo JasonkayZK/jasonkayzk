@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       7 hrs 58 mins  ██████████▉░░░░░░░░░░  52.3%
-C++        3 hrs 22 mins  ████▋░░░░░░░░░░░░░░░░  22.2%
-ObjectiveC 1 hr 55 mins   ██▋░░░░░░░░░░░░░░░░░░  12.6%
-Markdown   1 hr 9 mins    █▌░░░░░░░░░░░░░░░░░░░   7.6%
-TOML       18 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Rust       7 hrs 58 mins  ███████████░░░░░░░░░░  52.9%
+C++        3 hrs 15 mins  ████▌░░░░░░░░░░░░░░░░  21.6%
+ObjectiveC 1 hr 52 mins   ██▌░░░░░░░░░░░░░░░░░░  12.4%
+Markdown   1 hr 9 mins    █▌░░░░░░░░░░░░░░░░░░░   7.7%
+TOML       18 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 ```
 
 <!-- code_time ends -->

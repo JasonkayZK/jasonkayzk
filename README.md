@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       9 hrs 22 mins  ████████████████▌░░░░  78.8%
-Markdown   1 hr 9 mins    ██░░░░░░░░░░░░░░░░░░░   9.8%
-C++        30 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-TOML       18 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-GitIgno... 16 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Rust       11 hrs 18 mins █████████████████▋░░░  84.2%
+Markdown   1 hr 16 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
+TOML       24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+GitIgno... 16 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+JSON       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ GitIgno... 16 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/11/23/Rust%E4%B8%AD%E7%9A%84%E6%AF%94%E8%BE%83/' target='_blank'>Rust中的比较</a> - 2022-11-23
+* <a href='https://jasonkayzk.github.io/2022/11/23/Cargo%E5%91%BD%E4%BB%A4%E5%8F%8A%E5%85%B6%E6%89%A9%E5%B1%95/' target='_blank'>Cargo命令及其扩展</a> - 2022-11-23
 * <a href='https://jasonkayzk.github.io/2022/11/19/Rust%E4%B8%AD%E7%9A%84%E9%BB%98%E8%AE%A4%E5%88%9D%E5%A7%8B%E5%8C%96%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96%E9%87%8D%E8%BD%BD/' target='_blank'>Rust中的默认初始化和初始化重载</a> - 2022-11-19
 * <a href='https://jasonkayzk.github.io/2022/11/19/Rust%E6%A8%A1%E5%9D%97%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/' target='_blank'>Rust模块组织结构</a> - 2022-11-19
 * <a href='https://jasonkayzk.github.io/2022/11/18/Rust%E4%B8%AD%E7%9A%84%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/' target='_blank'>Rust中的错误处理</a> - 2022-11-18
-* <a href='https://jasonkayzk.github.io/2022/11/17/%E4%B8%BACargo%E7%BC%96%E8%AF%91%E7%9A%84%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E5%A2%9E%E5%8A%A0commit%E7%89%88%E6%9C%AC%E5%8F%B7/' target='_blank'>为Cargo编译的可执行文件增加commit版本号</a> - 2022-11-17
-* <a href='https://jasonkayzk.github.io/2022/11/17/Rust%E4%BB%8Epanic%E4%B8%AD%E6%81%A2%E5%A4%8D/' target='_blank'>Rust从panic中恢复</a> - 2022-11-17
 <!-- blog ends -->
 
 </td>

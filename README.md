@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       12 hrs 33 mins █████████████████░░░░  81.4%
-Markdown   1 hr 6 mins    █▌░░░░░░░░░░░░░░░░░░░   7.2%
-TOML       1 hr           █▎░░░░░░░░░░░░░░░░░░░   6.5%
-Go         20 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-GitIgno... 17 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Rust       10 hrs 33 mins ████████████████░░░░░  76.4%
+Markdown   1 hr 5 mins    █▋░░░░░░░░░░░░░░░░░░░   7.9%
+TOML       1 hr 5 mins    █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Go         39 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+GitIgno... 18 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ GitIgno... 17 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/11/25/Rust%E5%8F%8D%E5%B0%84%E4%B9%8B%E8%BF%87%E7%A8%8B%E5%AE%8F/' target='_blank'>Rust反射之过程宏</a> - 2022-11-25
+* <a href='https://jasonkayzk.github.io/2022/11/24/Rust%E5%8F%8D%E5%B0%84%E4%B9%8BAny/' target='_blank'>Rust反射之Any</a> - 2022-11-24
 * <a href='https://jasonkayzk.github.io/2022/11/23/Rust%E4%B8%AD%E7%9A%84%E6%AF%94%E8%BE%83/' target='_blank'>Rust中的比较</a> - 2022-11-23
 * <a href='https://jasonkayzk.github.io/2022/11/23/Cargo%E5%91%BD%E4%BB%A4%E5%8F%8A%E5%85%B6%E6%89%A9%E5%B1%95/' target='_blank'>Cargo命令及其扩展</a> - 2022-11-23
 * <a href='https://jasonkayzk.github.io/2022/11/19/Rust%E4%B8%AD%E7%9A%84%E9%BB%98%E8%AE%A4%E5%88%9D%E5%A7%8B%E5%8C%96%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96%E9%87%8D%E8%BD%BD/' target='_blank'>Rust中的默认初始化和初始化重载</a> - 2022-11-19
-* <a href='https://jasonkayzk.github.io/2022/11/19/Rust%E6%A8%A1%E5%9D%97%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84/' target='_blank'>Rust模块组织结构</a> - 2022-11-19
-* <a href='https://jasonkayzk.github.io/2022/11/18/Rust%E4%B8%AD%E7%9A%84%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86/' target='_blank'>Rust中的错误处理</a> - 2022-11-18
 <!-- blog ends -->
 
 </td>

@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       9 hrs 46 mins  ████████████████▎░░░░  77.7%
-TOML       1 hr 3 mins    █▊░░░░░░░░░░░░░░░░░░░   8.3%
-Go         39 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
-Markdown   39 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
-GitIgno... 18 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Rust       12 hrs 1 min   ████████████████░░░░░  76.7%
+TOML       1 hr 37 mins   ██▏░░░░░░░░░░░░░░░░░░  10.3%
+Markdown   45 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+Go         39 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+GitIgno... 19 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ GitIgno... 18 mins        ▌░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/11/28/%E9%80%9A%E8%BF%87%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90%E5%AD%A6%E4%B9%A0Cargo-Features/' target='_blank'>通过一个例子学习Cargo Features</a> - 2022-11-28
+* <a href='https://jasonkayzk.github.io/2022/11/28/TOML%E5%AD%A6%E4%B9%A0/' target='_blank'>TOML学习</a> - 2022-11-28
 * <a href='https://jasonkayzk.github.io/2022/11/25/Rust%E5%8F%8D%E5%B0%84%E4%B9%8B%E8%BF%87%E7%A8%8B%E5%AE%8F/' target='_blank'>Rust反射之过程宏</a> - 2022-11-25
 * <a href='https://jasonkayzk.github.io/2022/11/24/Rust%E5%8F%8D%E5%B0%84%E4%B9%8BAny/' target='_blank'>Rust反射之Any</a> - 2022-11-24
 * <a href='https://jasonkayzk.github.io/2022/11/23/Rust%E4%B8%AD%E7%9A%84%E6%AF%94%E8%BE%83/' target='_blank'>Rust中的比较</a> - 2022-11-23
-* <a href='https://jasonkayzk.github.io/2022/11/23/Cargo%E5%91%BD%E4%BB%A4%E5%8F%8A%E5%85%B6%E6%89%A9%E5%B1%95/' target='_blank'>Cargo命令及其扩展</a> - 2022-11-23
-* <a href='https://jasonkayzk.github.io/2022/11/19/Rust%E4%B8%AD%E7%9A%84%E9%BB%98%E8%AE%A4%E5%88%9D%E5%A7%8B%E5%8C%96%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96%E9%87%8D%E8%BD%BD/' target='_blank'>Rust中的默认初始化和初始化重载</a> - 2022-11-19
 <!-- blog ends -->
 
 </td>

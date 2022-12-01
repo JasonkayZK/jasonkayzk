@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       16 hrs 42 mins █████████████████░░░░  81.5%
-TOML       1 hr 38 mins   █▋░░░░░░░░░░░░░░░░░░░   8.0%
-Markdown   1 hr 10 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Go         39 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-C++        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Rust       18 hrs 54 mins ████████████████▌░░░░  78.8%
+TOML       2 hrs 26 mins  ██▏░░░░░░░░░░░░░░░░░░  10.2%
+Markdown   1 hr 19 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Go         39 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+YAML       15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ C++        6 mins         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/11/30/Rust%E9%A1%B9%E7%9B%AE%E6%A8%A1%E7%89%88/' target='_blank'>Rust项目模版</a> - 2022-11-30
 * <a href='https://jasonkayzk.github.io/2022/11/29/Rust%E4%B8%ADFuture%E6%89%A7%E8%A1%8C%E5%BA%95%E5%B1%82%E6%8E%A2%E7%A7%98/' target='_blank'>Rust中Future执行底层探秘</a> - 2022-11-29
 * <a href='https://jasonkayzk.github.io/2022/11/28/%E9%80%9A%E8%BF%87%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90%E5%AD%A6%E4%B9%A0Cargo-Features/' target='_blank'>通过一个例子学习Cargo Features</a> - 2022-11-28
 * <a href='https://jasonkayzk.github.io/2022/11/28/TOML%E5%AD%A6%E4%B9%A0/' target='_blank'>TOML学习</a> - 2022-11-28
 * <a href='https://jasonkayzk.github.io/2022/11/25/Rust%E5%8F%8D%E5%B0%84%E4%B9%8B%E8%BF%87%E7%A8%8B%E5%AE%8F/' target='_blank'>Rust反射之过程宏</a> - 2022-11-25
-* <a href='https://jasonkayzk.github.io/2022/11/24/Rust%E5%8F%8D%E5%B0%84%E4%B9%8BAny/' target='_blank'>Rust反射之Any</a> - 2022-11-24
 <!-- blog ends -->
 
 </td>

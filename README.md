@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       32 hrs 48 mins ██████████████████▋░░  88.8%
-TOML       2 hrs 7 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Markdown   42 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-YAML       37 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-protobuf   10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Rust       30 hrs 9 mins  ███████████████████▏░  91.6%
+TOML       1 hr 14 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+YAML       31 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Markdown   28 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+protobuf   10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ protobuf   10 mins        ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/12/07/mini-redis%E9%A1%B9%E7%9B%AE-6-%E6%B5%8B%E8%AF%95%E4%B8%8E%E7%A4%BA%E4%BE%8B/' target='_blank'>mini-redis项目-6-测试与示例</a> - 2022-12-07
+* <a href='https://jasonkayzk.github.io/2022/12/07/mini-redis%E9%A1%B9%E7%9B%AE-5-%E5%AE%A2%E6%88%B7%E7%AB%AF/' target='_blank'>mini-redis项目-5-客户端</a> - 2022-12-07
 * <a href='https://jasonkayzk.github.io/2022/12/06/mini-redis%E9%A1%B9%E7%9B%AE-4-%E6%9C%8D%E5%8A%A1%E7%AB%AF/' target='_blank'>mini-redis项目-4-服务端</a> - 2022-12-06
 * <a href='https://jasonkayzk.github.io/2022/12/05/mini-redis%E9%A1%B9%E7%9B%AE-3-%E8%BF%9E%E6%8E%A5%E5%B1%82/' target='_blank'>mini-redis项目-3-连接层</a> - 2022-12-05
 * <a href='https://jasonkayzk.github.io/2022/12/05/mini-redis%E9%A1%B9%E7%9B%AE-2-%E5%AD%98%E5%82%A8%E5%B1%82/' target='_blank'>mini-redis项目-2-存储层</a> - 2022-12-05
-* <a href='https://jasonkayzk.github.io/2022/12/05/mini-redis%E9%A1%B9%E7%9B%AE-1-%E7%AE%80%E4%BB%8B/' target='_blank'>mini-redis项目-1-简介</a> - 2022-12-05
-* <a href='https://jasonkayzk.github.io/2022/12/03/Rust%E7%9A%84GRPC%E5%AE%9E%E7%8E%B0Tonic/' target='_blank'>Rust的GRPC实现Tonic</a> - 2022-12-03
 <!-- blog ends -->
 
 </td>

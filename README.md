@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       18 hrs 38 mins ██████████████▍░░░░░░  68.9%
-C++        2 hrs 58 mins  ██▎░░░░░░░░░░░░░░░░░░  11.0%
-ObjectiveC 2 hrs 21 mins  █▊░░░░░░░░░░░░░░░░░░░   8.7%
-TOML       43 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-CMake      32 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Rust       15 hrs 41 mins ██████████████▎░░░░░░  68.0%
+C++        3 hrs 9 mins   ██▊░░░░░░░░░░░░░░░░░░  13.7%
+ObjectiveC 2 hrs 21 mins  ██▏░░░░░░░░░░░░░░░░░░  10.2%
+CMake      32 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+C          28 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ CMake      32 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/12/09/LevelDB%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B/' target='_blank'>LevelDB使用示例</a> - 2022-12-09
 * <a href='https://jasonkayzk.github.io/2022/12/07/mini-redis%E9%A1%B9%E7%9B%AE-6-%E6%B5%8B%E8%AF%95%E4%B8%8E%E7%A4%BA%E4%BE%8B/' target='_blank'>mini-redis项目-6-测试与示例</a> - 2022-12-07
 * <a href='https://jasonkayzk.github.io/2022/12/07/mini-redis%E9%A1%B9%E7%9B%AE-5-%E5%AE%A2%E6%88%B7%E7%AB%AF/' target='_blank'>mini-redis项目-5-客户端</a> - 2022-12-07
 * <a href='https://jasonkayzk.github.io/2022/12/06/mini-redis%E9%A1%B9%E7%9B%AE-4-%E6%9C%8D%E5%8A%A1%E7%AB%AF/' target='_blank'>mini-redis项目-4-服务端</a> - 2022-12-06
 * <a href='https://jasonkayzk.github.io/2022/12/05/mini-redis%E9%A1%B9%E7%9B%AE-3-%E8%BF%9E%E6%8E%A5%E5%B1%82/' target='_blank'>mini-redis项目-3-连接层</a> - 2022-12-05
-* <a href='https://jasonkayzk.github.io/2022/12/05/mini-redis%E9%A1%B9%E7%9B%AE-2-%E5%AD%98%E5%82%A8%E5%B1%82/' target='_blank'>mini-redis项目-2-存储层</a> - 2022-12-05
 <!-- blog ends -->
 
 </td>

@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       19 hrs 44 mins ████████████████████░  95.6%
-TOML       37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
-Markdown   15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-ObjectiveC 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Rust       15 hrs 1 min   ███████████████████▍░  92.6%
+Markdown   29 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+TOML       22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+textmate   14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Text       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/12/21/%E3%80%90%E8%BD%AC%E3%80%91%E4%BD%BF%E7%94%A8telnet%E6%B5%8B%E8%AF%95%E7%AB%AF%E5%8F%A3%E8%BF%9E%E9%80%9A%E6%80%A7/' target='_blank'>【转】使用telnet测试端口连通性</a> - 2022-12-21
+* <a href='https://jasonkayzk.github.io/2022/12/21/JuiceFS%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/' target='_blank'>JuiceFS使用总结</a> - 2022-12-21
 * <a href='https://jasonkayzk.github.io/2022/12/20/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E8%B7%B3%E8%A1%A8LruCache/' target='_blank'>使用Rust实现跳表LruCache</a> - 2022-12-20
 * <a href='https://jasonkayzk.github.io/2022/12/16/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E8%B7%B3%E8%A1%A8Skiplist/' target='_blank'>使用Rust实现跳表Skiplist</a> - 2022-12-16
 * <a href='https://jasonkayzk.github.io/2022/12/16/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8BloomFilter/' target='_blank'>使用Rust实现布隆过滤器BloomFilter</a> - 2022-12-16
-* <a href='https://jasonkayzk.github.io/2022/12/09/LevelDB%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B/' target='_blank'>LevelDB使用示例</a> - 2022-12-09
-* <a href='https://jasonkayzk.github.io/2022/12/07/mini-redis%E9%A1%B9%E7%9B%AE-6-%E6%B5%8B%E8%AF%95%E4%B8%8E%E7%A4%BA%E4%BE%8B/' target='_blank'>mini-redis项目-6-测试与示例</a> - 2022-12-07
 <!-- blog ends -->
 
 </td>

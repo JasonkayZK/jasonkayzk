@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       15 hrs 1 min   ███████████████████▍░  92.6%
-Markdown   29 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
-TOML       22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-textmate   14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Text       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Rust       10 hrs 30 mins ██████████████████▎░░  87.4%
+Markdown   32 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+TOML       24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+textmate   14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+SVG        9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ Text       2 mins         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2022/12/22/%E5%B0%86%E5%9B%BE%E7%89%87%E8%BD%AC%E4%B8%BA%E5%AD%97%E7%AC%A6%E5%9B%BE%E7%89%87%E7%9A%84Rust%E5%AE%9E%E7%8E%B0/' target='_blank'>将图片转为字符图片的Rust实现</a> - 2022-12-22
 * <a href='https://jasonkayzk.github.io/2022/12/21/%E3%80%90%E8%BD%AC%E3%80%91%E4%BD%BF%E7%94%A8telnet%E6%B5%8B%E8%AF%95%E7%AB%AF%E5%8F%A3%E8%BF%9E%E9%80%9A%E6%80%A7/' target='_blank'>【转】使用telnet测试端口连通性</a> - 2022-12-21
 * <a href='https://jasonkayzk.github.io/2022/12/21/JuiceFS%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/' target='_blank'>JuiceFS使用总结</a> - 2022-12-21
 * <a href='https://jasonkayzk.github.io/2022/12/20/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E8%B7%B3%E8%A1%A8LruCache/' target='_blank'>使用Rust实现跳表LruCache</a> - 2022-12-20
 * <a href='https://jasonkayzk.github.io/2022/12/16/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E8%B7%B3%E8%A1%A8Skiplist/' target='_blank'>使用Rust实现跳表Skiplist</a> - 2022-12-16
-* <a href='https://jasonkayzk.github.io/2022/12/16/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8BloomFilter/' target='_blank'>使用Rust实现布隆过滤器BloomFilter</a> - 2022-12-16
 <!-- blog ends -->
 
 </td>

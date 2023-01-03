@@ -104,11 +104,11 @@ Bash       0 secs         ██████████████████
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/01/02/memos%E9%83%A8%E7%BD%B2%E6%80%BB%E7%BB%93/' target='_blank'>memos部署总结</a> - 2023-01-02
+* <a href='https://jasonkayzk.github.io/2023/01/02/%E9%98%B3%E4%BA%86%E4%B9%8B%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97%E4%BB%A5%E5%8F%8A%E6%96%B0%E7%9A%84%E7%94%9F%E6%B4%BB/' target='_blank'>阳了之后的感受以及新的生活</a> - 2023-01-02
 * <a href='https://jasonkayzk.github.io/2022/12/22/%E5%B0%86%E5%9B%BE%E7%89%87%E8%BD%AC%E4%B8%BA%E5%AD%97%E7%AC%A6%E5%9B%BE%E7%89%87%E7%9A%84Rust%E5%AE%9E%E7%8E%B0/' target='_blank'>将图片转为字符图片的Rust实现</a> - 2022-12-22
 * <a href='https://jasonkayzk.github.io/2022/12/21/%E3%80%90%E8%BD%AC%E3%80%91%E4%BD%BF%E7%94%A8telnet%E6%B5%8B%E8%AF%95%E7%AB%AF%E5%8F%A3%E8%BF%9E%E9%80%9A%E6%80%A7/' target='_blank'>【转】使用telnet测试端口连通性</a> - 2022-12-21
 * <a href='https://jasonkayzk.github.io/2022/12/21/JuiceFS%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/' target='_blank'>JuiceFS使用总结</a> - 2022-12-21
-* <a href='https://jasonkayzk.github.io/2022/12/20/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E8%B7%B3%E8%A1%A8LruCache/' target='_blank'>使用Rust实现跳表LruCache</a> - 2022-12-20
-* <a href='https://jasonkayzk.github.io/2022/12/16/%E4%BD%BF%E7%94%A8Rust%E5%AE%9E%E7%8E%B0%E8%B7%B3%E8%A1%A8Skiplist/' target='_blank'>使用Rust实现跳表Skiplist</a> - 2022-12-16
 <!-- blog ends -->
 
 </td>

@@ -93,8 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-Other      3 mins         ███████████████████░░  90.9%
-Markdown   0 secs         █▉░░░░░░░░░░░░░░░░░░░   9.1%
+Java       54 mins        ██████████████████▊░░  89.6%
+Markdown   4 mins         █▍░░░░░░░░░░░░░░░░░░░   6.8%
+XML        2 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.6%
 ```
 
 <!-- code_time ends -->

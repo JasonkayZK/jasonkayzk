@@ -108,11 +108,11 @@ Properties 0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/02/26/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%BA%9B%E5%8F%B0%E5%BC%8F%E6%9C%BA%E5%85%B1%E4%BA%AB%E9%9F%B3%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6/' target='_blank'>推荐一些台式机共享音视频的软件</a> - 2023-02-26
 * <a href='https://jasonkayzk.github.io/2023/02/20/%E8%A7%A3%E5%86%B3Ubuntu%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E6%97%A0%E6%B3%95%E8%BE%93%E5%85%A5%E4%B8%AD%E6%96%87%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决Ubuntu搜狗输入法无法输入中文的问题</a> - 2023-02-20
 * <a href='https://jasonkayzk.github.io/2023/01/15/%E5%85%B3%E4%BA%8E%E8%BD%AF%E8%80%83%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/' target='_blank'>关于软考的一些总结</a> - 2023-01-15
 * <a href='https://jasonkayzk.github.io/2023/01/14/%E5%85%A8%E8%BA%AB%E7%96%BC%E7%97%9B%E3%80%81%E5%8D%9A%E5%AE%A2%E5%8F%88%E5%81%9C%E6%9B%B4/' target='_blank'>全身疼痛、博客又停更</a> - 2023-01-14
 * <a href='https://jasonkayzk.github.io/2023/01/02/memos%E9%83%A8%E7%BD%B2%E6%80%BB%E7%BB%93/' target='_blank'>memos部署总结</a> - 2023-01-02
-* <a href='https://jasonkayzk.github.io/2023/01/02/%E9%98%B3%E4%BA%86%E4%B9%8B%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97%E4%BB%A5%E5%8F%8A%E6%96%B0%E7%9A%84%E7%94%9F%E6%B4%BB/' target='_blank'>阳了之后的感受以及新的生活</a> - 2023-01-02
 <!-- blog ends -->
 
 </td>

@@ -93,11 +93,7 @@
 <!-- code_time starts -->
 
 ```text
-Java       6 hrs 39 mins  ████████████████████▎  96.5%
-XML        9 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-GitIgno... 3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-Shell S... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Java       3 hrs 11 mins  █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

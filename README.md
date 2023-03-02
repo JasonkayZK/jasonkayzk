@@ -93,7 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-Java       3 hrs 11 mins  █████████████████████ 100.0%
+Java       2 hrs 45 mins  ███████████████████▎░  91.8%
+Ruby       14 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
+Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->

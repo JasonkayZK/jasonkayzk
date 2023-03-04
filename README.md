@@ -27,7 +27,7 @@
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Golang-f05032?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-[![https://img.shields.io/badge/-Ruby-2496ED?style=flat-square&logo=ruby&logoColor=ffffff](https://www.ruby-lang.org/)]()
+[![](https://img.shields.io/badge/-Ruby-2496ED?style=flat-square&logo=ruby&logoColor=ffffff)](https://www.ruby-lang.org/)
 [![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Rust-003545?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)

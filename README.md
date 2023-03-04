@@ -27,6 +27,7 @@
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Golang-f05032?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![https://img.shields.io/badge/-Ruby-2496ED?style=flat-square&logo=ruby&logoColor=ffffff](https://www.ruby-lang.org/)]()
 [![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Rust-003545?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -55,6 +56,7 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Kubenetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/-Rails-cb3837?style=flat-square&logo=rubyonrails&logoColor=ffffff)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![](https://img.shields.io/badge/-Flutter-007396?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)

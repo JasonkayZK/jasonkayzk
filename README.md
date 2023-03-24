@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Java       5 hrs 17 mins  ██████████▏░░░░░░░░░░  48.2%
-XML        2 hrs 58 mins  █████▋░░░░░░░░░░░░░░░  27.1%
-Markdown   1 hr 8 mins    ██▏░░░░░░░░░░░░░░░░░░  10.4%
-YAML       31 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-Bash       21 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Java       6 hrs 8 mins   ██████████▏░░░░░░░░░░  48.4%
+XML        3 hrs 19 mins  █████▌░░░░░░░░░░░░░░░  26.2%
+Markdown   1 hr 16 mins   ██░░░░░░░░░░░░░░░░░░░  10.1%
+YAML       33 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Properties 24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ Bash       21 mins        ▋░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/03/23/Dubbo%E7%9A%84%E5%87%A0%E7%A7%8D%E9%85%8D%E7%BD%AE%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/' target='_blank'>Dubbo的几种配置方式总结</a> - 2023-03-23
 * <a href='https://jasonkayzk.github.io/2023/03/20/GraalVM%E4%BD%BF%E7%94%A8%E5%88%9D%E4%BD%93%E9%AA%8C/' target='_blank'>GraalVM使用初体验</a> - 2023-03-20
 * <a href='https://jasonkayzk.github.io/2023/03/20/%E4%BD%BF%E7%94%A8Java%E7%BC%96%E5%86%99Cli%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/' target='_blank'>使用Java编写Cli命令行工具</a> - 2023-03-20
 * <a href='https://jasonkayzk.github.io/2023/03/17/M1%E8%8A%AF%E7%89%87%E7%9A%84Mac%E4%BD%BF%E7%94%A8Colima%E8%BF%90%E8%A1%8CDocker/' target='_blank'>M1芯片的Mac使用Colima运行Docker</a> - 2023-03-17
 * <a href='https://jasonkayzk.github.io/2023/03/04/%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AErbenv%E4%B8%8ERuby/' target='_blank'>安装和配置rbenv与Ruby</a> - 2023-03-04
-* <a href='https://jasonkayzk.github.io/2023/02/26/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%BA%9B%E5%8F%B0%E5%BC%8F%E6%9C%BA%E5%85%B1%E4%BA%AB%E9%9F%B3%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6/' target='_blank'>推荐一些台式机共享音视频的软件</a> - 2023-02-26
 <!-- blog ends -->
 
 </td>

@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Java       6 hrs 56 mins  ██████████▊░░░░░░░░░░  51.4%
-XML        3 hrs 21 mins  █████▏░░░░░░░░░░░░░░░  24.8%
-Markdown   1 hr 16 mins   █▉░░░░░░░░░░░░░░░░░░░   9.5%
-YAML       33 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-Properties 24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Java       5 hrs 32 mins  ██████████▏░░░░░░░░░░  48.8%
+XML        3 hrs 7 mins   █████▊░░░░░░░░░░░░░░░  27.5%
+Markdown   50 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
+YAML       33 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+Properties 24 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
 ```
 
 <!-- code_time ends -->

@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Java       5 hrs 32 mins  ██████████▏░░░░░░░░░░  48.8%
-XML        3 hrs 7 mins   █████▊░░░░░░░░░░░░░░░  27.5%
-Markdown   50 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
-YAML       33 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
-Properties 24 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Java       5 hrs 50 mins  █████████░░░░░░░░░░░░  43.3%
+XML        3 hrs 1 min    ████▋░░░░░░░░░░░░░░░░  22.5%
+YAML       1 hr 34 mins   ██▍░░░░░░░░░░░░░░░░░░  11.7%
+Markdown   1 hr 6 mins    █▋░░░░░░░░░░░░░░░░░░░   8.3%
+Properties 36 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ Properties 24 mins        ▊░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/03/26/Java%E8%AE%A2%E9%98%85Binlog%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/' target='_blank'>Java订阅Binlog的几种方式</a> - 2023-03-26
 * <a href='https://jasonkayzk.github.io/2023/03/23/Dubbo%E7%9A%84%E5%87%A0%E7%A7%8D%E9%85%8D%E7%BD%AE%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/' target='_blank'>Dubbo的几种配置方式总结</a> - 2023-03-23
 * <a href='https://jasonkayzk.github.io/2023/03/20/GraalVM%E4%BD%BF%E7%94%A8%E5%88%9D%E4%BD%93%E9%AA%8C/' target='_blank'>GraalVM使用初体验</a> - 2023-03-20
 * <a href='https://jasonkayzk.github.io/2023/03/20/%E4%BD%BF%E7%94%A8Java%E7%BC%96%E5%86%99Cli%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/' target='_blank'>使用Java编写Cli命令行工具</a> - 2023-03-20
 * <a href='https://jasonkayzk.github.io/2023/03/17/M1%E8%8A%AF%E7%89%87%E7%9A%84Mac%E4%BD%BF%E7%94%A8Colima%E8%BF%90%E8%A1%8CDocker/' target='_blank'>M1芯片的Mac使用Colima运行Docker</a> - 2023-03-17
-* <a href='https://jasonkayzk.github.io/2023/03/04/%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AErbenv%E4%B8%8ERuby/' target='_blank'>安装和配置rbenv与Ruby</a> - 2023-03-04
 <!-- blog ends -->
 
 </td>

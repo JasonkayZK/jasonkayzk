@@ -75,7 +75,7 @@
 
 
 
-- 🔭 I’m currently seeking opportunities in Shenzhen, China.
+- 🔭 I’m currently working in Fuzhou, China.
 - 🌱 I’m currently learning Java, Golang, Rust, C++, JS & TS.
 - 👯 I’m looking to collaborate on database and cloud-native developing.
 - 📫 Reach me: jasonkayzk@gmail.com

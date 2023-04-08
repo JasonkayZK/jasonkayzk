@@ -93,11 +93,7 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   2 mins         ██████▉░░░░░░░░░░░░░░  32.9%
-JSON       2 mins         ██████▉░░░░░░░░░░░░░░  32.8%
-Rust       1 min          ████▉░░░░░░░░░░░░░░░░  23.8%
-JavaScript 0 secs         █▉░░░░░░░░░░░░░░░░░░░   9.2%
-Git Config 0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+YAML       0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

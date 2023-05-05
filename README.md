@@ -93,8 +93,7 @@
 <!-- code_time starts -->
 
 ```text
-YAML       8 mins         ████████████████████▎  96.7%
-INI        0 secs         ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Markdown   0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

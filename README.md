@@ -93,7 +93,10 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   0 secs         █████████████████████ 100.0%
+Markdown   31 mins        ███████████████████▋░  93.7%
+Text       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Other      0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Git Config 0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
 <!-- code_time ends -->

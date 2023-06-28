@@ -93,10 +93,7 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   31 mins        ███████████████████▋░  93.6%
-Text       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Other      0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Git Config 0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Markdown   3 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
@@ -107,11 +104,11 @@ Git Config 0 secs         ▏░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/06/27/Telegraf%E7%AE%80%E4%BB%8B/' target='_blank'>Telegraf简介</a> - 2023-06-27
+* <a href='https://jasonkayzk.github.io/2023/06/27/%E5%A4%A7%E9%A1%B5%E5%86%85%E5%AD%98%E7%AE%80%E4%BB%8B/' target='_blank'>大页内存简介</a> - 2023-06-27
+* <a href='https://jasonkayzk.github.io/2023/06/27/Haproxy%E7%AE%80%E4%BB%8B/' target='_blank'>Haproxy简介</a> - 2023-06-27
 * <a href='https://jasonkayzk.github.io/2023/03/28/Java%E9%AB%98%E6%80%A7%E8%83%BD%E7%BC%93%E5%AD%98%E5%BA%93Caffeine/' target='_blank'>Java高性能缓存库Caffeine</a> - 2023-03-28
 * <a href='https://jasonkayzk.github.io/2023/03/26/Java%E8%AE%A2%E9%98%85Binlog%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/' target='_blank'>Java订阅Binlog的几种方式</a> - 2023-03-26
-* <a href='https://jasonkayzk.github.io/2023/03/23/Dubbo%E7%9A%84%E5%87%A0%E7%A7%8D%E9%85%8D%E7%BD%AE%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/' target='_blank'>Dubbo的几种配置方式总结</a> - 2023-03-23
-* <a href='https://jasonkayzk.github.io/2023/03/20/GraalVM%E4%BD%BF%E7%94%A8%E5%88%9D%E4%BD%93%E9%AA%8C/' target='_blank'>GraalVM使用初体验</a> - 2023-03-20
-* <a href='https://jasonkayzk.github.io/2023/03/20/%E4%BD%BF%E7%94%A8Java%E7%BC%96%E5%86%99Cli%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/' target='_blank'>使用Java编写Cli命令行工具</a> - 2023-03-20
 <!-- blog ends -->
 
 </td>

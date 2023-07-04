@@ -93,7 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   3 mins         █████████████████████ 100.0%
+YAML       1 hr 45 mins   ███████████▍░░░░░░░░░  54.8%
+Markdown   1 hr 25 mins   █████████▏░░░░░░░░░░░  44.0%
+GitIgno... 2 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->

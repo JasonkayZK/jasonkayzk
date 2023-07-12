@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-YAML       1 hr 14 mins   ███████▎░░░░░░░░░░░░░  34.8%
-Rust       1 hr           █████▉░░░░░░░░░░░░░░░  28.3%
-Markdown   38 mins        ███▊░░░░░░░░░░░░░░░░░  18.2%
-TOML       18 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
-GitIgno... 10 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+Rust       3 hrs 22 mins  █████████████▌░░░░░░░  64.7%
+TOML       46 mins        ███░░░░░░░░░░░░░░░░░░  14.7%
+Markdown   14 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+TypeScript 12 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+GitIgno... 11 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ GitIgno... 10 mins        █░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/07/11/%E5%9C%A8Rust%E4%B8%AD%E4%BD%BF%E7%94%A8SQLite%E5%92%8CMigration/' target='_blank'>在Rust中使用SQLite和Migration</a> - 2023-07-11
 * <a href='https://jasonkayzk.github.io/2023/06/27/Telegraf%E7%AE%80%E4%BB%8B/' target='_blank'>Telegraf简介</a> - 2023-06-27
 * <a href='https://jasonkayzk.github.io/2023/06/27/%E5%A4%A7%E9%A1%B5%E5%86%85%E5%AD%98%E7%AE%80%E4%BB%8B/' target='_blank'>大页内存简介</a> - 2023-06-27
 * <a href='https://jasonkayzk.github.io/2023/06/27/Haproxy%E7%AE%80%E4%BB%8B/' target='_blank'>Haproxy简介</a> - 2023-06-27
 * <a href='https://jasonkayzk.github.io/2023/03/28/Java%E9%AB%98%E6%80%A7%E8%83%BD%E7%BC%93%E5%AD%98%E5%BA%93Caffeine/' target='_blank'>Java高性能缓存库Caffeine</a> - 2023-03-28
-* <a href='https://jasonkayzk.github.io/2023/03/26/Java%E8%AE%A2%E9%98%85Binlog%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/' target='_blank'>Java订阅Binlog的几种方式</a> - 2023-03-26
 <!-- blog ends -->
 
 </td>

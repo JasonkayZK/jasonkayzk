@@ -93,8 +93,7 @@
 <!-- code_time starts -->
 
 ```text
-JSON       7 mins         █████████████▏░░░░░░░  62.8%
-Rust       4 mins         ███████▊░░░░░░░░░░░░░  37.2%
+Markdown   0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

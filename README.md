@@ -93,7 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   0 secs         █████████████████████ 100.0%
+Rust       2 hrs 18 mins  █████████████░░░░░░░░  62.3%
+ActionS... 1 hr 14 mins   ███████░░░░░░░░░░░░░░  33.3%
+Text       5 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+Python     3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+TOML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time ends -->

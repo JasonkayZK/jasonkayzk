@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       17 hrs 13 mins █████████████▋░░░░░░░  65.0%
-TypeScript 4 hrs 54 mins  ███▉░░░░░░░░░░░░░░░░░  18.5%
-ActionS... 1 hr 14 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Rust       15 hrs 38 mins ████████████▍░░░░░░░░  59.3%
+TypeScript 7 hrs 8 mins   █████▋░░░░░░░░░░░░░░░  27.1%
+JSON       45 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 HTML       44 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-JSON       35 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+TOML       31 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time ends -->

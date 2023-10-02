@@ -75,13 +75,12 @@
 
 
 
-- 🔭 I’m currently working in Fuzhou, China.
 - 🌱 I’m currently learning Java, Golang, Rust, C++, JS & TS.
 - 👯 I’m looking to collaborate on database and cloud-native developing.
 - 📫 Reach me: jasonkayzk@gmail.com
 - 😄 Pronouns: Jasonkay
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
-- ⚡ Fun fact: Music, Japanese & English, Basketball, Animation, Video games.
+- ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
 
 
 <table width="800px">

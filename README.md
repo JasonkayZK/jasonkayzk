@@ -92,8 +92,7 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   0 secs         ████████████████▋░░░░  79.5%
-YAML       0 secs         ████▎░░░░░░░░░░░░░░░░  20.5%
+TOML       29 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

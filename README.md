@@ -92,7 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-TOML       29 mins        █████████████████████ 100.0%
+Rust       2 hrs 9 mins   ██████████████▋░░░░░░  69.7%
+TOML       31 mins        ███▌░░░░░░░░░░░░░░░░░  16.9%
+TypeScript 11 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Markdown   7 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+JSON       4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 
 <!-- code_time ends -->

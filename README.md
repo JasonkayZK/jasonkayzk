@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 7 hrs 18 mins  ██████████████▊░░░░░░  70.4%
-Rust       2 hrs 9 mins   ████▍░░░░░░░░░░░░░░░░  20.9%
-JSON       26 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-TypeScript 12 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Markdown   10 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+JavaScript 7 hrs 18 mins  ███████████████████▊░  94.3%
+JSON       22 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+Markdown   3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->

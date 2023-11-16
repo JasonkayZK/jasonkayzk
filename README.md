@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       17 hrs 29 mins ████████████████▍░░░░  78.4%
-TypeScript 1 hr 53 mins   █▊░░░░░░░░░░░░░░░░░░░   8.5%
-GraphQL    1 hr 18 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
-TOML       54 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-Text       15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Rust       17 hrs 46 mins ███████████████░░░░░░  71.5%
+TypeScript 3 hrs 50 mins  ███▎░░░░░░░░░░░░░░░░░  15.5%
+GraphQL    1 hr 18 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
+TOML       56 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Text       15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->

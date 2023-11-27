@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       2 hrs 44 mins  █████████░░░░░░░░░░░░  43.3%
-YAML       1 hr 21 mins   ████▍░░░░░░░░░░░░░░░░  21.3%
-Markdown   26 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
-JSON       25 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
-TypeScript 24 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Rust       4 hrs 4 mins   ██████████████░░░░░░░  67.0%
+Markdown   51 mins        ██▉░░░░░░░░░░░░░░░░░░  14.2%
+TOML       26 mins        █▌░░░░░░░░░░░░░░░░░░░   7.2%
+JavaScript 14 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+Vue.js     11 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 
 <!-- code_time ends -->
@@ -107,11 +107,11 @@ TypeScript 24 mins        █▎░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/11/26/%E8%B7%B3%E8%B7%B3%E8%9B%99%E6%97%A5%E8%AF%AD%E8%AF%BB%E5%BA%93-A-VOL1-1-01-%E5%A5%B3%E3%81%AE%E5%AD%90/' target='_blank'>跳跳蛙日语读库-A-VOL1-1-01-女の子</a> - 2023-11-26
 * <a href='https://jasonkayzk.github.io/2023/07/11/%E5%9C%A8Rust%E4%B8%AD%E4%BD%BF%E7%94%A8SQLite%E5%92%8CMigration/' target='_blank'>在Rust中使用SQLite和Migration</a> - 2023-07-11
 * <a href='https://jasonkayzk.github.io/2023/06/27/Telegraf%E7%AE%80%E4%BB%8B/' target='_blank'>Telegraf简介</a> - 2023-06-27
 * <a href='https://jasonkayzk.github.io/2023/06/27/%E5%A4%A7%E9%A1%B5%E5%86%85%E5%AD%98%E7%AE%80%E4%BB%8B/' target='_blank'>大页内存简介</a> - 2023-06-27
 * <a href='https://jasonkayzk.github.io/2023/06/27/Haproxy%E7%AE%80%E4%BB%8B/' target='_blank'>Haproxy简介</a> - 2023-06-27
-* <a href='https://jasonkayzk.github.io/2023/03/28/Java%E9%AB%98%E6%80%A7%E8%83%BD%E7%BC%93%E5%AD%98%E5%BA%93Caffeine/' target='_blank'>Java高性能缓存库Caffeine</a> - 2023-03-28
 <!-- blog ends -->
 
 </td>

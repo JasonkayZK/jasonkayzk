@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       11 hrs 34 mins █████████████████▎░░░  82.3%
-Java       1 hr 10 mins   █▊░░░░░░░░░░░░░░░░░░░   8.3%
-Markdown   50 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
-TOML       14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-textmate   13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Rust       11 hrs 44 mins ███████████████▋░░░░░  74.8%
+Java       1 hr 8 mins    █▌░░░░░░░░░░░░░░░░░░░   7.2%
+TOML       1 hr           █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Markdown   56 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
+JSON       30 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time ends -->
@@ -107,11 +107,11 @@ textmate   13 mins        ▎░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/12/13/%E5%9C%A8Rust%E4%B8%AD%E5%A4%84%E7%90%86%E6%95%B4%E6%95%B0%E6%BA%A2%E5%87%BA/' target='_blank'>在Rust中处理整数溢出</a> - 2023-12-13
+* <a href='https://jasonkayzk.github.io/2023/12/13/Rust%E4%B8%AD%E7%9A%84%E5%90%91%E4%B8%8B%E8%BD%AC%E5%9E%8B/' target='_blank'>Rust中的向下转型</a> - 2023-12-13
 * <a href='https://jasonkayzk.github.io/2023/11/27/%E8%B7%B3%E8%B7%B3%E8%9B%99%E6%97%A5%E8%AF%AD%E8%AF%BB%E5%BA%93-A-VOL1-1-02-%E5%85%AB%E3%83%81%E3%81%AE%E8%A9%B1/' target='_blank'>跳跳蛙日语读库-A-VOL1-1-02-八チの話</a> - 2023-11-27
 * <a href='https://jasonkayzk.github.io/2023/11/27/Rust%E4%B8%AD%E5%88%9B%E5%BB%BA%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F/' target='_blank'>Rust中创建全局变量</a> - 2023-11-27
 * <a href='https://jasonkayzk.github.io/2023/11/26/%E8%B7%B3%E8%B7%B3%E8%9B%99%E6%97%A5%E8%AF%AD%E8%AF%BB%E5%BA%93-A-VOL1-1-01-%E5%A5%B3%E3%81%AE%E5%AD%90/' target='_blank'>跳跳蛙日语读库-A-VOL1-1-01-女の子</a> - 2023-11-26
-* <a href='https://jasonkayzk.github.io/2023/07/11/%E5%9C%A8Rust%E4%B8%AD%E4%BD%BF%E7%94%A8SQLite%E5%92%8CMigration/' target='_blank'>在Rust中使用SQLite和Migration</a> - 2023-07-11
-* <a href='https://jasonkayzk.github.io/2023/06/27/Telegraf%E7%AE%80%E4%BB%8B/' target='_blank'>Telegraf简介</a> - 2023-06-27
 <!-- blog ends -->
 
 </td>

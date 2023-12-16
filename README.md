@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-Rust       4 hrs 39 mins  ████████████▋░░░░░░░░  60.6%
-TOML       57 mins        ██▌░░░░░░░░░░░░░░░░░░  12.4%
-Java       41 mins        █▉░░░░░░░░░░░░░░░░░░░   9.0%
-Markdown   38 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
-JSON       30 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Rust       4 hrs 9 mins   ██████████▍░░░░░░░░░░  49.8%
+Bash       1 hr 46 mins   ████▍░░░░░░░░░░░░░░░░  21.2%
+TOML       53 mins        ██▏░░░░░░░░░░░░░░░░░░  10.6%
+Markdown   45 mins        █▉░░░░░░░░░░░░░░░░░░░   9.0%
+JSON       30 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
 ```
 
 <!-- code_time ends -->
@@ -107,11 +107,11 @@ JSON       30 mins        █▍░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/12/15/%E5%9C%A8Kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2Zookeeper%E5%92%8CKafka/' target='_blank'>在Kubernetes中部署Zookeeper和Kafka</a> - 2023-12-15
+* <a href='https://jasonkayzk.github.io/2023/12/15/%E5%9C%A8Kubernetes%E4%B8%AD%E5%88%9B%E5%BB%BANFS%E7%B1%BB%E5%9E%8B%E7%9A%84StorageClass/' target='_blank'>在Kubernetes中创建NFS类型的StorageClass</a> - 2023-12-15
 * <a href='https://jasonkayzk.github.io/2023/12/14/%E4%BD%BF%E7%94%A8Kuboard%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2Kubernetes%E9%9B%86%E7%BE%A4/' target='_blank'>使用Kuboard快速部署Kubernetes集群</a> - 2023-12-14
 * <a href='https://jasonkayzk.github.io/2023/12/13/%E5%9C%A8Rust%E4%B8%AD%E5%A4%84%E7%90%86%E6%95%B4%E6%95%B0%E6%BA%A2%E5%87%BA/' target='_blank'>在Rust中处理整数溢出</a> - 2023-12-13
 * <a href='https://jasonkayzk.github.io/2023/12/13/Rust%E4%B8%AD%E7%9A%84%E5%90%91%E4%B8%8B%E8%BD%AC%E5%9E%8B/' target='_blank'>Rust中的向下转型</a> - 2023-12-13
-* <a href='https://jasonkayzk.github.io/2023/11/27/%E8%B7%B3%E8%B7%B3%E8%9B%99%E6%97%A5%E8%AF%AD%E8%AF%BB%E5%BA%93-A-VOL1-1-02-%E5%85%AB%E3%83%81%E3%81%AE%E8%A9%B1/' target='_blank'>跳跳蛙日语读库-A-VOL1-1-02-八チの話</a> - 2023-11-27
-* <a href='https://jasonkayzk.github.io/2023/11/27/Rust%E4%B8%AD%E5%88%9B%E5%BB%BA%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F/' target='_blank'>Rust中创建全局变量</a> - 2023-11-27
 <!-- blog ends -->
 
 </td>

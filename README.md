@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-Java       6 hrs          █████▊░░░░░░░░░░░░░░░  27.8%
-Rust       4 hrs 9 mins   ████░░░░░░░░░░░░░░░░░  19.2%
-XML        2 hrs 33 mins  ██▍░░░░░░░░░░░░░░░░░░  11.8%
-Bash       2 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░  10.0%
-YAML       2 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░░   9.7%
+Java       6 hrs 57 mins  ██████░░░░░░░░░░░░░░░  29.0%
+Rust       4 hrs 9 mins   ███▋░░░░░░░░░░░░░░░░░  17.3%
+YAML       2 hrs 39 mins  ██▎░░░░░░░░░░░░░░░░░░  11.1%
+XML        2 hrs 34 mins  ██▏░░░░░░░░░░░░░░░░░░  10.7%
+Bash       2 hrs 25 mins  ██░░░░░░░░░░░░░░░░░░░  10.1%
 ```
 
 <!-- code_time ends -->
@@ -107,11 +107,11 @@ YAML       2 hrs 5 mins   ██░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2023/12/19/%E5%9C%A8K8S%E4%B8%AD%E9%83%A8%E7%BD%B2SpringBoot%E9%A1%B9%E7%9B%AE/' target='_blank'>在K8S中部署SpringBoot项目</a> - 2023-12-19
 * <a href='https://jasonkayzk.github.io/2023/12/17/%E4%BD%BF%E7%94%A8jenv%E7%AE%A1%E7%90%86jdk%E7%89%88%E6%9C%AC/' target='_blank'>使用jenv管理jdk版本</a> - 2023-12-17
 * <a href='https://jasonkayzk.github.io/2023/12/15/%E5%9C%A8Kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2Zookeeper%E5%92%8CKafka/' target='_blank'>在Kubernetes中部署Zookeeper和Kafka</a> - 2023-12-15
 * <a href='https://jasonkayzk.github.io/2023/12/15/%E5%9C%A8Kubernetes%E4%B8%AD%E5%88%9B%E5%BB%BANFS%E7%B1%BB%E5%9E%8B%E7%9A%84StorageClass/' target='_blank'>在Kubernetes中创建NFS类型的StorageClass</a> - 2023-12-15
 * <a href='https://jasonkayzk.github.io/2023/12/14/%E4%BD%BF%E7%94%A8Kuboard%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2Kubernetes%E9%9B%86%E7%BE%A4/' target='_blank'>使用Kuboard快速部署Kubernetes集群</a> - 2023-12-14
-* <a href='https://jasonkayzk.github.io/2023/12/13/%E5%9C%A8Rust%E4%B8%AD%E5%A4%84%E7%90%86%E6%95%B4%E6%95%B0%E6%BA%A2%E5%87%BA/' target='_blank'>在Rust中处理整数溢出</a> - 2023-12-13
 <!-- blog ends -->
 
 </td>

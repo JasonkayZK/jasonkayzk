@@ -6,10 +6,10 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <img width="500" src="https://metrics.lecoq.io/jasonkayzk?template=classic&repositories.forks=true&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%2011%25/" alt="Github Metrics"/>
 <br>
-</p>
+</p> -->
 
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)

@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-ObjectiveC 45 mins        ██████░░░░░░░░░░░░░░░  28.7%
-Rust       32 mins        ████▎░░░░░░░░░░░░░░░░  20.4%
-CMake      28 mins        ███▊░░░░░░░░░░░░░░░░░  18.4%
-C++        25 mins        ███▍░░░░░░░░░░░░░░░░░  16.2%
-TOML       20 mins        ██▋░░░░░░░░░░░░░░░░░░  12.8%
+SQL        3 hrs 13 mins  ███████████▏░░░░░░░░░  53.1%
+ObjectiveC 45 mins        ██▌░░░░░░░░░░░░░░░░░░  12.4%
+Rust       34 mins        ██░░░░░░░░░░░░░░░░░░░   9.6%
+CMake      28 mins        █▋░░░░░░░░░░░░░░░░░░░   8.0%
+C++        25 mins        █▍░░░░░░░░░░░░░░░░░░░   7.0%
 ```
 
 <!-- code_time ends -->
@@ -107,11 +107,11 @@ TOML       20 mins        ██▋░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2024/01/21/%E5%9F%BA%E4%BA%8EGit%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93Dolt/' target='_blank'>基于Git版本控制的关系型数据库Dolt</a> - 2024-01-21
 * <a href='https://jasonkayzk.github.io/2023/12/27/Rust%E4%B8%AD%E4%BD%BF%E7%94%A8libp2p/' target='_blank'>Rust中使用libp2p</a> - 2023-12-27
 * <a href='https://jasonkayzk.github.io/2023/12/19/%E5%9C%A8K8S%E4%B8%AD%E9%83%A8%E7%BD%B2SpringBoot%E9%A1%B9%E7%9B%AE/' target='_blank'>在K8S中部署SpringBoot项目</a> - 2023-12-19
 * <a href='https://jasonkayzk.github.io/2023/12/17/%E4%BD%BF%E7%94%A8jenv%E7%AE%A1%E7%90%86jdk%E7%89%88%E6%9C%AC/' target='_blank'>使用jenv管理jdk版本</a> - 2023-12-17
 * <a href='https://jasonkayzk.github.io/2023/12/15/%E5%9C%A8Kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2Zookeeper%E5%92%8CKafka/' target='_blank'>在Kubernetes中部署Zookeeper和Kafka</a> - 2023-12-15
-* <a href='https://jasonkayzk.github.io/2023/12/15/%E5%9C%A8Kubernetes%E4%B8%AD%E5%88%9B%E5%BB%BANFS%E7%B1%BB%E5%9E%8B%E7%9A%84StorageClass/' target='_blank'>在Kubernetes中创建NFS类型的StorageClass</a> - 2023-12-15
 <!-- blog ends -->
 
 </td>

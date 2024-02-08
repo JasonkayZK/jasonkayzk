@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 4 hrs 8 mins   ██████████████▍░░░░░░  68.9%
-HTML       47 mins        ██▊░░░░░░░░░░░░░░░░░░  13.2%
-XAML       21 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
-JSON       18 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
-Markdown   10 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+JavaScript 4 hrs 12 mins  █████████▉░░░░░░░░░░░  47.5%
+Markdown   3 hrs 13 mins  ███████▋░░░░░░░░░░░░░  36.4%
+HTML       47 mins        █▉░░░░░░░░░░░░░░░░░░░   9.0%
+JSON       18 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
+GitIgno... 11 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 
 <!-- code_time ends -->

@@ -92,11 +92,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        6 hrs 7 mins   █████████▉░░░░░░░░░░░  47.2%
-ObjectiveC 2 hrs 53 mins  ████▋░░░░░░░░░░░░░░░░  22.2%
-CMake      2 hrs 19 mins  ███▊░░░░░░░░░░░░░░░░░  17.9%
-Other      28 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-Qt UI file 18 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+C++        6 hrs 32 mins  █████████▍░░░░░░░░░░░  45.1%
+ObjectiveC 3 hrs 40 mins  █████▎░░░░░░░░░░░░░░░  25.4%
+CMake      2 hrs 36 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
+Markdown   28 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Other      28 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time ends -->

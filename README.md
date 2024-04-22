@@ -92,11 +92,10 @@
 <!-- code_time starts -->
 
 ```text
-Rust       6 hrs 36 mins  ████████████████▎░░░░  77.7%
-JavaScript 1 hr 34 mins   ███▉░░░░░░░░░░░░░░░░░  18.6%
-TOML       18 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
-Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-SQL        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Rust       1 hr 12 mins   █████████████████▏░░░  81.7%
+TOML       14 mins        ███▍░░░░░░░░░░░░░░░░░  16.6%
+JavaScript 1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->

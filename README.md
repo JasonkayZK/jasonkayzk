@@ -92,10 +92,7 @@
 <!-- code_time starts -->
 
 ```text
-Rust       1 hr 12 mins   █████████████████▏░░░  81.7%
-TOML       14 mins        ███▍░░░░░░░░░░░░░░░░░  16.6%
-JavaScript 1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Markdown   5 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
@@ -106,11 +103,11 @@ Markdown   0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2024/06/06/HANABI-Mr-Children-%E6%AD%8C%E8%A9%9E/' target='_blank'>【翻訳】HANABI-Mr.Children-歌詞</a> - 2024-06-06
 * <a href='https://jasonkayzk.github.io/2024/03/22/%E3%80%90%E8%AF%91%E3%80%91%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8/' target='_blank'>【译】实现一个简单的内存分配器</a> - 2024-03-22
 * <a href='https://jasonkayzk.github.io/2024/01/21/%E5%9F%BA%E4%BA%8EGit%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93Dolt/' target='_blank'>基于Git版本控制的关系型数据库Dolt</a> - 2024-01-21
 * <a href='https://jasonkayzk.github.io/2023/12/27/Rust%E4%B8%AD%E4%BD%BF%E7%94%A8libp2p/' target='_blank'>Rust中使用libp2p</a> - 2023-12-27
 * <a href='https://jasonkayzk.github.io/2023/12/19/%E5%9C%A8K8S%E4%B8%AD%E9%83%A8%E7%BD%B2SpringBoot%E9%A1%B9%E7%9B%AE/' target='_blank'>在K8S中部署SpringBoot项目</a> - 2023-12-19
-* <a href='https://jasonkayzk.github.io/2023/12/17/%E4%BD%BF%E7%94%A8jenv%E7%AE%A1%E7%90%86jdk%E7%89%88%E6%9C%AC/' target='_blank'>使用jenv管理jdk版本</a> - 2023-12-17
 <!-- blog ends -->
 
 </td>

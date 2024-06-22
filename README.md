@@ -92,8 +92,9 @@
 <!-- code_time starts -->
 
 ```text
-Python     0 secs         █████████████▍░░░░░░░  64.2%
-YAML       0 secs         ███████▌░░░░░░░░░░░░░  35.8%
+YAML       3 mins         ███████████████▊░░░░░  75.3%
+Markdown   0 secs         ████░░░░░░░░░░░░░░░░░  19.2%
+Python     0 secs         █▏░░░░░░░░░░░░░░░░░░░   5.5%
 ```
 
 <!-- code_time ends -->

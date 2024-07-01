@@ -92,8 +92,9 @@
 <!-- code_time starts -->
 
 ```text
-YAML       2 mins         ████████████████▌░░░░  79.0%
-Markdown   0 secs         ████▍░░░░░░░░░░░░░░░░  21.0%
+SQL        7 mins         ████████████▋░░░░░░░░  60.7%
+Rust       4 mins         ████████░░░░░░░░░░░░░  38.4%
+Other      0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
 <!-- code_time ends -->
@@ -104,11 +105,11 @@ Markdown   0 secs         ████▍░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2024/06/30/Mac%E5%90%88%E7%9B%96%E5%90%8E%E4%B8%8D%E4%BC%91%E7%9C%A0/' target='_blank'>Mac合盖后不休眠</a> - 2024-06-30
 * <a href='https://jasonkayzk.github.io/2024/06/17/%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E9%A2%A8%E3%81%8C%E5%BC%B7%E3%81%8F%E5%90%B9%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%80%8D%E5%90%8D%E8%A8%80%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/' target='_blank'>アニメ「風が強く吹いている」名言のまとめ</a> - 2024-06-17
 * <a href='https://jasonkayzk.github.io/2024/06/06/HANABI-Mr-Children-%E6%AD%8C%E8%A9%9E/' target='_blank'>【翻訳】HANABI-Mr.Children-歌詞</a> - 2024-06-06
 * <a href='https://jasonkayzk.github.io/2024/03/22/%E3%80%90%E8%AF%91%E3%80%91%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8/' target='_blank'>【译】实现一个简单的内存分配器</a> - 2024-03-22
 * <a href='https://jasonkayzk.github.io/2024/01/21/%E5%9F%BA%E4%BA%8EGit%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93Dolt/' target='_blank'>基于Git版本控制的关系型数据库Dolt</a> - 2024-01-21
-* <a href='https://jasonkayzk.github.io/2023/12/27/Rust%E4%B8%AD%E4%BD%BF%E7%94%A8libp2p/' target='_blank'>Rust中使用libp2p</a> - 2023-12-27
 <!-- blog ends -->
 
 </td>

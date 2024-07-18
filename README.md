@@ -92,11 +92,10 @@
 <!-- code_time starts -->
 
 ```text
-Text       1 hr 54 mins   ████████████░░░░░░░░░  57.5%
-Rust       1 hr 1 min     ██████▍░░░░░░░░░░░░░░  30.8%
-TOML       14 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
-YAML       4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Markdown   4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Text       1 hr 54 mins   ███████████████████▋░  93.5%
+YAML       4 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Markdown   3 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->
@@ -107,11 +106,11 @@ Markdown   4 mins         ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2024/07/18/%E4%BD%BF%E7%94%A8nmtui%E9%85%8D%E7%BD%AEwifi%E8%BF%9E%E6%8E%A5/' target='_blank'>使用nmtui配置wifi连接</a> - 2024-07-18
+* <a href='https://jasonkayzk.github.io/2024/07/18/%E8%80%81%E6%97%A7%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%AE%89%E8%A3%85Debian%E7%B3%BB%E7%BB%9F%E5%90%8EBroadcom%E9%A9%B1%E5%8A%A8%E7%BC%BA%E5%A4%B1%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/' target='_blank'>老旧笔记本安装Debian系统后Broadcom驱动缺失解决方法</a> - 2024-07-18
+* <a href='https://jasonkayzk.github.io/2024/07/17/Debian%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE%E5%90%88%E4%B8%8A%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%9B%96%E5%AD%90%E4%B8%8D%E4%BC%91%E7%9C%A0/' target='_blank'>Debian系统设置合上笔记本盖子不休眠</a> - 2024-07-17
 * <a href='https://jasonkayzk.github.io/2024/06/30/Mac%E5%90%88%E7%9B%96%E5%90%8E%E4%B8%8D%E4%BC%91%E7%9C%A0/' target='_blank'>Mac合盖后不休眠</a> - 2024-06-30
 * <a href='https://jasonkayzk.github.io/2024/06/17/%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E9%A2%A8%E3%81%8C%E5%BC%B7%E3%81%8F%E5%90%B9%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%80%8D%E5%90%8D%E8%A8%80%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/' target='_blank'>アニメ「風が強く吹いている」名言のまとめ</a> - 2024-06-17
-* <a href='https://jasonkayzk.github.io/2024/06/06/HANABI-Mr-Children-%E6%AD%8C%E8%A9%9E/' target='_blank'>【翻訳】HANABI-Mr.Children-歌詞</a> - 2024-06-06
-* <a href='https://jasonkayzk.github.io/2024/03/22/%E3%80%90%E8%AF%91%E3%80%91%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8/' target='_blank'>【译】实现一个简单的内存分配器</a> - 2024-03-22
-* <a href='https://jasonkayzk.github.io/2024/01/21/%E5%9F%BA%E4%BA%8EGit%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93Dolt/' target='_blank'>基于Git版本控制的关系型数据库Dolt</a> - 2024-01-21
 <!-- blog ends -->
 
 </td>

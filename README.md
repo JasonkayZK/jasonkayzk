@@ -75,8 +75,9 @@
 
 
 
-- 🌱 I’m currently learning Java, Golang, Rust, C++, JS & TS.
-- 👯 I’m looking to collaborate on database and cloud-native developing.
+- 🎓 A teacher at the School of Computer Science, PZXY.
+- 🌱 I’m currently using Java, Golang, Rust, JS & TS.
+- 👯 I’m looking to collaborate on distributed system and cloud-native developing.
 - 📫 Reach me: jasonkayzk@gmail.com
 - 😄 Pronouns: Jasonkay
 - 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)

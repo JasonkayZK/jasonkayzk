@@ -93,8 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-GitIgno... 8 mins         █████████████▊░░░░░░░  65.9%
-Java       4 mins         ███████▏░░░░░░░░░░░░░  34.1%
+Text       7 mins         ████████████████████░  95.4%
+GitIgno... 0 secs         ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time ends -->

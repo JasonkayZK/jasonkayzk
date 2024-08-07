@@ -93,9 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-Text       7 mins         ████████████████████░  95.4%
-GitIgno... 0 secs         ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Text       12 mins        ████████████████████▍  97.2%
+GitIgno... 0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->

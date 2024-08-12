@@ -93,10 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-SSH Config 12 mins        █████████▉░░░░░░░░░░░  47.5%
-Text       12 mins        █████████▉░░░░░░░░░░░  47.2%
-Markdown   1 min          ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-GitIgno... 0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+SSH Config 12 mins        ██████████████░░░░░░░  66.8%
+Text       5 mins         █████▊░░░░░░░░░░░░░░░  27.6%
+Markdown   1 min          █▏░░░░░░░░░░░░░░░░░░░   5.6%
 ```
 
 <!-- code_time ends -->

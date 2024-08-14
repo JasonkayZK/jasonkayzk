@@ -93,9 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-SSH Config 12 mins        ██████████████░░░░░░░  66.8%
-Text       5 mins         █████▊░░░░░░░░░░░░░░░  27.6%
-Markdown   1 min          █▏░░░░░░░░░░░░░░░░░░░   5.6%
+SSH Config 12 mins        ████████████░░░░░░░░░  57.6%
+YAML       5 mins         █████░░░░░░░░░░░░░░░░  23.9%
+Markdown   4 mins         ███▊░░░░░░░░░░░░░░░░░  18.4%
 ```
 
 <!-- code_time ends -->
@@ -106,11 +106,11 @@ Markdown   1 min          █▏░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2024/08/13/%E4%B8%A4%E5%88%86%E9%92%9F%E9%80%90%E5%AD%97%E7%A8%BF/' target='_blank'>两分钟逐字稿</a> - 2024-08-13
+* <a href='https://jasonkayzk.github.io/2024/08/13/%E4%B8%A4%E5%88%86%E9%92%9F%E6%95%99%E6%A1%88/' target='_blank'>两分钟教案</a> - 2024-08-13
 * <a href='https://jasonkayzk.github.io/2024/07/28/%E7%AE%80%E5%8D%95%E6%98%93%E7%94%A8%E7%9A%84%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E7%BB%84%E7%BD%91%E5%B7%A5%E5%85%B7ZeroTier/' target='_blank'>简单易用的内网穿透组网工具ZeroTier</a> - 2024-07-28
 * <a href='https://jasonkayzk.github.io/2024/07/27/%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%80%E5%BA%A6%E3%81%8D%E3%82%8A%E3%80%82%E3%81%A0%E3%81%8B%E3%82%89%E6%A5%BD%E3%81%97%E3%82%80%E3%81%B9%E3%81%8D%E3%82%88/' target='_blank'>人生は一度きり。だから楽しむべきよ</a> - 2024-07-27
 * <a href='https://jasonkayzk.github.io/2024/07/27/%E8%A7%A3%E5%86%B3VMWare%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F%E4%B8%8B%E6%97%A0%E6%B3%95%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96IP%E7%9A%84%E9%97%AE%E9%A2%98/' target='_blank'>解决VMWare桥接模式下无法自动获取IP的问题</a> - 2024-07-27
-* <a href='https://jasonkayzk.github.io/2024/07/26/MacOS%E5%8F%8C%E5%BC%80%E5%BE%AE%E4%BF%A1%E7%9A%84%E6%96%B9%E6%B3%95/' target='_blank'>【转】MacOS双开微信的方法</a> - 2024-07-26
-* <a href='https://jasonkayzk.github.io/2024/07/23/%E4%B8%80%E4%BA%9Btg%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%80%BB%E7%BB%93/' target='_blank'>一些tg使用指南总结</a> - 2024-07-23
 <!-- blog ends -->
 
 </td>

@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     3 hrs 19 mins  ██████████████▊░░░░░░  70.5%
-YAML       18 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
-Text       17 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
-GitIgno... 16 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
-TOML       11 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+Python     5 hrs 8 mins   ███████████████░░░░░░  71.6%
+Markdown   39 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
+YAML       22 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
+TOML       21 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+GitIgno... 16 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
 <!-- code_time ends -->
@@ -108,11 +108,11 @@ TOML       11 mins        ▉░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2024/08/22/%E5%BC%80%E6%BA%90%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B9%A6%E7%B1%8D%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FTalebook/' target='_blank'>开源的个人书籍管理系统Talebook</a> - 2024-08-22
+* <a href='https://jasonkayzk.github.io/2024/08/22/2024%E5%B9%B4%E5%AE%89%E8%A3%85Docker%E7%9A%84%E6%96%B9%E6%B3%95/' target='_blank'>2024年安装Docker的方法</a> - 2024-08-22
 * <a href='https://jasonkayzk.github.io/2024/08/21/Python%E9%A1%B9%E7%9B%AELinter%E3%80%81Formatter%E5%92%8CGithub-Actions%E9%85%8D%E7%BD%AE/' target='_blank'>Python项目Linter、Formatter和Github-Actions配置</a> - 2024-08-21
 * <a href='https://jasonkayzk.github.io/2024/08/21/Zerotier%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E6%B5%81%E9%87%8F%E8%BD%AC%E5%8F%91/' target='_blank'>Zerotier配置内网流量转发</a> - 2024-08-21
 * <a href='https://jasonkayzk.github.io/2024/08/21/%E5%85%B3%E4%BA%8E%E8%AF%B4%E8%AF%9D%E8%89%BA%E6%9C%AF%E7%9A%84%E8%B5%84%E6%BA%90/' target='_blank'>关于说话艺术的资源</a> - 2024-08-21
-* <a href='https://jasonkayzk.github.io/2024/08/20/%E5%AE%89%E8%A3%85Nvidea%E9%A9%B1%E5%8A%A8%E5%8F%8ACUDA/' target='_blank'>安装Nvidea驱动及CUDA</a> - 2024-08-20
-* <a href='https://jasonkayzk.github.io/2024/08/13/%E4%B8%A4%E5%88%86%E9%92%9F%E9%80%90%E5%AD%97%E7%A8%BF/' target='_blank'>两分钟逐字稿</a> - 2024-08-13
 <!-- blog ends -->
 
 </td>

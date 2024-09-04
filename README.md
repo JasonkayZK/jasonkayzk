@@ -93,8 +93,7 @@
 <!-- code_time starts -->
 
 ```text
-Bash       3 hrs 33 mins  ███████████████████▉░  94.8%
-EJS        11 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
+Bash       3 hrs 33 mins  █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

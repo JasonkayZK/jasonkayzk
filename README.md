@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   1 hr 57 mins   ████████████▊░░░░░░░░  61.2%
-Bash       51 mins        █████▋░░░░░░░░░░░░░░░  27.0%
-Git Config 9 mins         █░░░░░░░░░░░░░░░░░░░░   4.8%
-JSON       8 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-JavaScript 3 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Markdown   1 hr 57 mins   ███████████▎░░░░░░░░░  53.7%
+Bash       51 mins        ████▉░░░░░░░░░░░░░░░░  23.7%
+JavaScript 30 mins        ██▉░░░░░░░░░░░░░░░░░░  13.9%
+Git Config 9 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+JSON       8 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.8%
 ```
 
 <!-- code_time ends -->

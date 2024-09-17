@@ -123,7 +123,7 @@ Python     0 secs         ░░░░░░░░░░░░░░░░░░
 |-|-|
 
 
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=Jasonkay&theme=dark&cn=true)](https://leetcode-cn.com/u/jasonkay/)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=jasonkay&cn_username=jasonkay)](https://leetcode-cn.com/u/jasonkay/)|
 |-|-|
 
 

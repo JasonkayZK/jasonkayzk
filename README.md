@@ -93,9 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 36 mins        ███████████████████▍░  92.7%
-Bash       2 mins         █▌░░░░░░░░░░░░░░░░░░░   7.3%
-Python     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript 9 mins         ████████████████▏░░░░  77.3%
+Bash       2 mins         ████▋░░░░░░░░░░░░░░░░  22.6%
+Python     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->

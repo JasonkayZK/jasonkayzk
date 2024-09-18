@@ -93,9 +93,10 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 9 mins         ████████████████▏░░░░  77.3%
-Bash       2 mins         ████▋░░░░░░░░░░░░░░░░  22.6%
-Python     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Bash       2 mins         ██████████▌░░░░░░░░░░  50.1%
+Markdown   2 mins         ██████████▍░░░░░░░░░░  49.5%
+Python     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time ends -->

@@ -93,9 +93,8 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   26 mins        ████████████████████▉ 100.0%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Markdown   0 secs         ████████████████████▊  99.0%
+Bash       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time ends -->

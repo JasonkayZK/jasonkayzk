@@ -93,8 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Java       2 hrs 29 mins  ████████████████████▉  99.8%
-Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Java       3 hrs 21 mins  ██████████████████▏░░  86.9%
+Text       18 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
+Markdown   11 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->

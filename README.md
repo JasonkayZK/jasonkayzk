@@ -93,8 +93,7 @@
 <!-- code_time starts -->
 
 ```text
-Java       5 mins         ██████████████████░░░  86.3%
-Bash       0 secs         ██▉░░░░░░░░░░░░░░░░░░  13.7%
+Bash       0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

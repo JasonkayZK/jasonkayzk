@@ -93,7 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-Bash       0 secs         █████████████████████ 100.0%
+Bash       0 secs         ██████████████████▎░░  87.1%
+GitIgno... 0 secs         ██▎░░░░░░░░░░░░░░░░░░  11.1%
+Markdown   0 secs         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time ends -->

@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Java       5 hrs 54 mins  ███████░░░░░░░░░░░░░░  33.9%
-Python     3 hrs 17 mins  ███▉░░░░░░░░░░░░░░░░░  18.9%
-JavaScript 1 hr 52 mins   ██▏░░░░░░░░░░░░░░░░░░  10.7%
-Vue.js     1 hr 36 mins   █▉░░░░░░░░░░░░░░░░░░░   9.2%
-JSON       58 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Java       5 hrs 29 mins  ██████▊░░░░░░░░░░░░░░  32.5%
+Python     3 hrs 18 mins  ████░░░░░░░░░░░░░░░░░  19.5%
+JavaScript 1 hr 52 mins   ██▎░░░░░░░░░░░░░░░░░░  11.0%
+Vue.js     1 hr 36 mins   █▉░░░░░░░░░░░░░░░░░░░   9.5%
+JSON       58 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
 ```
 
 <!-- code_time ends -->

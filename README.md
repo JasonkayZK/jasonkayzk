@@ -93,9 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-Text       1 hr 1 min     ███████████▏░░░░░░░░░  53.2%
-Python     45 mins        ████████▏░░░░░░░░░░░░  39.0%
-JSON       9 mins         █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Markdown   10 mins        █████████████▉░░░░░░░  66.5%
+Python     4 mins         ██████▏░░░░░░░░░░░░░░  29.2%
+GitIgno... 0 secs         ▉░░░░░░░░░░░░░░░░░░░░   4.3%
 ```
 
 <!-- code_time ends -->

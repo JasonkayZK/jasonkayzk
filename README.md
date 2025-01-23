@@ -93,7 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     0 secs         █████████████████████ 100.0%
+JavaScript 2 hrs 37 mins  ████████████████████▍  97.4%
+JSON       3 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->

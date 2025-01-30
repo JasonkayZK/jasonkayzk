@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 2 hrs 37 mins  ████████████████████▏  96.1%
-JSON       3 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-SSH Config 1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Other      1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python     18 mins        ███████████▊░░░░░░░░░  56.4%
+Markdown   8 mins         █████▏░░░░░░░░░░░░░░░  24.9%
+YAML       3 mins         ██▏░░░░░░░░░░░░░░░░░░  10.3%
+SSH Config 1 min          ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Other      1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time ends -->

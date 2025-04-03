@@ -93,10 +93,9 @@
 <!-- code_time starts -->
 
 ```text
-Python     6 hrs 47 mins  ████████████████████▏  95.9%
+Python     6 hrs 44 mins  ████████████████████▍  97.3%
 Other      10 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-HTML       6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+HTML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time ends -->

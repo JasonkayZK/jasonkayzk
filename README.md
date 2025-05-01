@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     6 hrs 39 mins  ███████████████████▏░  91.2%
-Markdown   31 mins        █▍░░░░░░░░░░░░░░░░░░░   7.1%
-Text       5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Python     6 hrs 7 mins   ██████████████████▉░░  90.3%
+Markdown   31 mins        █▌░░░░░░░░░░░░░░░░░░░   7.6%
+Text       6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->

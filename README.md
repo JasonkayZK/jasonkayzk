@@ -93,11 +93,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     3 hrs 20 mins  ██████████████████▉░░  90.3%
-textmate   12 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Text       7 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python     4 hrs 13 mins  ███████████████████▍░  92.7%
+textmate   12 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Text       6 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+PythonStub 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->

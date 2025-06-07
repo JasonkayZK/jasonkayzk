@@ -93,11 +93,8 @@
 <!-- code_time starts -->
 
 ```text
-Python     17 mins        ████████▍░░░░░░░░░░░░  40.1%
-JavaScript 8 mins         ████▏░░░░░░░░░░░░░░░░  20.0%
-HTML       8 mins         ███▉░░░░░░░░░░░░░░░░░  18.6%
-Git Config 3 mins         █▋░░░░░░░░░░░░░░░░░░░   8.3%
-Text       2 mins         █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Markdown   0 secs         ████████████████░░░░░  76.3%
+GitIgno... 0 secs         ████▉░░░░░░░░░░░░░░░░  23.7%
 ```
 
 <!-- code_time ends -->

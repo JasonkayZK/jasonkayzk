@@ -6,6 +6,14 @@
 </p>
 
 
+- 🎓 A teacher at the School of Computer Science, PZXY.
+- 🌱 I’m currently using Java, Golang, C++, Rust, JS & TS.
+- 👯 I’m interested in distributed system & parallel computing.
+- 📫 Reach me: jasonkayzk@gmail.com
+- 😄 Pronouns: Jasonkay
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
+- ⚡ Fun fact: Music, Japanese & English, Animation.
+
 <!-- <p align="center">
 <img width="500" src="https://metrics.lecoq.io/jasonkayzk?template=classic&repositories.forks=true&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%2011%25/" alt="Github Metrics"/>
 <br>
@@ -74,35 +82,8 @@
 [![](https://img.shields.io/badge/-Prometheus-003545?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 
 
-
-- 🎓 A teacher at the School of Computer Science, PZXY.
-- 🌱 I’m currently using Java, Golang, Rust, JS & TS.
-- 👯 I’m looking to collaborate on distributed system and cloud-native developing.
-- 📫 Reach me: jasonkayzk@gmail.com
-- 😄 Pronouns: Jasonkay
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
-- ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
-
-
 <table width="800px">
 <tr>
-<td valign="top" width="50%">
-
-#### 🏊‍♂️ <a href="https://gist.github.com/JasonkayZK/59ead22758ee823e48b558d3cff332f1" target="_blank">Weekly Development Breakdown</a>
-
-<!-- code_time starts -->
-
-```text
-Python     9 hrs 48 mins  ██████████▍░░░░░░░░░░  49.4%
-JavaScript 1 hr 55 mins   ██░░░░░░░░░░░░░░░░░░░   9.7%
-Markdown   1 hr 54 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
-C/C++      1 hr 28 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
-HTML       1 hr 10 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
-```
-
-<!-- code_time ends -->
-</td>
-
 <td valign="top" width="50%">
 
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
@@ -116,7 +97,34 @@ HTML       1 hr 10 mins   █▏░░░░░░░░░░░░░░░░
 <!-- blog ends -->
 
 </td>
+
+<td valign="top" width="50%">
+
+#### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
+
+<!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1308017/' target='_blank'>看过漩涡</a> - 2025-06-15 07:55:22
+* <a href='https://book.douban.com/subject/6425947/' target='_blank'>读过ジャーロ</a> - 2025-06-14 14:59:55
+* <a href='https://book.douban.com/subject/36991086/' target='_blank'>想读ぼくは化け物 きみは怪物</a> - 2025-06-14 14:18:09
+* <a href='https://book.douban.com/subject/5246800/' target='_blank'>最近在读毛泽东传</a> - 2025-06-14 10:31:03
+* <a href='https://book.douban.com/subject/35768243/' target='_blank'>读过Linux是怎样工作的</a> - 2025-06-14 09:38:54
+<!-- douban ends -->
+
+</td>
 </tr>
+
+
+<!-- code_time starts -->
+
+```text
+Python     9 hrs 48 mins  ██████████▍░░░░░░░░░░  49.4%
+JavaScript 1 hr 55 mins   ██░░░░░░░░░░░░░░░░░░░   9.7%
+Markdown   1 hr 54 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
+C/C++      1 hr 28 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
+HTML       1 hr 10 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
+```
+
+<!-- code_time ends -->
 
 </table>
 

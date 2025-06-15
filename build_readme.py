@@ -55,13 +55,13 @@ if __name__ == "__main__":
     code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
     rewritten = replace_chunk(readme_contents, "code_time", code_time_text)
 
-    entries = fetch_blog_entries()[:5]
+    entries = fetch_blog_entries()[:10]
     entries_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
-    douban_entries = fetch_douban_entries()[:5]
+    douban_entries = fetch_douban_entries()[:10]
     douban_entries_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in douban_entries]
     )

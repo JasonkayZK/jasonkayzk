@@ -75,15 +75,20 @@
 
 
 
+<table width="800px">
+<tr>
+<td valign="top" width="50%">
+
 - 🎓 A teacher at the School of Computer Science, PZXY.
 - 🌱 I’m currently using Java, Golang, Rust, JS & TS.
 - 👯 I’m looking to collaborate on distributed system and cloud-native developing.
 - 📫 Reach me: jasonkayzk@gmail.com
 - 😄 Pronouns: Jasonkay
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
 - ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
 
+</td>
 
+<td valign="top" width="50%">
 <!-- code_time starts -->
 
 ```text
@@ -95,6 +100,13 @@ HTML       1 hr 10 mins   █▏░░░░░░░░░░░░░░░░
 ```
 
 <!-- code_time ends -->
+</td>
+</tr>
+</table>
+
+<p align="center">
+👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/jasonkayzk/)
+</p>
 
 
 <table width="800px">

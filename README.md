@@ -94,6 +94,11 @@
 * <a href='https://jasonkayzk.github.io/2025/01/29/%E4%BD%BF%E7%94%A8AnythingLLM-SillconFlow-Milvus%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E4%BA%91%E7%AB%AF%E7%9F%A5%E8%AF%86%E5%BA%93/' target='_blank'>使用AnythingLLM+SillconFlow+Milvus快速搭建个人云端知识库</a> - 2025-01-29
 * <a href='https://jasonkayzk.github.io/2025/01/17/%E3%80%90%E9%A1%B6%E3%80%91%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%94%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%95%EF%BC%81/' target='_blank'>【顶】さよなら２０２４、こんにちは２０２５！</a> - 2025-01-17
 * <a href='https://jasonkayzk.github.io/2024/09/11/Excel%E9%80%9A%E8%BF%87%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E5%88%97%E8%AE%A1%E7%AE%97%E6%80%A7%E5%88%AB/' target='_blank'>Excel通过身份证号列计算性别</a> - 2024-09-11
+* <a href='https://jasonkayzk.github.io/2024/08/22/%E5%BC%80%E6%BA%90%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B9%A6%E7%B1%8D%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FTalebook/' target='_blank'>开源的个人书籍管理系统Talebook</a> - 2024-08-22
+* <a href='https://jasonkayzk.github.io/2024/08/22/2024%E5%B9%B4%E5%AE%89%E8%A3%85Docker%E7%9A%84%E6%96%B9%E6%B3%95/' target='_blank'>2024年安装Docker的方法</a> - 2024-08-22
+* <a href='https://jasonkayzk.github.io/2024/08/21/Python%E9%A1%B9%E7%9B%AELinter%E3%80%81Formatter%E5%92%8CGithub-Actions%E9%85%8D%E7%BD%AE/' target='_blank'>Python项目Linter、Formatter和Github-Actions配置</a> - 2024-08-21
+* <a href='https://jasonkayzk.github.io/2024/08/21/Zerotier%E9%85%8D%E7%BD%AE%E5%86%85%E7%BD%91%E6%B5%81%E9%87%8F%E8%BD%AC%E5%8F%91/' target='_blank'>Zerotier配置内网流量转发</a> - 2024-08-21
+* <a href='https://jasonkayzk.github.io/2024/08/21/%E5%85%B3%E4%BA%8E%E8%AF%B4%E8%AF%9D%E8%89%BA%E6%9C%AF%E7%9A%84%E8%B5%84%E6%BA%90/' target='_blank'>关于说话艺术的资源</a> - 2024-08-21
 <!-- blog ends -->
 
 </td>
@@ -108,6 +113,11 @@
 * <a href='https://book.douban.com/subject/36991086/' target='_blank'>想读ぼくは化け物 きみは怪物</a> - 2025-06-14 14:18:09
 * <a href='https://book.douban.com/subject/5246800/' target='_blank'>最近在读毛泽东传</a> - 2025-06-14 10:31:03
 * <a href='https://book.douban.com/subject/35768243/' target='_blank'>读过Linux是怎样工作的</a> - 2025-06-14 09:38:54
+* <a href='https://book.douban.com/subject/37305124/' target='_blank'>想读从零构建大模型</a> - 2025-06-13 12:17:22
+* <a href='https://book.douban.com/subject/37339504/' target='_blank'>想读图解大模型</a> - 2025-06-13 12:17:02
+* <a href='https://book.douban.com/subject/36065794/' target='_blank'>读过吉卜力的天才们</a> - 2025-06-12 12:11:53
+* <a href='https://movie.douban.com/subject/1865703/' target='_blank'>看过红辣椒</a> - 2025-06-11 23:03:05
+* <a href='https://movie.douban.com/subject/36901661/' target='_blank'>看过那个人消失了</a> - 2025-06-10 13:58:07
 <!-- douban ends -->
 
 </td>

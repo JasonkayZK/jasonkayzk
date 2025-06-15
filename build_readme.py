@@ -55,7 +55,7 @@ if __name__ == "__main__":
     code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
     rewritten = replace_chunk(readme_contents, "code_time", code_time_text)
 
-    entries = fetch_blog_entries()[:10]
+    entries = fetch_blog_entries()[:6]
     entries_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
     )

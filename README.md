@@ -84,12 +84,6 @@
 - ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
 
 
-<table width="800px">
-<tr>
-<td valign="top" width="50%">
-
-#### 🏊‍♂️ <a href="https://gist.github.com/JasonkayZK/59ead22758ee823e48b558d3cff332f1" target="_blank">Weekly Development Breakdown</a>
-
 <!-- code_time starts -->
 
 ```text
@@ -101,8 +95,10 @@ HTML       1 hr 10 mins   █▏░░░░░░░░░░░░░░░░
 ```
 
 <!-- code_time ends -->
-</td>
 
+
+<table width="800px">
+<tr>
 <td valign="top" width="50%">
 
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
@@ -114,6 +110,20 @@ HTML       1 hr 10 mins   █▏░░░░░░░░░░░░░░░░
 * <a href='https://jasonkayzk.github.io/2025/01/17/%E3%80%90%E9%A1%B6%E3%80%91%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%94%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%95%EF%BC%81/' target='_blank'>【顶】さよなら２０２４、こんにちは２０２５！</a> - 2025-01-17
 * <a href='https://jasonkayzk.github.io/2024/09/11/Excel%E9%80%9A%E8%BF%87%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E5%88%97%E8%AE%A1%E7%AE%97%E6%80%A7%E5%88%AB/' target='_blank'>Excel通过身份证号列计算性别</a> - 2024-09-11
 <!-- blog ends -->
+
+</td>
+
+<td valign="top" width="50%">
+
+#### 🏊‍♂️ <a href="https://www.douban.com/feed/people/219317116/interests" target="_blank">Recently Douban</a>
+
+<!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1308017/' target='_blank'>看过漩涡</a> - 2025-06-15 07:55:22
+* <a href='https://book.douban.com/subject/6425947/' target='_blank'>读过ジャーロ</a> - 2025-06-14 14:59:55
+* <a href='https://book.douban.com/subject/36991086/' target='_blank'>想读ぼくは化け物 きみは怪物</a> - 2025-06-14 14:18:09
+* <a href='https://book.douban.com/subject/5246800/' target='_blank'>最近在读毛泽东传</a> - 2025-06-14 10:31:03
+* <a href='https://book.douban.com/subject/35768243/' target='_blank'>读过Linux是怎样工作的</a> - 2025-06-14 09:38:54
+<!-- douban ends -->
 
 </td>
 </tr>

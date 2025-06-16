@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://movie.douban.com/subject/1308017/' target='_blank'>看过漩涡</a> - 2025-06-15 07:55:22
+* <a href='https://book.douban.com/subject/6425947/' target='_blank'>读过ジャーロ</a> - 2025-06-14 14:59:55
+* <a href='https://book.douban.com/subject/36991086/' target='_blank'>想读ぼくは化け物 きみは怪物</a> - 2025-06-14 14:18:09
+* <a href='https://book.douban.com/subject/5246800/' target='_blank'>最近在读毛泽东传</a> - 2025-06-14 10:31:03
+* <a href='https://book.douban.com/subject/35768243/' target='_blank'>读过Linux是怎样工作的</a> - 2025-06-14 09:38:54
+* <a href='https://book.douban.com/subject/37305124/' target='_blank'>想读从零构建大模型</a> - 2025-06-13 12:17:22
+* <a href='https://book.douban.com/subject/37339504/' target='_blank'>想读图解大模型</a> - 2025-06-13 12:17:02
+* <a href='https://book.douban.com/subject/36065794/' target='_blank'>读过吉卜力的天才们</a> - 2025-06-12 12:11:53
+* <a href='https://movie.douban.com/subject/1865703/' target='_blank'>看过红辣椒</a> - 2025-06-11 23:03:05
+* <a href='https://movie.douban.com/subject/36901661/' target='_blank'>看过那个人消失了</a> - 2025-06-10 13:58:07
 <!-- douban ends -->
 
 </td>

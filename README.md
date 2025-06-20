@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     7 hrs 59 mins  █████████▉░░░░░░░░░░░  47.4%
-JavaScript 1 hr 48 mins   ██▎░░░░░░░░░░░░░░░░░░  10.7%
-Markdown   1 hr 31 mins   █▉░░░░░░░░░░░░░░░░░░░   9.0%
-Bash       1 hr 11 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
-HTML       1 hr 1 min     █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Python     5 hrs 53 mins  █████████▎░░░░░░░░░░░  44.4%
+Markdown   1 hr 25 mins   ██▎░░░░░░░░░░░░░░░░░░  10.7%
+JavaScript 1 hr 17 mins   ██░░░░░░░░░░░░░░░░░░░   9.7%
+HTML       53 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Bash       52 mins        █▍░░░░░░░░░░░░░░░░░░░   6.5%
 ```
 
 <!-- code_time ends -->

@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Vue.js     2 hrs 16 mins  █████▉░░░░░░░░░░░░░░░  28.1%
-Python     1 hr 40 mins   ████▎░░░░░░░░░░░░░░░░  20.6%
-TypeScript 43 mins        █▉░░░░░░░░░░░░░░░░░░░   9.0%
-Text       42 mins        █▊░░░░░░░░░░░░░░░░░░░   8.7%
-RPMSpec    24 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+Vue.js     9 hrs 1 min    ██████████████▏░░░░░░  67.8%
+TypeScript 1 hr 5 mins    █▋░░░░░░░░░░░░░░░░░░░   8.2%
+Python     1 hr 4 mins    █▋░░░░░░░░░░░░░░░░░░░   8.0%
+Markdown   27 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+RPMSpec    24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 
 <!-- code_time ends -->

@@ -104,6 +104,8 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/25761310/' target='_blank'>想读汽车是怎样跑起来的</a> - 2025-06-27 01:31:53
+* <a href='https://movie.douban.com/subject/1418625/' target='_blank'>看过东京铁拳</a> - 2025-06-26 12:11:48
 * <a href='https://movie.douban.com/subject/34979060/' target='_blank'>想看还会与你相见3次</a> - 2025-06-24 01:02:06
 * <a href='https://movie.douban.com/subject/1293182/' target='_blank'>看过十二怒汉</a> - 2025-06-22 10:19:01
 * <a href='http://www.douban.com/game/37364867/' target='_blank'>玩过情感反诈模拟器 Revenge On Gold Diggers</a> - 2025-06-22 03:05:54
@@ -112,8 +114,6 @@
 * <a href='https://book.douban.com/subject/6425947/' target='_blank'>读过ジャーロ</a> - 2025-06-14 14:59:55
 * <a href='https://book.douban.com/subject/36991086/' target='_blank'>想读ぼくは化け物 きみは怪物</a> - 2025-06-14 14:18:09
 * <a href='https://book.douban.com/subject/5246800/' target='_blank'>最近在读毛泽东传</a> - 2025-06-14 10:31:03
-* <a href='https://book.douban.com/subject/35768243/' target='_blank'>读过Linux是怎样工作的</a> - 2025-06-14 09:38:54
-* <a href='https://book.douban.com/subject/37305124/' target='_blank'>想读从零构建大模型</a> - 2025-06-13 12:17:22
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Vue.js     9 hrs 1 min    ██████████████▏░░░░░░  67.8%
-TypeScript 1 hr 5 mins    █▋░░░░░░░░░░░░░░░░░░░   8.2%
-Python     1 hr 4 mins    █▋░░░░░░░░░░░░░░░░░░░   8.0%
-Markdown   27 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-RPMSpec    24 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Vue.js     12 hrs 1 min   █████████████▊░░░░░░░  65.7%
+TypeScript 1 hr 29 mins   █▋░░░░░░░░░░░░░░░░░░░   8.1%
+HTTP       1 hr 17 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Python     1 hr 4 mins    █▏░░░░░░░░░░░░░░░░░░░   5.8%
+JSON       36 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time ends -->

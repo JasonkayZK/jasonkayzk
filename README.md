@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Vue.js     12 hrs 1 min   █████████████▊░░░░░░░  65.7%
-TypeScript 1 hr 29 mins   █▋░░░░░░░░░░░░░░░░░░░   8.1%
-HTTP       1 hr 17 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
-Python     1 hr 4 mins    █▏░░░░░░░░░░░░░░░░░░░   5.8%
-JSON       36 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Vue.js     12 hrs 38 mins ██████████▊░░░░░░░░░░  51.6%
+JavaScript 4 hrs 32 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
+TypeScript 1 hr 33 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
+HTTP       1 hr 17 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
+JSON       1 hr 12 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
 ```
 
 <!-- code_time ends -->

@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://book.douban.com/subject/4277347/' target='_blank'>想读解体诸因</a> - 2025-07-07 06:12:20
+* <a href='https://movie.douban.com/subject/36922717/' target='_blank'>看过TXQ FICTION 向饭沼一家谢罪</a> - 2025-07-06 02:53:07
+* <a href='https://book.douban.com/subject/25761310/' target='_blank'>想读汽车是怎样跑起来的</a> - 2025-06-27 01:31:53
+* <a href='https://movie.douban.com/subject/1418625/' target='_blank'>看过东京铁拳</a> - 2025-06-26 12:11:48
+* <a href='https://movie.douban.com/subject/34979060/' target='_blank'>想看还会与你相见3次</a> - 2025-06-24 01:02:06
+* <a href='https://movie.douban.com/subject/1293182/' target='_blank'>看过十二怒汉</a> - 2025-06-22 10:19:01
+* <a href='http://www.douban.com/game/37364867/' target='_blank'>玩过情感反诈模拟器 Revenge On Gold Diggers</a> - 2025-06-22 03:05:54
+* <a href='https://book.douban.com/subject/37180056/' target='_blank'>想读从零开始写Linux内核</a> - 2025-06-18 00:15:27
+* <a href='https://movie.douban.com/subject/1308017/' target='_blank'>看过漩涡</a> - 2025-06-15 07:55:22
+* <a href='https://book.douban.com/subject/6425947/' target='_blank'>读过ジャーロ</a> - 2025-06-14 14:59:55
 <!-- douban ends -->
 
 </td>

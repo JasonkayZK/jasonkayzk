@@ -104,16 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/30360968/' target='_blank'>最近在读分布式机器学习</a> - 2025-07-13 01:41:45
+* <a href='https://book.douban.com/subject/36335459/' target='_blank'>想读深入理解分布式共识算法</a> - 2025-07-13 01:20:23
+* <a href='https://book.douban.com/subject/35794814/' target='_blank'>想读深入理解分布式系统</a> - 2025-07-12 23:48:18
+* <a href='https://movie.douban.com/subject/36471252/' target='_blank'>看过丑陋的继姐</a> - 2025-07-12 04:18:17
 * <a href='https://movie.douban.com/subject/1424334/' target='_blank'>看过洞</a> - 2025-07-12 01:18:46
 * <a href='https://book.douban.com/subject/4277347/' target='_blank'>读过解体诸因</a> - 2025-07-07 11:44:01
 * <a href='https://movie.douban.com/subject/36922717/' target='_blank'>看过TXQ FICTION 向饭沼一家谢罪</a> - 2025-07-06 02:53:07
 * <a href='https://book.douban.com/subject/25761310/' target='_blank'>想读汽车是怎样跑起来的</a> - 2025-06-27 01:31:53
 * <a href='https://movie.douban.com/subject/1418625/' target='_blank'>看过东京铁拳</a> - 2025-06-26 12:11:48
 * <a href='https://movie.douban.com/subject/34979060/' target='_blank'>想看还会与你相见3次</a> - 2025-06-24 01:02:06
-* <a href='https://movie.douban.com/subject/1293182/' target='_blank'>看过十二怒汉</a> - 2025-06-22 10:19:01
-* <a href='http://www.douban.com/game/37364867/' target='_blank'>玩过情感反诈模拟器 Revenge On Gold Diggers</a> - 2025-06-22 03:05:54
-* <a href='https://book.douban.com/subject/37180056/' target='_blank'>想读从零开始写Linux内核</a> - 2025-06-18 00:15:27
-* <a href='https://movie.douban.com/subject/1308017/' target='_blank'>看过漩涡</a> - 2025-06-15 07:55:22
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 37 mins        █████████████░░░░░░░░  62.0%
-Python     11 mins        ████░░░░░░░░░░░░░░░░░  19.4%
-TypeScript 6 mins         ██▎░░░░░░░░░░░░░░░░░░  11.3%
-Vue.js     2 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-HTML       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+JavaScript 13 mins        ███████████░░░░░░░░░░  52.7%
+Python     11 mins        █████████▊░░░░░░░░░░░  46.5%
+HTML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->

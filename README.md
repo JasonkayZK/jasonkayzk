@@ -89,12 +89,12 @@
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2025/07/14/uv%E4%BD%BF%E7%94%A8/' target='_blank'>uv使用</a> - 2025-07-14
+* <a href='https://jasonkayzk.github.io/2025/07/14/gemini-cli%E4%BD%BF%E7%94%A8/' target='_blank'>gemini-cli使用</a> - 2025-07-14
 * <a href='https://jasonkayzk.github.io/2025/05/04/%E8%B7%91%E6%AD%A5%E4%B8%80%E5%B9%B4%E5%A4%9A%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93%E5%92%8C%E6%84%9F%E6%83%B3/' target='_blank'>跑步一年多的一些总结和感想</a> - 2025-05-04
 * <a href='https://jasonkayzk.github.io/2025/01/30/%E9%80%9A%E8%BF%87GithubActions%E6%8B%89%E5%8F%96%E5%B9%B6%E6%8E%A8%E9%80%81Docker%E9%95%9C%E5%83%8F%E5%88%B0%E5%9B%BD%E5%86%85%E4%BA%91/' target='_blank'>通过GithubActions拉取并推送Docker镜像到国内云</a> - 2025-01-30
 * <a href='https://jasonkayzk.github.io/2025/01/29/%E4%BD%BF%E7%94%A8AnythingLLM-SillconFlow-Milvus%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E4%BA%91%E7%AB%AF%E7%9F%A5%E8%AF%86%E5%BA%93/' target='_blank'>使用AnythingLLM+SillconFlow+Milvus快速搭建个人云端知识库</a> - 2025-01-29
 * <a href='https://jasonkayzk.github.io/2025/01/17/%E3%80%90%E9%A1%B6%E3%80%91%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%94%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%95%EF%BC%81/' target='_blank'>【顶】さよなら２０２４、こんにちは２０２５！</a> - 2025-01-17
-* <a href='https://jasonkayzk.github.io/2024/09/11/Excel%E9%80%9A%E8%BF%87%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8F%B7%E5%88%97%E8%AE%A1%E7%AE%97%E6%80%A7%E5%88%AB/' target='_blank'>Excel通过身份证号列计算性别</a> - 2024-09-11
-* <a href='https://jasonkayzk.github.io/2024/08/22/%E5%BC%80%E6%BA%90%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B9%A6%E7%B1%8D%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FTalebook/' target='_blank'>开源的个人书籍管理系统Talebook</a> - 2024-08-22
 <!-- blog ends -->
 
 </td>

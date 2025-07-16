@@ -89,12 +89,12 @@
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2025/07/15/RSS%E8%AE%A2%E9%98%85%E5%B7%A5%E5%85%B7Folo%E4%BD%BF%E7%94%A8/' target='_blank'>RSS订阅工具Folo使用</a> - 2025-07-15
+* <a href='https://jasonkayzk.github.io/2025/07/15/%E5%A4%9A%E5%B9%B3%E5%8F%B0%E6%B6%88%E6%81%AF%E6%8E%A8%E9%80%81%E5%B7%A5%E5%85%B7ntfy%E4%BD%BF%E7%94%A8/' target='_blank'>多平台消息推送工具ntfy使用</a> - 2025-07-15
+* <a href='https://jasonkayzk.github.io/2025/07/15/AppleScript%E4%BB%8B%E7%BB%8D%E4%B8%8E%E7%AE%80%E5%8D%95%E5%AE%9E%E6%88%98/' target='_blank'>AppleScript介绍与简单实战</a> - 2025-07-15
 * <a href='https://jasonkayzk.github.io/2025/07/14/uv%E4%BD%BF%E7%94%A8/' target='_blank'>uv使用</a> - 2025-07-14
 * <a href='https://jasonkayzk.github.io/2025/07/14/gemini-cli%E4%BD%BF%E7%94%A8/' target='_blank'>gemini-cli使用</a> - 2025-07-14
 * <a href='https://jasonkayzk.github.io/2025/05/04/%E8%B7%91%E6%AD%A5%E4%B8%80%E5%B9%B4%E5%A4%9A%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93%E5%92%8C%E6%84%9F%E6%83%B3/' target='_blank'>跑步一年多的一些总结和感想</a> - 2025-05-04
-* <a href='https://jasonkayzk.github.io/2025/01/30/%E9%80%9A%E8%BF%87GithubActions%E6%8B%89%E5%8F%96%E5%B9%B6%E6%8E%A8%E9%80%81Docker%E9%95%9C%E5%83%8F%E5%88%B0%E5%9B%BD%E5%86%85%E4%BA%91/' target='_blank'>通过GithubActions拉取并推送Docker镜像到国内云</a> - 2025-01-30
-* <a href='https://jasonkayzk.github.io/2025/01/29/%E4%BD%BF%E7%94%A8AnythingLLM-SillconFlow-Milvus%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E4%BA%91%E7%AB%AF%E7%9F%A5%E8%AF%86%E5%BA%93/' target='_blank'>使用AnythingLLM+SillconFlow+Milvus快速搭建个人云端知识库</a> - 2025-01-29
-* <a href='https://jasonkayzk.github.io/2025/01/17/%E3%80%90%E9%A1%B6%E3%80%91%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%94%E3%80%81%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%95%EF%BC%81/' target='_blank'>【顶】さよなら２０２４、こんにちは２０２５！</a> - 2025-01-17
 <!-- blog ends -->
 
 </td>
@@ -104,6 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/30442376/' target='_blank'>想看我，到点下班</a> - 2025-07-15 06:04:22
 * <a href='https://book.douban.com/subject/30360968/' target='_blank'>最近在读分布式机器学习</a> - 2025-07-13 01:41:45
 * <a href='https://book.douban.com/subject/36335459/' target='_blank'>想读深入理解分布式共识算法</a> - 2025-07-13 01:20:23
 * <a href='https://book.douban.com/subject/35794814/' target='_blank'>想读深入理解分布式系统</a> - 2025-07-12 23:48:18
@@ -113,7 +114,6 @@
 * <a href='https://movie.douban.com/subject/36922717/' target='_blank'>看过TXQ FICTION 向饭沼一家谢罪</a> - 2025-07-06 02:53:07
 * <a href='https://book.douban.com/subject/25761310/' target='_blank'>想读汽车是怎样跑起来的</a> - 2025-06-27 01:31:53
 * <a href='https://movie.douban.com/subject/1418625/' target='_blank'>看过东京铁拳</a> - 2025-06-26 12:11:48
-* <a href='https://movie.douban.com/subject/34979060/' target='_blank'>想看还会与你相见3次</a> - 2025-06-24 01:02:06
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-YAML       52 mins        █████████████▋░░░░░░░  65.3%
-JavaScript 13 mins        ███▌░░░░░░░░░░░░░░░░░  16.8%
-Python     11 mins        ███░░░░░░░░░░░░░░░░░░  14.9%
-Shell S... 2 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.7%
-HTML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Markdown   1 hr 26 mins   ███████▍░░░░░░░░░░░░░  35.7%
+YAML       57 mins        ████▉░░░░░░░░░░░░░░░░  23.8%
+Python     31 mins        ██▊░░░░░░░░░░░░░░░░░░  13.1%
+GitIgno... 23 mins        ██░░░░░░░░░░░░░░░░░░░   9.8%
+JavaScript 13 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
 ```
 
 <!-- code_time ends -->

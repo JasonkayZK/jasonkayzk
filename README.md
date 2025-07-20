@@ -104,6 +104,8 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/35514645/' target='_blank'>看过K先生</a> - 2025-07-19 22:58:56
+* <a href='https://movie.douban.com/subject/35744428/' target='_blank'>看过如月车站</a> - 2025-07-19 08:45:01
 * <a href='https://book.douban.com/subject/36497658/' target='_blank'>读过エレファントヘッド</a> - 2025-07-18 15:53:21
 * <a href='https://book.douban.com/subject/37172316/' target='_blank'>读过象之首</a> - 2025-07-18 15:48:28
 * <a href='https://book.douban.com/subject/37422829/' target='_blank'>想读象首迷宮</a> - 2025-07-18 14:54:37
@@ -112,8 +114,6 @@
 * <a href='https://book.douban.com/subject/1501873/' target='_blank'>读过中日交流标准日本语（新版初级上下册）</a> - 2025-07-18 14:23:48
 * <a href='https://book.douban.com/subject/27591836/' target='_blank'>想读日本语</a> - 2025-07-18 14:20:52
 * <a href='https://movie.douban.com/subject/26747919/' target='_blank'>看过749局</a> - 2025-07-17 23:06:15
-* <a href='https://movie.douban.com/subject/36620953/' target='_blank'>看过大“反”派</a> - 2025-07-17 23:06:01
-* <a href='https://book.douban.com/subject/27118203/' target='_blank'>读过謎の館へようこそ 黒 新本格30周年記念アンソロジー</a> - 2025-07-17 10:33:25
 <!-- douban ends -->
 
 </td>

@@ -89,12 +89,12 @@
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2025/07/21/debian12%E9%83%A8%E7%BD%B2kubernetes-1-28%E9%9B%86%E7%BE%A4/' target='_blank'>debian12部署kubernetes-1.28集群</a> - 2025-07-21
+* <a href='https://jasonkayzk.github.io/2025/07/21/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%9Axsync%E5%92%8Cxcall/' target='_blank'>分享两个服务器实用脚本：xsync和xcall</a> - 2025-07-21
 * <a href='https://jasonkayzk.github.io/2025/07/15/RSS%E8%AE%A2%E9%98%85%E5%B7%A5%E5%85%B7Folo%E4%BD%BF%E7%94%A8/' target='_blank'>RSS订阅工具Folo使用</a> - 2025-07-15
 * <a href='https://jasonkayzk.github.io/2025/07/15/%E5%A4%9A%E5%B9%B3%E5%8F%B0%E6%B6%88%E6%81%AF%E6%8E%A8%E9%80%81%E5%B7%A5%E5%85%B7ntfy%E4%BD%BF%E7%94%A8/' target='_blank'>多平台消息推送工具ntfy使用</a> - 2025-07-15
 * <a href='https://jasonkayzk.github.io/2025/07/15/AppleScript%E4%BB%8B%E7%BB%8D%E4%B8%8E%E7%AE%80%E5%8D%95%E5%AE%9E%E6%88%98/' target='_blank'>AppleScript介绍与简单实战</a> - 2025-07-15
 * <a href='https://jasonkayzk.github.io/2025/07/14/uv%E4%BD%BF%E7%94%A8/' target='_blank'>uv使用</a> - 2025-07-14
-* <a href='https://jasonkayzk.github.io/2025/07/14/gemini-cli%E4%BD%BF%E7%94%A8/' target='_blank'>gemini-cli使用</a> - 2025-07-14
-* <a href='https://jasonkayzk.github.io/2025/05/04/%E8%B7%91%E6%AD%A5%E4%B8%80%E5%B9%B4%E5%A4%9A%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93%E5%92%8C%E6%84%9F%E6%83%B3/' target='_blank'>跑步一年多的一些总结和感想</a> - 2025-05-04
 <!-- blog ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   1 hr 49 mins   ████████▊░░░░░░░░░░░░  42.3%
-Other      29 mins        ██▎░░░░░░░░░░░░░░░░░░  11.2%
-YAML       26 mins        ██▏░░░░░░░░░░░░░░░░░░  10.3%
-GitIgno... 25 mins        ██░░░░░░░░░░░░░░░░░░░   9.8%
-Jupyter    20 mins        █▋░░░░░░░░░░░░░░░░░░░   8.0%
+Markdown   1 hr 50 mins   ███████▎░░░░░░░░░░░░░  34.9%
+C++        41 mins        ██▊░░░░░░░░░░░░░░░░░░  13.3%
+YAML       35 mins        ██▎░░░░░░░░░░░░░░░░░░  11.2%
+Other      29 mins        █▉░░░░░░░░░░░░░░░░░░░   9.5%
+GitIgno... 25 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
 ```
 
 <!-- code_time ends -->

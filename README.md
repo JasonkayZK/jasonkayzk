@@ -89,12 +89,12 @@
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2025/07/24/%E4%B8%80%E4%BA%9B%E5%85%8D%E8%B4%B9%E7%9A%84GPU%E8%B5%84%E6%BA%90/' target='_blank'>一些免费的GPU资源</a> - 2025-07-24
 * <a href='https://jasonkayzk.github.io/2025/07/21/debian12%E9%83%A8%E7%BD%B2kubernetes-1-28%E9%9B%86%E7%BE%A4/' target='_blank'>debian12部署kubernetes-1.28集群</a> - 2025-07-21
 * <a href='https://jasonkayzk.github.io/2025/07/21/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%9Axsync%E5%92%8Cxcall/' target='_blank'>分享两个服务器实用脚本：xsync和xcall</a> - 2025-07-21
 * <a href='https://jasonkayzk.github.io/2025/07/15/RSS%E8%AE%A2%E9%98%85%E5%B7%A5%E5%85%B7Folo%E4%BD%BF%E7%94%A8/' target='_blank'>RSS订阅工具Folo使用</a> - 2025-07-15
 * <a href='https://jasonkayzk.github.io/2025/07/15/%E5%A4%9A%E5%B9%B3%E5%8F%B0%E6%B6%88%E6%81%AF%E6%8E%A8%E9%80%81%E5%B7%A5%E5%85%B7ntfy%E4%BD%BF%E7%94%A8/' target='_blank'>多平台消息推送工具ntfy使用</a> - 2025-07-15
 * <a href='https://jasonkayzk.github.io/2025/07/15/AppleScript%E4%BB%8B%E7%BB%8D%E4%B8%8E%E7%AE%80%E5%8D%95%E5%AE%9E%E6%88%98/' target='_blank'>AppleScript介绍与简单实战</a> - 2025-07-15
-* <a href='https://jasonkayzk.github.io/2025/07/14/uv%E4%BD%BF%E7%94%A8/' target='_blank'>uv使用</a> - 2025-07-14
 <!-- blog ends -->
 
 </td>
@@ -104,6 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/2301701/' target='_blank'>看过人兽杂交</a> - 2025-07-25 02:29:27
 * <a href='https://movie.douban.com/subject/4935243/' target='_blank'>看过饥饿难耐</a> - 2025-07-20 05:33:29
 * <a href='https://movie.douban.com/subject/35514645/' target='_blank'>看过K先生</a> - 2025-07-19 22:58:56
 * <a href='https://movie.douban.com/subject/35744428/' target='_blank'>看过如月车站</a> - 2025-07-19 08:45:01
@@ -113,7 +114,6 @@
 * <a href='https://book.douban.com/subject/36512989/' target='_blank'>想读名侦探的献祭</a> - 2025-07-18 14:54:21
 * <a href='https://book.douban.com/subject/26581313/' target='_blank'>想读東京結合人間</a> - 2025-07-18 14:30:22
 * <a href='https://book.douban.com/subject/1501873/' target='_blank'>读过中日交流标准日本语（新版初级上下册）</a> - 2025-07-18 14:23:48
-* <a href='https://book.douban.com/subject/27591836/' target='_blank'>想读日本语</a> - 2025-07-18 14:20:52
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        6 hrs 11 mins  ███████████████▉░░░░░  76.2%
-YAML       30 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
-Markdown   23 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
-Jupyter    20 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-Other      19 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+C++        6 hrs 11 mins  █████████████████▌░░░  83.4%
+YAML       28 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Jupyter    21 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.8%
+Markdown   5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+JSON       5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time ends -->

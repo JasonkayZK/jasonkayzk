@@ -104,6 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/37130268/' target='_blank'>读过我是怪異，你是怪物</a> - 2025-07-25 13:16:57
 * <a href='https://movie.douban.com/subject/2301701/' target='_blank'>看过人兽杂交</a> - 2025-07-25 02:29:27
 * <a href='https://movie.douban.com/subject/4935243/' target='_blank'>看过饥饿难耐</a> - 2025-07-20 05:33:29
 * <a href='https://movie.douban.com/subject/35514645/' target='_blank'>看过K先生</a> - 2025-07-19 22:58:56
@@ -113,7 +114,6 @@
 * <a href='https://book.douban.com/subject/37422829/' target='_blank'>想读象首迷宮</a> - 2025-07-18 14:54:37
 * <a href='https://book.douban.com/subject/36512989/' target='_blank'>想读名侦探的献祭</a> - 2025-07-18 14:54:21
 * <a href='https://book.douban.com/subject/26581313/' target='_blank'>想读東京結合人間</a> - 2025-07-18 14:30:22
-* <a href='https://book.douban.com/subject/1501873/' target='_blank'>读过中日交流标准日本语（新版初级上下册）</a> - 2025-07-18 14:23:48
 <!-- douban ends -->
 
 </td>

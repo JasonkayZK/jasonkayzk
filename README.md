@@ -104,16 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36563406/' target='_blank'>看过私家侦探</a> - 2025-07-27 23:58:35
+* <a href='https://book.douban.com/subject/27617502/' target='_blank'>读过少女を殺す100の方法</a> - 2025-07-27 07:46:28
+* <a href='https://book.douban.com/subject/37013425/' target='_blank'>读过殺死少女的100種方法</a> - 2025-07-27 07:46:22
+* <a href='https://book.douban.com/subject/36991086/' target='_blank'>读过ぼくは化け物 きみは怪物</a> - 2025-07-27 07:44:25
+* <a href='https://movie.douban.com/subject/36738902/' target='_blank'>看过咒物寻凶</a> - 2025-07-27 07:39:14
 * <a href='https://movie.douban.com/subject/24297912/' target='_blank'>看过冰血暴 第一季</a> - 2025-07-26 09:12:34
 * <a href='https://movie.douban.com/subject/34951103/' target='_blank'>想看功勋</a> - 2025-07-26 09:08:49
 * <a href='https://book.douban.com/subject/37130268/' target='_blank'>读过我是怪異，你是怪物</a> - 2025-07-25 13:16:57
 * <a href='https://movie.douban.com/subject/2301701/' target='_blank'>看过人兽杂交</a> - 2025-07-25 02:29:27
 * <a href='https://movie.douban.com/subject/4935243/' target='_blank'>看过饥饿难耐</a> - 2025-07-20 05:33:29
-* <a href='https://movie.douban.com/subject/35514645/' target='_blank'>看过K先生</a> - 2025-07-19 22:58:56
-* <a href='https://movie.douban.com/subject/35744428/' target='_blank'>看过如月车站</a> - 2025-07-19 08:45:01
-* <a href='https://book.douban.com/subject/36497658/' target='_blank'>读过エレファントヘッド</a> - 2025-07-18 15:53:21
-* <a href='https://book.douban.com/subject/37172316/' target='_blank'>读过象之首</a> - 2025-07-18 15:48:28
-* <a href='https://book.douban.com/subject/37422829/' target='_blank'>想读象首迷宮</a> - 2025-07-18 14:54:37
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-C++        6 hrs 18 mins  █████████████▉░░░░░░░  66.4%
-Markdown   1 hr 16 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
-YAML       29 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
-Jupyter    21 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-CMake      19 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+C++        6 hrs 18 mins  ███████████████▍░░░░░  73.3%
+Markdown   1 hr 12 mins   ██▉░░░░░░░░░░░░░░░░░░  14.1%
+CMake      19 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+C/C++      10 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+textmate   9 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time ends -->

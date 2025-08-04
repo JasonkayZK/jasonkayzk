@@ -104,6 +104,8 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/35593344/' target='_blank'>看过奥本海默</a> - 2025-08-03 08:36:32
+* <a href='https://movie.douban.com/subject/2299372/' target='_blank'>看过我们的留学生活——在日本的日子</a> - 2025-08-03 05:41:40
 * <a href='https://movie.douban.com/subject/3005875/' target='_blank'>看过2012</a> - 2025-08-02 07:21:36
 * <a href='https://movie.douban.com/subject/26963810/' target='_blank'>看过月色真美</a> - 2025-08-02 06:13:29
 * <a href='https://movie.douban.com/subject/1436900/' target='_blank'>看过1公升的泪</a> - 2025-08-02 05:46:05
@@ -112,8 +114,6 @@
 * <a href='https://book.douban.com/subject/37013425/' target='_blank'>读过殺死少女的100種方法</a> - 2025-07-27 07:46:22
 * <a href='https://book.douban.com/subject/36991086/' target='_blank'>读过ぼくは化け物 きみは怪物</a> - 2025-07-27 07:44:25
 * <a href='https://movie.douban.com/subject/36738902/' target='_blank'>看过咒物寻凶</a> - 2025-07-27 07:39:14
-* <a href='https://movie.douban.com/subject/24297912/' target='_blank'>看过冰血暴 第一季</a> - 2025-07-26 09:12:34
-* <a href='https://movie.douban.com/subject/34951103/' target='_blank'>想看功勋</a> - 2025-07-26 09:08:49
 <!-- douban ends -->
 
 </td>

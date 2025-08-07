@@ -104,16 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/35689348/' target='_blank'>最近在读程序员数学</a> - 2025-08-06 20:43:40
+* <a href='https://book.douban.com/subject/26677354/' target='_blank'>想读数学女孩</a> - 2025-08-06 20:28:17
+* <a href='https://book.douban.com/subject/35015043/' target='_blank'>想读程序员的数学（第2版）</a> - 2025-08-06 20:24:16
+* <a href='https://book.douban.com/subject/35033507/' target='_blank'>想读数学之美（第三版）</a> - 2025-08-06 15:19:33
+* <a href='https://book.douban.com/subject/1105381/' target='_blank'>想读人月神话</a> - 2025-08-06 15:17:57
+* <a href='https://book.douban.com/subject/1148282/' target='_blank'>想读计算机程序的构造和解释(原书第2版)</a> - 2025-08-06 15:14:06
+* <a href='https://book.douban.com/subject/26262681/' target='_blank'>想读陈阅增普通生物学（第4版）</a> - 2025-08-06 15:11:25
+* <a href='https://book.douban.com/subject/1400419/' target='_blank'>想读3D数学基础</a> - 2025-08-06 15:10:01
 * <a href='https://movie.douban.com/subject/35902715/' target='_blank'>看过#窨井盖</a> - 2025-08-04 14:16:22
 * <a href='https://movie.douban.com/subject/35593344/' target='_blank'>看过奥本海默</a> - 2025-08-03 08:36:32
-* <a href='https://movie.douban.com/subject/2299372/' target='_blank'>看过我们的留学生活——在日本的日子</a> - 2025-08-03 05:41:40
-* <a href='https://movie.douban.com/subject/3005875/' target='_blank'>看过2012</a> - 2025-08-02 07:21:36
-* <a href='https://movie.douban.com/subject/26963810/' target='_blank'>看过月色真美</a> - 2025-08-02 06:13:29
-* <a href='https://movie.douban.com/subject/1436900/' target='_blank'>看过1公升的泪</a> - 2025-08-02 05:46:05
-* <a href='https://movie.douban.com/subject/36563406/' target='_blank'>看过私家侦探</a> - 2025-07-27 23:58:35
-* <a href='https://book.douban.com/subject/27617502/' target='_blank'>读过少女を殺す100の方法</a> - 2025-07-27 07:46:28
-* <a href='https://book.douban.com/subject/37013425/' target='_blank'>读过殺死少女的100種方法</a> - 2025-07-27 07:46:22
-* <a href='https://book.douban.com/subject/36991086/' target='_blank'>读过ぼくは化け物 きみは怪物</a> - 2025-07-27 07:44:25
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-YAML       5 hrs 40 mins  ███████████▏░░░░░░░░░  53.4%
-Markdown   1 hr 59 mins   ███▉░░░░░░░░░░░░░░░░░  18.7%
-Pug        1 hr 21 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
-JavaScript 36 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
-CSV        20 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+YAML       2 hrs 59 mins  ███████▉░░░░░░░░░░░░░  37.9%
+Markdown   1 hr 44 mins   ████▋░░░░░░░░░░░░░░░░  22.1%
+Pug        51 mins        ██▎░░░░░░░░░░░░░░░░░░  11.0%
+CSV        20 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+C++        18 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
 ```
 
 <!-- code_time ends -->

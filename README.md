@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://book.douban.com/subject/35273652/' target='_blank'>想读BPF之巅</a> - 2025-08-07 05:07:35
+* <a href='https://book.douban.com/subject/35934902/' target='_blank'>想读性能之巅（第2版）：系统、企业与云可观测性</a> - 2025-08-07 05:07:24
+* <a href='https://book.douban.com/subject/35078474/' target='_blank'>想读数据库系统内幕</a> - 2025-08-07 05:05:39
+* <a href='https://book.douban.com/subject/37022273/' target='_blank'>想读流式系统</a> - 2025-08-07 05:05:27
+* <a href='https://book.douban.com/subject/35689348/' target='_blank'>最近在读程序员数学</a> - 2025-08-06 20:43:40
+* <a href='https://book.douban.com/subject/26677354/' target='_blank'>想读数学女孩</a> - 2025-08-06 20:28:17
+* <a href='https://book.douban.com/subject/35015043/' target='_blank'>想读程序员的数学（第2版）</a> - 2025-08-06 20:24:16
+* <a href='https://book.douban.com/subject/35033507/' target='_blank'>想读数学之美（第三版）</a> - 2025-08-06 15:19:33
+* <a href='https://book.douban.com/subject/1105381/' target='_blank'>想读人月神话</a> - 2025-08-06 15:17:57
+* <a href='https://book.douban.com/subject/1148282/' target='_blank'>想读计算机程序的构造和解释(原书第2版)</a> - 2025-08-06 15:14:06
 <!-- douban ends -->
 
 </td>

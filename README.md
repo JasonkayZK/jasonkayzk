@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://book.douban.com/subject/35252459/' target='_blank'>想读CUDA 编程：基础与实践</a> - 2025-08-14 03:17:10
+* <a href='https://book.douban.com/subject/35998320/' target='_blank'>想读通用图形处理器设计</a> - 2025-08-14 03:14:03
+* <a href='https://movie.douban.com/subject/1959195/' target='_blank'>想看忠犬八公物语</a> - 2025-08-10 10:26:01
+* <a href='https://book.douban.com/subject/35909089/' target='_blank'>想读用Go语言自制编译器</a> - 2025-08-09 01:01:15
+* <a href='https://book.douban.com/subject/36342440/' target='_blank'>想读流畅的Python (第2版)</a> - 2025-08-08 14:06:18
+* <a href='https://book.douban.com/subject/35273652/' target='_blank'>想读BPF之巅</a> - 2025-08-07 05:07:35
+* <a href='https://book.douban.com/subject/35934902/' target='_blank'>想读性能之巅（第2版）：系统、企业与云可观测性</a> - 2025-08-07 05:07:24
+* <a href='https://book.douban.com/subject/35078474/' target='_blank'>想读数据库系统内幕</a> - 2025-08-07 05:05:39
+* <a href='https://book.douban.com/subject/37022273/' target='_blank'>想读流式系统</a> - 2025-08-07 05:05:27
+* <a href='https://book.douban.com/subject/35689348/' target='_blank'>最近在读程序员数学</a> - 2025-08-06 20:43:40
 <!-- douban ends -->
 
 </td>

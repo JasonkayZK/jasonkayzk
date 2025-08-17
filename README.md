@@ -104,16 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/35252459/' target='_blank'>想读CUDA 编程：基础与实践</a> - 2025-08-14 03:17:10
-* <a href='https://book.douban.com/subject/35998320/' target='_blank'>想读通用图形处理器设计</a> - 2025-08-14 03:14:03
-* <a href='https://movie.douban.com/subject/1959195/' target='_blank'>想看忠犬八公物语</a> - 2025-08-10 10:26:01
-* <a href='https://book.douban.com/subject/35909089/' target='_blank'>想读用Go语言自制编译器</a> - 2025-08-09 01:01:15
-* <a href='https://book.douban.com/subject/36342440/' target='_blank'>想读流畅的Python (第2版)</a> - 2025-08-08 14:06:18
-* <a href='https://book.douban.com/subject/35273652/' target='_blank'>想读BPF之巅</a> - 2025-08-07 05:07:35
-* <a href='https://book.douban.com/subject/35934902/' target='_blank'>想读性能之巅（第2版）：系统、企业与云可观测性</a> - 2025-08-07 05:07:24
-* <a href='https://book.douban.com/subject/35078474/' target='_blank'>想读数据库系统内幕</a> - 2025-08-07 05:05:39
-* <a href='https://book.douban.com/subject/37022273/' target='_blank'>想读流式系统</a> - 2025-08-07 05:05:27
-* <a href='https://book.douban.com/subject/35689348/' target='_blank'>最近在读程序员数学</a> - 2025-08-06 20:43:40
+* <a href='http://www.douban.com/game/30254359/' target='_blank'>玩过死亡笔记 基拉游戏 DEATH NOTE キラゲーム</a> - 2025-08-16 04:41:16
+* <a href='https://movie.douban.com/subject/36283000/' target='_blank'>看过进击的巨人 最终季 完结篇 后篇</a> - 2025-08-16 04:30:58
+* <a href='https://movie.douban.com/subject/35853587/' target='_blank'>看过进击的巨人 最终季 完结篇 前篇</a> - 2025-08-16 04:30:53
+* <a href='https://movie.douban.com/subject/35290710/' target='_blank'>看过进击的巨人 最终季 Part.2</a> - 2025-08-16 04:30:46
+* <a href='https://movie.douban.com/subject/30353357/' target='_blank'>看过进击的巨人 第三季 Part.2</a> - 2025-08-16 04:30:33
+* <a href='https://movie.douban.com/subject/27072327/' target='_blank'>看过进击的巨人 第三季</a> - 2025-08-16 04:30:19
+* <a href='https://movie.douban.com/subject/26268494/' target='_blank'>看过进击的巨人 第二季</a> - 2025-08-16 04:30:08
+* <a href='https://movie.douban.com/subject/23748525/' target='_blank'>看过进击的巨人</a> - 2025-08-16 04:29:39
+* <a href='https://book.douban.com/subject/26600495/' target='_blank'>最近在读数值分析</a> - 2025-08-16 04:00:16
+* <a href='https://book.douban.com/subject/1914577/' target='_blank'>想读数值线性代数</a> - 2025-08-16 03:57:37
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-HTML       1 hr 10 mins   ███████████▊░░░░░░░░░  56.1%
-Markdown   40 mins        ██████▋░░░░░░░░░░░░░░  31.9%
-Jupyter    8 mins         █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Java       2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-YAML       1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+HTML       1 hr 10 mins   ████████████▋░░░░░░░░  60.5%
+Markdown   39 mins        ███████▏░░░░░░░░░░░░░  33.9%
+Java       2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+YAML       1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Python     0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time ends -->

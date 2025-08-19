@@ -104,16 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-* <a href='http://www.douban.com/game/30254359/' target='_blank'>玩过死亡笔记 基拉游戏 DEATH NOTE キラゲーム</a> - 2025-08-16 04:41:16
-* <a href='https://movie.douban.com/subject/36283000/' target='_blank'>看过进击的巨人 最终季 完结篇 后篇</a> - 2025-08-16 04:30:58
-* <a href='https://movie.douban.com/subject/35853587/' target='_blank'>看过进击的巨人 最终季 完结篇 前篇</a> - 2025-08-16 04:30:53
-* <a href='https://movie.douban.com/subject/35290710/' target='_blank'>看过进击的巨人 最终季 Part.2</a> - 2025-08-16 04:30:46
-* <a href='https://movie.douban.com/subject/30353357/' target='_blank'>看过进击的巨人 第三季 Part.2</a> - 2025-08-16 04:30:33
-* <a href='https://movie.douban.com/subject/27072327/' target='_blank'>看过进击的巨人 第三季</a> - 2025-08-16 04:30:19
-* <a href='https://movie.douban.com/subject/26268494/' target='_blank'>看过进击的巨人 第二季</a> - 2025-08-16 04:30:08
-* <a href='https://movie.douban.com/subject/23748525/' target='_blank'>看过进击的巨人</a> - 2025-08-16 04:29:39
-* <a href='https://book.douban.com/subject/26600495/' target='_blank'>最近在读数值分析</a> - 2025-08-16 04:00:16
-* <a href='https://book.douban.com/subject/1914577/' target='_blank'>想读数值线性代数</a> - 2025-08-16 03:57:37
+
 <!-- douban ends -->
 
 </td>

@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://movie.douban.com/subject/34906700/' target='_blank'>在看龙樱2</a> - 2025-08-18 12:28:11
+* <a href='https://movie.douban.com/subject/10590715/' target='_blank'>想看龙樱：东大考试机密技巧总传授SP</a> - 2025-08-18 12:22:59
+* <a href='https://movie.douban.com/subject/5370353/' target='_blank'>想看你教会了我什么最重要</a> - 2025-08-18 12:22:48
+* <a href='https://movie.douban.com/subject/1915312/' target='_blank'>看过龙樱</a> - 2025-08-18 12:21:47
+* <a href='https://movie.douban.com/subject/1782964/' target='_blank'>看过一公升的眼泪</a> - 2025-08-18 12:21:39
+* <a href='https://movie.douban.com/subject/3184572/' target='_blank'>想看紧急救命</a> - 2025-08-18 12:21:15
+* <a href='https://movie.douban.com/subject/25767614/' target='_blank'>想看我存在的时间</a> - 2025-08-18 12:21:00
+* <a href='https://movie.douban.com/subject/24753685/' target='_blank'>想看今天是再见的日子</a> - 2025-08-18 12:19:10
+* <a href='https://movie.douban.com/subject/1997685/' target='_blank'>想看交响情人梦</a> - 2025-08-18 12:15:09
+* <a href='https://movie.douban.com/subject/2017805/' target='_blank'>想看14岁的母亲</a> - 2025-08-18 12:12:29
 <!-- douban ends -->
 
 </td>

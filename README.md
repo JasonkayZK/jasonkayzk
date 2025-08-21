@@ -89,12 +89,12 @@
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2025/08/20/%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E8%AF%AD%E8%A8%80POML%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/' target='_blank'>下一代提示词工程语言POML简明教程</a> - 2025-08-20
 * <a href='https://jasonkayzk.github.io/2025/07/30/%E5%BC%80%E4%BA%86%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E4%B8%93%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AF%AD%E7%9A%84%E5%8D%9A%E5%AE%A2/' target='_blank'>开了一个新的专门学习日语的博客</a> - 2025-07-30
 * <a href='https://jasonkayzk.github.io/2025/07/29/%E4%B8%80%E3%80%81%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%B8%8ECUDA%E5%85%A5%E9%97%A8/' target='_blank'>一、并行编程导论与CUDA入门</a> - 2025-07-29
 * <a href='https://jasonkayzk.github.io/2025/07/24/%E4%B8%80%E4%BA%9B%E5%85%8D%E8%B4%B9%E7%9A%84GPU%E8%B5%84%E6%BA%90/' target='_blank'>一些免费的GPU资源</a> - 2025-07-24
 * <a href='https://jasonkayzk.github.io/2025/07/21/debian12%E9%83%A8%E7%BD%B2kubernetes-1-28%E9%9B%86%E7%BE%A4/' target='_blank'>debian12部署kubernetes-1.28集群</a> - 2025-07-21
 * <a href='https://jasonkayzk.github.io/2025/07/21/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%9Axsync%E5%92%8Cxcall/' target='_blank'>分享两个服务器实用脚本：xsync和xcall</a> - 2025-07-21
-* <a href='https://jasonkayzk.github.io/2025/07/15/RSS%E8%AE%A2%E9%98%85%E5%B7%A5%E5%85%B7Folo%E4%BD%BF%E7%94%A8/' target='_blank'>RSS订阅工具Folo使用</a> - 2025-07-15
 <!-- blog ends -->
 
 </td>
@@ -104,16 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/34906700/' target='_blank'>在看龙樱2</a> - 2025-08-18 12:28:11
-* <a href='https://movie.douban.com/subject/10590715/' target='_blank'>想看龙樱：东大考试机密技巧总传授SP</a> - 2025-08-18 12:22:59
-* <a href='https://movie.douban.com/subject/5370353/' target='_blank'>想看你教会了我什么最重要</a> - 2025-08-18 12:22:48
-* <a href='https://movie.douban.com/subject/1915312/' target='_blank'>看过龙樱</a> - 2025-08-18 12:21:47
-* <a href='https://movie.douban.com/subject/1782964/' target='_blank'>看过一公升的眼泪</a> - 2025-08-18 12:21:39
-* <a href='https://movie.douban.com/subject/3184572/' target='_blank'>想看紧急救命</a> - 2025-08-18 12:21:15
-* <a href='https://movie.douban.com/subject/25767614/' target='_blank'>想看我存在的时间</a> - 2025-08-18 12:21:00
-* <a href='https://movie.douban.com/subject/24753685/' target='_blank'>想看今天是再见的日子</a> - 2025-08-18 12:19:10
-* <a href='https://movie.douban.com/subject/1997685/' target='_blank'>想看交响情人梦</a> - 2025-08-18 12:15:09
-* <a href='https://movie.douban.com/subject/2017805/' target='_blank'>想看14岁的母亲</a> - 2025-08-18 12:12:29
+
 <!-- douban ends -->
 
 </td>
@@ -123,11 +114,11 @@
 <!-- code_time starts -->
 
 ```text
-HTML       1 hr 10 mins   █████████▋░░░░░░░░░░░  45.9%
-Markdown   43 mins        █████▉░░░░░░░░░░░░░░░  28.4%
-CSV        17 mins        ██▎░░░░░░░░░░░░░░░░░░  11.2%
-Text       9 mins         █▏░░░░░░░░░░░░░░░░░░░   5.9%
-JSON       7 mins         █░░░░░░░░░░░░░░░░░░░░   4.8%
+Python     51 mins        ██████▏░░░░░░░░░░░░░░  29.3%
+Other      43 mins        █████▏░░░░░░░░░░░░░░░  24.6%
+Markdown   21 mins        ██▌░░░░░░░░░░░░░░░░░░  12.2%
+CSV        17 mins        ██░░░░░░░░░░░░░░░░░░░  10.0%
+JSON       15 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
 ```
 
 <!-- code_time ends -->

@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://movie.douban.com/subject/6518713/' target='_blank'>想看东京爱情故事特别篇</a> - 2025-08-26 03:50:19
+* <a href='https://movie.douban.com/subject/1438760/' target='_blank'>想看东京爱情故事</a> - 2025-08-26 03:43:28
+* <a href='https://movie.douban.com/subject/3348322/' target='_blank'>看过阿拉德战记</a> - 2025-08-24 17:12:33
+* <a href='https://movie.douban.com/subject/26270517/' target='_blank'>看过愚人节</a> - 2025-08-24 05:07:02
+* <a href='https://movie.douban.com/subject/30322776/' target='_blank'>想看人生七年9</a> - 2025-08-23 11:20:20
+* <a href='https://movie.douban.com/subject/2123439/' target='_blank'>想看人生七年1</a> - 2025-08-23 11:20:15
+* <a href='https://movie.douban.com/subject/1300377/' target='_blank'>看过群尸玩过界</a> - 2025-08-23 03:02:13
+* <a href='https://movie.douban.com/subject/35262731/' target='_blank'>看过浅草小子</a> - 2025-08-23 00:49:05
+* <a href='https://movie.douban.com/subject/34906700/' target='_blank'>在看龙樱2</a> - 2025-08-18 12:28:11
+* <a href='https://movie.douban.com/subject/10590715/' target='_blank'>想看龙樱：东大考试机密技巧总传授SP</a> - 2025-08-18 12:22:59
 <!-- douban ends -->
 
 </td>

@@ -104,6 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1428055/' target='_blank'>看过罪恶之城2</a> - 2025-09-14 05:56:53
 * <a href='https://movie.douban.com/subject/1315570/' target='_blank'>想看在世界中心呼唤爱</a> - 2025-09-09 14:51:43
 * <a href='https://movie.douban.com/subject/35418583/' target='_blank'>想看余生那些年</a> - 2025-09-09 14:50:08
 * <a href='https://movie.douban.com/subject/26766760/' target='_blank'>想看与君相恋100次</a> - 2025-09-09 14:50:01
@@ -113,7 +114,6 @@
 * <a href='https://movie.douban.com/subject/6518713/' target='_blank'>看过东京爱情故事特别篇</a> - 2025-08-30 07:49:09
 * <a href='https://movie.douban.com/subject/1292434/' target='_blank'>想看一一</a> - 2025-08-29 11:44:45
 * <a href='https://movie.douban.com/subject/1294371/' target='_blank'>想看摩登时代</a> - 2025-08-29 11:44:37
-* <a href='https://movie.douban.com/subject/1292063/' target='_blank'>想看美丽人生</a> - 2025-08-29 11:44:29
 <!-- douban ends -->
 
 </td>

@@ -104,6 +104,9 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/35891632/' target='_blank'>想看玛克辛</a> - 2025-09-21 23:06:54
+* <a href='https://movie.douban.com/subject/35240920/' target='_blank'>想看X</a> - 2025-09-21 23:06:47
+* <a href='https://movie.douban.com/subject/35801819/' target='_blank'>看过珀尔</a> - 2025-09-21 23:03:34
 * <a href='https://movie.douban.com/subject/27605659/' target='_blank'>看过731</a> - 2025-09-19 14:59:15
 * <a href='https://movie.douban.com/subject/1428055/' target='_blank'>看过罪恶之城2</a> - 2025-09-14 05:56:53
 * <a href='https://movie.douban.com/subject/1315570/' target='_blank'>想看在世界中心呼唤爱</a> - 2025-09-09 14:51:43
@@ -111,9 +114,6 @@
 * <a href='https://movie.douban.com/subject/26766760/' target='_blank'>想看与君相恋100次</a> - 2025-09-09 14:50:01
 * <a href='https://movie.douban.com/subject/3003830/' target='_blank'>想看恋空</a> - 2025-09-09 14:49:55
 * <a href='https://movie.douban.com/subject/1306471/' target='_blank'>想看八月照相馆</a> - 2025-09-09 14:49:48
-* <a href='https://movie.douban.com/subject/5322596/' target='_blank'>想看超脱</a> - 2025-09-04 22:53:59
-* <a href='https://movie.douban.com/subject/6518713/' target='_blank'>看过东京爱情故事特别篇</a> - 2025-08-30 07:49:09
-* <a href='https://movie.douban.com/subject/1292434/' target='_blank'>想看一一</a> - 2025-08-29 11:44:45
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 2 hrs 20 mins  █████████▌░░░░░░░░░░░  45.7%
-Java       1 hr 10 mins   ████▊░░░░░░░░░░░░░░░░  22.7%
-Markdown   53 mins        ███▌░░░░░░░░░░░░░░░░░  17.2%
+JavaScript 2 hrs 20 mins  █████████▋░░░░░░░░░░░  46.3%
+Java       1 hr 10 mins   ████▊░░░░░░░░░░░░░░░░  23.0%
+Markdown   53 mins        ███▋░░░░░░░░░░░░░░░░░  17.4%
 HTML       18 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
-Git Config 11 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Git Config 11 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
 <!-- code_time ends -->

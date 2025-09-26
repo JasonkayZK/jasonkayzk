@@ -123,9 +123,9 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 3 hrs 27 mins  █████████████▊░░░░░░░  65.8%
-Java       1 hr 30 mins   ██████░░░░░░░░░░░░░░░  28.6%
-Markdown   15 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
+JavaScript 3 hrs 27 mins  █████████████▌░░░░░░░  64.7%
+Java       1 hr 35 mins   ██████▎░░░░░░░░░░░░░░  29.9%
+Markdown   15 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
 Vue.js     1 min          ░░░░░░░░░░░░░░░░░░░░░   0.5%
 TypeScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```

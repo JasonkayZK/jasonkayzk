@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 3 hrs 35 mins  █████████▋░░░░░░░░░░░  45.9%
-Java       3 hrs 24 mins  █████████▏░░░░░░░░░░░  43.7%
-Markdown   30 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
-Other      6 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Git Config 5 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Java       1 hr 54 mins   █████████▊░░░░░░░░░░░  47.0%
+JavaScript 1 hr 38 mins   ████████▍░░░░░░░░░░░░  40.3%
+Markdown   14 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
+Other      6 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Git Config 5 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 
 <!-- code_time ends -->

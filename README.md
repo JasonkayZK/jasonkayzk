@@ -123,10 +123,7 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   13 mins        ████████░░░░░░░░░░░░░  38.2%
-JSON       8 mins         █████▍░░░░░░░░░░░░░░░  25.9%
-Other      6 mins         ████▏░░░░░░░░░░░░░░░░  19.7%
-Git Config 5 mins         ███▍░░░░░░░░░░░░░░░░░  16.2%
+JSON       4 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

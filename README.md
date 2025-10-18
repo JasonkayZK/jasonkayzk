@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://book.douban.com/subject/37504059/' target='_blank'>想读万物自洽法则</a> - 2025-10-14 01:13:55
+* <a href='https://book.douban.com/subject/36980345/' target='_blank'>读过發生在近畿某處的那些事</a> - 2025-10-12 03:01:58
+* <a href='https://book.douban.com/subject/30389968/' target='_blank'>想读克林索尔的最后夏天</a> - 2025-10-11 13:31:27
+* <a href='https://movie.douban.com/subject/35730910/' target='_blank'>看过野蛮人</a> - 2025-10-06 01:45:12
+* <a href='https://movie.douban.com/subject/1308833/' target='_blank'>看过空房间</a> - 2025-10-06 00:12:56
+* <a href='https://movie.douban.com/subject/30371816/' target='_blank'>看过阿龙</a> - 2025-10-01 13:41:37
+* <a href='https://movie.douban.com/subject/36221247/' target='_blank'>看过凶器</a> - 2025-09-30 12:46:31
+* <a href='https://movie.douban.com/subject/1468031/' target='_blank'>看过匹诺曹964号</a> - 2025-09-26 23:44:15
+* <a href='https://movie.douban.com/subject/36902197/' target='_blank'>看过光逝去的夏天</a> - 2025-09-22 05:10:14
+* <a href='https://movie.douban.com/subject/35891632/' target='_blank'>想看玛克辛</a> - 2025-09-21 23:06:54
 <!-- douban ends -->
 
 </td>

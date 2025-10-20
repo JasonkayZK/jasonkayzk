@@ -104,6 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1299287/' target='_blank'>看过城市英雄</a> - 2025-10-19 14:48:42
 * <a href='https://book.douban.com/subject/6798611/' target='_blank'>读过史蒂夫·乔布斯传</a> - 2025-10-18 04:00:28
 * <a href='https://book.douban.com/subject/37504059/' target='_blank'>想读万物自洽法则</a> - 2025-10-14 01:13:55
 * <a href='https://book.douban.com/subject/36980345/' target='_blank'>读过發生在近畿某處的那些事</a> - 2025-10-12 03:01:58
@@ -113,7 +114,6 @@
 * <a href='https://movie.douban.com/subject/30371816/' target='_blank'>看过阿龙</a> - 2025-10-01 13:41:37
 * <a href='https://movie.douban.com/subject/36221247/' target='_blank'>看过凶器</a> - 2025-09-30 12:46:31
 * <a href='https://movie.douban.com/subject/1468031/' target='_blank'>看过匹诺曹964号</a> - 2025-09-26 23:44:15
-* <a href='https://movie.douban.com/subject/36902197/' target='_blank'>看过光逝去的夏天</a> - 2025-09-22 05:10:14
 <!-- douban ends -->
 
 </td>

@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://movie.douban.com/subject/36186448/' target='_blank'>看过圣诞原木</a> - 2025-11-20 06:10:29
+* <a href='https://movie.douban.com/subject/10537949/' target='_blank'>看过恶之教典</a> - 2025-11-16 07:34:50
+* <a href='https://movie.douban.com/subject/26815162/' target='_blank'>看过生存家族</a> - 2025-11-15 05:28:50
+* <a href='https://movie.douban.com/subject/37089972/' target='_blank'>看过致命录像带：万圣节</a> - 2025-11-08 05:52:53
+* <a href='https://movie.douban.com/subject/1295384/' target='_blank'>看过星河战队</a> - 2025-11-02 14:01:56
+* <a href='https://movie.douban.com/subject/35819117/' target='_blank'>想看小丑回魂：欢迎来到德里镇 第一季</a> - 2025-10-31 13:21:40
+* <a href='https://movie.douban.com/subject/37037753/' target='_blank'>想看在长椅上 剧场版</a> - 2025-10-31 13:21:33
+* <a href='https://movie.douban.com/subject/26667667/' target='_blank'>想看追忆潸然</a> - 2025-10-27 11:19:09
+* <a href='https://movie.douban.com/subject/1299287/' target='_blank'>看过城市英雄</a> - 2025-10-19 14:48:42
+* <a href='https://book.douban.com/subject/6798611/' target='_blank'>读过史蒂夫·乔布斯传</a> - 2025-10-18 04:00:28
 <!-- douban ends -->
 
 </td>

@@ -104,16 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/4830236/' target='_blank'>看过冰冷热带鱼</a> - 2025-12-10 09:11:07
-* <a href='https://movie.douban.com/subject/2208890/' target='_blank'>想看姊姊妹妹站起来</a> - 2025-12-10 07:59:50
-* <a href='https://movie.douban.com/subject/26265170/' target='_blank'>想看树大招风</a> - 2025-12-02 00:02:47
-* <a href='https://movie.douban.com/subject/2248757/' target='_blank'>想看铁齿铜牙纪晓岚</a> - 2025-12-01 02:09:44
-* <a href='https://movie.douban.com/subject/35240920/' target='_blank'>看过X</a> - 2025-11-30 07:45:32
-* <a href='https://movie.douban.com/subject/6875615/' target='_blank'>看过险恶</a> - 2025-11-30 06:01:53
-* <a href='https://movie.douban.com/subject/33414470/' target='_blank'>看过水饺皇后</a> - 2025-11-30 05:44:05
-* <a href='https://movie.douban.com/subject/36186448/' target='_blank'>看过圣诞原木</a> - 2025-11-20 06:10:29
-* <a href='https://movie.douban.com/subject/10537949/' target='_blank'>看过恶之教典</a> - 2025-11-16 07:34:50
-* <a href='https://movie.douban.com/subject/26815162/' target='_blank'>看过生存家族</a> - 2025-11-15 05:28:50
+
 <!-- douban ends -->
 
 </td>
@@ -123,11 +114,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 1 hr 58 mins   ████▊░░░░░░░░░░░░░░░░  22.7%
-Python     1 hr 42 mins   ████░░░░░░░░░░░░░░░░░  19.6%
-Java       1 hr 32 mins   ███▋░░░░░░░░░░░░░░░░░  17.7%
-Bash       57 mins        ██▎░░░░░░░░░░░░░░░░░░  10.9%
-YAML       33 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Java       2 hrs 51 mins  ██████▊░░░░░░░░░░░░░░  32.2%
+Python     2 hrs 28 mins  █████▊░░░░░░░░░░░░░░░  28.0%
+JavaScript 1 hr 14 mins   ██▉░░░░░░░░░░░░░░░░░░  14.0%
+Vue.js     41 mins        █▌░░░░░░░░░░░░░░░░░░░   7.7%
+Bash       30 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
 ```
 
 <!-- code_time ends -->

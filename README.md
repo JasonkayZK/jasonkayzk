@@ -104,7 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-
+* <a href='https://movie.douban.com/subject/5969341/' target='_blank'>看过冷面天使</a> - 2025-12-13 22:55:32
+* <a href='https://movie.douban.com/subject/1299586/' target='_blank'>看过月光光心慌慌</a> - 2025-12-13 07:32:17
+* <a href='https://movie.douban.com/subject/1294037/' target='_blank'>看过未来水世界</a> - 2025-12-13 06:57:45
+* <a href='https://movie.douban.com/subject/4830236/' target='_blank'>看过冰冷热带鱼</a> - 2025-12-10 09:11:07
+* <a href='https://movie.douban.com/subject/2208890/' target='_blank'>想看姊姊妹妹站起来</a> - 2025-12-10 07:59:50
+* <a href='https://movie.douban.com/subject/26265170/' target='_blank'>想看树大招风</a> - 2025-12-02 00:02:47
+* <a href='https://movie.douban.com/subject/2248757/' target='_blank'>想看铁齿铜牙纪晓岚</a> - 2025-12-01 02:09:44
+* <a href='https://movie.douban.com/subject/35240920/' target='_blank'>看过X</a> - 2025-11-30 07:45:32
+* <a href='https://movie.douban.com/subject/6875615/' target='_blank'>看过险恶</a> - 2025-11-30 06:01:53
+* <a href='https://movie.douban.com/subject/33414470/' target='_blank'>看过水饺皇后</a> - 2025-11-30 05:44:05
 <!-- douban ends -->
 
 </td>
@@ -114,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Java       2 hrs 51 mins  ██████▊░░░░░░░░░░░░░░  32.2%
-Python     2 hrs 28 mins  █████▊░░░░░░░░░░░░░░░  28.0%
-JavaScript 1 hr 14 mins   ██▉░░░░░░░░░░░░░░░░░░  14.0%
-Vue.js     41 mins        █▌░░░░░░░░░░░░░░░░░░░   7.7%
-Bash       30 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
+Java       2 hrs 51 mins  ████████░░░░░░░░░░░░░  38.6%
+Python     1 hr 54 mins   █████▍░░░░░░░░░░░░░░░  25.9%
+Vue.js     41 mins        █▉░░░░░░░░░░░░░░░░░░░   9.3%
+JavaScript 40 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
+Bash       30 mins        █▍░░░░░░░░░░░░░░░░░░░   6.9%
 ```
 
 <!-- code_time ends -->

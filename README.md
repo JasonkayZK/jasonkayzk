@@ -104,6 +104,8 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1301459/' target='_blank'>看过小岛惊魂</a> - 2025-12-14 08:45:41
+* <a href='https://movie.douban.com/subject/2124586/' target='_blank'>看过飓风营救</a> - 2025-12-14 08:15:29
 * <a href='https://movie.douban.com/subject/5969341/' target='_blank'>看过冷面天使</a> - 2025-12-13 22:55:32
 * <a href='https://movie.douban.com/subject/1299586/' target='_blank'>看过月光光心慌慌</a> - 2025-12-13 07:32:17
 * <a href='https://movie.douban.com/subject/1294037/' target='_blank'>看过未来水世界</a> - 2025-12-13 06:57:45
@@ -112,8 +114,6 @@
 * <a href='https://movie.douban.com/subject/26265170/' target='_blank'>想看树大招风</a> - 2025-12-02 00:02:47
 * <a href='https://movie.douban.com/subject/2248757/' target='_blank'>想看铁齿铜牙纪晓岚</a> - 2025-12-01 02:09:44
 * <a href='https://movie.douban.com/subject/35240920/' target='_blank'>看过X</a> - 2025-11-30 07:45:32
-* <a href='https://movie.douban.com/subject/6875615/' target='_blank'>看过险恶</a> - 2025-11-30 06:01:53
-* <a href='https://movie.douban.com/subject/33414470/' target='_blank'>看过水饺皇后</a> - 2025-11-30 05:44:05
 <!-- douban ends -->
 
 </td>

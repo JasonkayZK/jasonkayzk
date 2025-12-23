@@ -123,11 +123,9 @@
 <!-- code_time starts -->
 
 ```text
-Python     1 hr 56 mins   ████████████████████▍  97.1%
-Markdown   2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-TOML       1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-PythonStub 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python     2 hrs 7 mins   ████████████████████▎  96.9%
+Markdown   2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Text       1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 <!-- code_time ends -->

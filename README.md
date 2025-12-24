@@ -123,9 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     2 hrs 7 mins   ████████████████████▎  96.9%
-Markdown   2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Text       1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Python     2 hrs 7 mins   ███████████████▉░░░░░  75.8%
+JavaScript 17 mins        ██▏░░░░░░░░░░░░░░░░░░  10.5%
+Vue.js     16 mins        ██░░░░░░░░░░░░░░░░░░░  10.0%
+Markdown   2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+JSON       2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time ends -->

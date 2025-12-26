@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     2 hrs 19 mins  ████████████░░░░░░░░░  57.4%
-Vue.js     1 hr 9 mins    ██████░░░░░░░░░░░░░░░  28.7%
-JavaScript 23 mins        ██░░░░░░░░░░░░░░░░░░░   9.7%
-JSON       2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-Markdown   2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Python     4 hrs 36 mins  █████████████▏░░░░░░░  62.6%
+Vue.js     1 hr 9 mins    ███▎░░░░░░░░░░░░░░░░░  15.8%
+JavaScript 23 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Markdown   23 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Git Config 17 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
 ```
 
 <!-- code_time ends -->

@@ -104,6 +104,9 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/1707156/' target='_blank'>想读微积分学教程（第3卷）</a> - 2025-12-27 12:00:45
+* <a href='https://book.douban.com/subject/1728600/' target='_blank'>想读微积分学教程（第2卷）</a> - 2025-12-27 12:00:42
+* <a href='https://book.douban.com/subject/1707158/' target='_blank'>想读微积分学教程（第1卷）</a> - 2025-12-27 12:00:38
 * <a href='https://movie.douban.com/subject/26125779/' target='_blank'>看过危城</a> - 2025-12-24 13:36:18
 * <a href='https://movie.douban.com/subject/2134538/' target='_blank'>看过人间炼狱</a> - 2025-12-20 05:55:18
 * <a href='https://movie.douban.com/subject/37134889/' target='_blank'>看过人偶之家</a> - 2025-12-19 05:26:46
@@ -111,9 +114,6 @@
 * <a href='https://movie.douban.com/subject/2124586/' target='_blank'>看过飓风营救</a> - 2025-12-14 08:15:29
 * <a href='https://movie.douban.com/subject/5969341/' target='_blank'>看过冷面天使</a> - 2025-12-13 22:55:32
 * <a href='https://movie.douban.com/subject/1299586/' target='_blank'>看过月光光心慌慌</a> - 2025-12-13 07:32:17
-* <a href='https://movie.douban.com/subject/1294037/' target='_blank'>看过未来水世界</a> - 2025-12-13 06:57:45
-* <a href='https://movie.douban.com/subject/4830236/' target='_blank'>看过冰冷热带鱼</a> - 2025-12-10 09:11:07
-* <a href='https://movie.douban.com/subject/2208890/' target='_blank'>想看姊姊妹妹站起来</a> - 2025-12-10 07:59:50
 <!-- douban ends -->
 
 </td>
@@ -123,11 +123,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     4 hrs 36 mins  █████████▏░░░░░░░░░░░  43.6%
-Java       1 hr 24 mins   ██▊░░░░░░░░░░░░░░░░░░  13.3%
-Vue.js     1 hr 20 mins   ██▋░░░░░░░░░░░░░░░░░░  12.7%
-Text       42 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
-Git Config 29 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Python     4 hrs 38 mins  ████████▏░░░░░░░░░░░░  39.0%
+Text       1 hr 56 mins   ███▍░░░░░░░░░░░░░░░░░  16.3%
+Java       1 hr 24 mins   ██▍░░░░░░░░░░░░░░░░░░  11.8%
+Vue.js     1 hr 20 mins   ██▎░░░░░░░░░░░░░░░░░░  11.3%
+XML        33 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
 ```
 
 <!-- code_time ends -->

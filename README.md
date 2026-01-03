@@ -104,6 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/37045407/' target='_blank'>看过怪奇收割</a> - 2026-01-02 12:10:49
 * <a href='https://book.douban.com/subject/1707156/' target='_blank'>想读微积分学教程（第3卷）</a> - 2025-12-27 12:00:45
 * <a href='https://book.douban.com/subject/1728600/' target='_blank'>想读微积分学教程（第2卷）</a> - 2025-12-27 12:00:42
 * <a href='https://book.douban.com/subject/1707158/' target='_blank'>想读微积分学教程（第1卷）</a> - 2025-12-27 12:00:38
@@ -113,7 +114,6 @@
 * <a href='https://movie.douban.com/subject/1301459/' target='_blank'>看过小岛惊魂</a> - 2025-12-14 08:45:41
 * <a href='https://movie.douban.com/subject/2124586/' target='_blank'>看过飓风营救</a> - 2025-12-14 08:15:29
 * <a href='https://movie.douban.com/subject/5969341/' target='_blank'>看过冷面天使</a> - 2025-12-13 22:55:32
-* <a href='https://movie.douban.com/subject/1299586/' target='_blank'>看过月光光心慌慌</a> - 2025-12-13 07:32:17
 <!-- douban ends -->
 
 </td>

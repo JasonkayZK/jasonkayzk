@@ -104,16 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/37059654/' target='_blank'>看过美丽毒素</a> - 2026-02-01 13:51:43
-* <a href='https://movie.douban.com/subject/35496209/' target='_blank'>看过末日逃生2：迁移</a> - 2026-02-01 13:18:59
-* <a href='https://movie.douban.com/subject/37296908/' target='_blank'>看过非传统浪漫关系</a> - 2026-02-01 05:20:45
-* <a href='https://movie.douban.com/subject/36907263/' target='_blank'>看过百米。</a> - 2026-01-29 11:31:21
-* <a href='https://movie.douban.com/subject/25662329/' target='_blank'>看过疯狂动物城</a> - 2026-01-22 12:54:18
-* <a href='https://movie.douban.com/subject/4301224/' target='_blank'>看过沉睡魔咒</a> - 2026-01-21 23:17:51
-* <a href='https://movie.douban.com/subject/26437237/' target='_blank'>看过瑞士军刀男</a> - 2026-01-17 15:08:37
-* <a href='https://movie.douban.com/subject/3072124/' target='_blank'>看过玛丽和麦克斯</a> - 2026-01-03 13:23:59
-* <a href='https://movie.douban.com/subject/37045407/' target='_blank'>看过怪奇收割</a> - 2026-01-02 12:10:49
-* <a href='https://book.douban.com/subject/1707156/' target='_blank'>想读微积分学教程（第3卷）</a> - 2025-12-27 12:00:45
+
 <!-- douban ends -->
 
 </td>

@@ -89,12 +89,12 @@
 #### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://jasonkayzk.github.io/2026/02/10/%E5%86%8D%E8%A7%812025%EF%BC%8C%E4%BD%A0%E5%A5%BD2026%EF%BC%81/' target='_blank'>再见2025，你好2026！</a> - 2026-02-10
 * <a href='https://jasonkayzk.github.io/2025/08/20/%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E8%AF%AD%E8%A8%80POML%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/' target='_blank'>下一代提示词工程语言POML简明教程</a> - 2025-08-20
 * <a href='https://jasonkayzk.github.io/2025/07/30/%E5%BC%80%E4%BA%86%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E4%B8%93%E9%97%A8%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AF%AD%E7%9A%84%E5%8D%9A%E5%AE%A2/' target='_blank'>开了一个新的专门学习日语的博客</a> - 2025-07-30
 * <a href='https://jasonkayzk.github.io/2025/07/29/%E4%B8%80%E3%80%81%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA%E4%B8%8ECUDA%E5%85%A5%E9%97%A8/' target='_blank'>一、并行编程导论与CUDA入门</a> - 2025-07-29
 * <a href='https://jasonkayzk.github.io/2025/07/24/%E4%B8%80%E4%BA%9B%E5%85%8D%E8%B4%B9%E7%9A%84GPU%E8%B5%84%E6%BA%90/' target='_blank'>一些免费的GPU资源</a> - 2025-07-24
 * <a href='https://jasonkayzk.github.io/2025/07/21/debian12%E9%83%A8%E7%BD%B2kubernetes-1-28%E9%9B%86%E7%BE%A4/' target='_blank'>debian12部署kubernetes-1.28集群</a> - 2025-07-21
-* <a href='https://jasonkayzk.github.io/2025/07/21/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%9Axsync%E5%92%8Cxcall/' target='_blank'>分享两个服务器实用脚本：xsync和xcall</a> - 2025-07-21
 <!-- blog ends -->
 
 </td>
@@ -123,10 +123,7 @@
 <!-- code_time starts -->
 
 ```text
-Other      55 mins        ██████████▍░░░░░░░░░░  49.7%
-Text       46 mins        ████████▊░░░░░░░░░░░░  42.2%
-Markdown   7 mins         █▍░░░░░░░░░░░░░░░░░░░   7.1%
-YAML       1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Python     1 min          █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

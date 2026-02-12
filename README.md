@@ -104,6 +104,8 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/35662223/' target='_blank'>想看去有风的地方</a> - 2026-02-11 05:29:00
+* <a href='https://movie.douban.com/subject/35559998/' target='_blank'>想看骄阳似我</a> - 2026-02-11 05:28:56
 * <a href='https://movie.douban.com/subject/26727278/' target='_blank'>看过宕机异次元</a> - 2026-02-08 12:29:33
 * <a href='https://movie.douban.com/subject/37305779/' target='_blank'>看过极速求生</a> - 2026-02-08 12:10:53
 * <a href='https://movie.douban.com/subject/37059654/' target='_blank'>看过美丽毒素</a> - 2026-02-01 13:51:43
@@ -112,8 +114,6 @@
 * <a href='https://movie.douban.com/subject/36907263/' target='_blank'>看过百米。</a> - 2026-01-29 11:31:21
 * <a href='https://movie.douban.com/subject/25662329/' target='_blank'>看过疯狂动物城</a> - 2026-01-22 12:54:18
 * <a href='https://movie.douban.com/subject/4301224/' target='_blank'>看过沉睡魔咒</a> - 2026-01-21 23:17:51
-* <a href='https://movie.douban.com/subject/26437237/' target='_blank'>看过瑞士军刀男</a> - 2026-01-17 15:08:37
-* <a href='https://movie.douban.com/subject/3072124/' target='_blank'>看过玛丽和麦克斯</a> - 2026-01-03 13:23:59
 <!-- douban ends -->
 
 </td>

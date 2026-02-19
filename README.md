@@ -104,6 +104,7 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/37060833/' target='_blank'>在看年少有为</a> - 2026-02-18 15:11:39
 * <a href='http://www.douban.com/game/37013380/' target='_blank'>玩过生灵重塑 REANIMAL</a> - 2026-02-15 05:55:27
 * <a href='https://movie.douban.com/subject/1418198/' target='_blank'>想看宋飞正传 第一季</a> - 2026-02-13 07:14:24
 * <a href='https://movie.douban.com/subject/35662223/' target='_blank'>想看去有风的地方</a> - 2026-02-11 05:29:00
@@ -113,7 +114,6 @@
 * <a href='https://movie.douban.com/subject/37059654/' target='_blank'>看过美丽毒素</a> - 2026-02-01 13:51:43
 * <a href='https://movie.douban.com/subject/35496209/' target='_blank'>看过末日逃生2：迁移</a> - 2026-02-01 13:18:59
 * <a href='https://movie.douban.com/subject/37296908/' target='_blank'>看过非传统浪漫关系</a> - 2026-02-01 05:20:45
-* <a href='https://movie.douban.com/subject/36907263/' target='_blank'>看过百米。</a> - 2026-01-29 11:31:21
 <!-- douban ends -->
 
 </td>

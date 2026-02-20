@@ -104,16 +104,16 @@
 #### 🏊‍♂️ <a href="https://www.douban.com/people/219317116/" target="_blank">Recently Douban</a>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/37806664/' target='_blank'>看过世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇</a> - 2026-02-19 13:09:56
+* <a href='https://movie.douban.com/subject/30487597/' target='_blank'>看过棕榈泉</a> - 2026-02-19 13:04:13
+* <a href='https://movie.douban.com/subject/30358153/' target='_blank'>看过理想国</a> - 2026-02-19 12:53:58
+* <a href='https://movie.douban.com/subject/21371686/' target='_blank'>想看奔腾年代 第一季</a> - 2026-02-19 05:49:37
 * <a href='https://movie.douban.com/subject/37060833/' target='_blank'>在看年少有为</a> - 2026-02-18 15:11:39
 * <a href='http://www.douban.com/game/37013380/' target='_blank'>玩过生灵重塑 REANIMAL</a> - 2026-02-15 05:55:27
 * <a href='https://movie.douban.com/subject/1418198/' target='_blank'>想看宋飞正传 第一季</a> - 2026-02-13 07:14:24
 * <a href='https://movie.douban.com/subject/35662223/' target='_blank'>想看去有风的地方</a> - 2026-02-11 05:29:00
 * <a href='https://movie.douban.com/subject/35559998/' target='_blank'>想看骄阳似我</a> - 2026-02-11 05:28:56
 * <a href='https://movie.douban.com/subject/26727278/' target='_blank'>看过宕机异次元</a> - 2026-02-08 12:29:33
-* <a href='https://movie.douban.com/subject/37305779/' target='_blank'>看过极速求生</a> - 2026-02-08 12:10:53
-* <a href='https://movie.douban.com/subject/37059654/' target='_blank'>看过美丽毒素</a> - 2026-02-01 13:51:43
-* <a href='https://movie.douban.com/subject/35496209/' target='_blank'>看过末日逃生2：迁移</a> - 2026-02-01 13:18:59
-* <a href='https://movie.douban.com/subject/37296908/' target='_blank'>看过非传统浪漫关系</a> - 2026-02-01 05:20:45
 <!-- douban ends -->
 
 </td>

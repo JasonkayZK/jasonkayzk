@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jasonkayzk.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&lines=%E2%9A%A1+Teacher+%40+School+of+Computer+Science%2C+PZXY;%F0%9F%94%A5+Java+%7C+Golang+%7C+C%2B%2B+%7C+Rust+%7C+TypeScript+%7C+Python;%F0%9F%8C%8F+Distributed+Systems+%26+Parallel+Computing;%F0%9F%8E%AF+Currently+Exploring+CUDA+%26+LLM+Applications;%F0%9F%8E%B5+Music+%7C+%E6%97%A5%E6%9C%AC%E8%AA%9E+%7C+Animation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=CS+Teacher+%40+PZXY;Java+%7C+Go+%7C+C%2B%2B+%7C+Rust+%7C+TS;Distributed+Systems;Parallel+Computing;CUDA+%26+LLM+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,18 +39,28 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
   <a href="https://github.com/jasonkayzk/">
-    <img width="49%" src="https://stats.justsong.cn/api/github?username=JasonkayZK&theme=dark" />
+    <img src="https://stats.justsong.cn/api/github?username=JasonkayZK&theme=dark" width="100%" />
   </a>
-  <img width="49%" src="https://streak-stats.demolab.com?user=jasonkayzk&hide_border=true&background=0D1117&stroke=A855F7&ring=EC4899&fire=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A855F7&sideLabels=EC4899&dates=555555" />
-</p>
-
-<p align="center">
+</td>
+<td align="center" width="50%">
+  <img src="https://streak-stats.demolab.com?user=jasonkayzk&hide_border=true&background=0D1117&stroke=A855F7&ring=EC4899&fire=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A855F7&sideLabels=EC4899&dates=555555" width="100%" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
   <a href="https://leetcode-cn.com/u/jasonkay/">
-    <img width="49%" src="https://stats.justsong.cn/api/leetcode?username=jasonkay&cn_username=jasonkay&theme=dark" />
+    <img src="https://stats.justsong.cn/api/leetcode?username=jasonkay&cn_username=jasonkay&theme=dark" width="100%" />
   </a>
-</p>
+</td>
+<td align="center" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasonkayzk&theme=tokyonight" width="100%" />
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 

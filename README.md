@@ -40,21 +40,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=c9d1d9&ring_color=A855F7" />
+  <a href="https://github.com/jasonkayzk/">
+    <img width="49%" src="https://stats.justsong.cn/api/github?username=JasonkayZK&theme=dark" />
+  </a>
   <img width="49%" src="https://streak-stats.demolab.com?user=jasonkayzk&hide_border=true&background=0D1117&stroke=A855F7&ring=EC4899&fire=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A855F7&sideLabels=EC4899&dates=555555" />
 </p>
 
 <p align="center">
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
   <a href="https://leetcode-cn.com/u/jasonkay/">
-    <img width="37%" src="https://stats.justsong.cn/api/leetcode?username=jasonkay&cn_username=jasonkay&theme=dark" />
+    <img width="49%" src="https://stats.justsong.cn/api/leetcode?username=jasonkay&cn_username=jasonkay&theme=dark" />
   </a>
-</p>
-
-<!-- ═══════════════════════════════ TROPHIES ═══════════════════════════════ -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasonkayzk&theme=discord&no-frame=true&no-bg=true&column=7" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />

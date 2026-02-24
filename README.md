@@ -1,96 +1,86 @@
-<h1 align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=220&section=header&text=JasonkayZK&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Distributed%20Systems%20%7C%20Parallel%20Computing%20%7C%20Cloud%20Native&descAlignY=55&descSize=18" />
+
+<p align="center">
   <a href="https://jasonkayzk.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%91%8B+Hey%2C+I'm+JasonkayZK;Distributed+Systems+%7C+Parallel+Computing+%7C+Backend" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=550&lines=%E2%9A%A1+Teacher+%40+School+of+Computer+Science%2C+PZXY;%F0%9F%94%A5+Java+%7C+Golang+%7C+C%2B%2B+%7C+Rust+%7C+TypeScript+%7C+Python;%F0%9F%8C%8F+Distributed+Systems+%26+Parallel+Computing;%F0%9F%8E%AF+Currently+Exploring+CUDA+%26+LLM+Applications;%F0%9F%8E%B5+Music+%7C+%E6%97%A5%E6%9C%AC%E8%AA%9E+%7C+Animation" alt="Typing SVG" />
   </a>
-</h1>
-
-<p align="center">
-  <a href="https://jasonkayzk.github.io/"><img src="https://img.shields.io/badge/Blog-jasonkayzk.github.io-blue?style=flat-square&logo=github" alt="Blog" /></a>
-  <a href="mailto:jasonkayzk@gmail.com"><img src="https://img.shields.io/badge/Email-jasonkayzk@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/jasonkayzk/"><img src="https://img.shields.io/github/followers/jasonkayzk?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jasonkayzk&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <a href="https://jasonkayzk.github.io/"><img src="https://img.shields.io/badge/Blog-jasonkayzk.github.io-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="mailto:jasonkayzk@gmail.com"><img src="https://img.shields.io/badge/Gmail-jasonkayzk-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/jasonkayzk/"><img src="https://img.shields.io/github/followers/jasonkayzk?style=for-the-badge&logo=github&color=F97316&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=jasonkayzk&style=for-the-badge&color=8B5CF6" />
+</p>
 
-### 🧑‍💻 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-```yaml
-name: JasonkayZK
-role: Teacher @ School of Computer Science, PZXY
-interests: [Distributed Systems, Parallel Computing, Cloud Native]
-languages: [Java, Golang, C++, Rust, TypeScript, Python]
-hobbies: [Music, Japanese & English, Animation]
-currently_learning: [CUDA, GPU Programming, LLM Applications]
-```
+<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 
----
+<h2 align="center">⚡ Tech Stack</h2>
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-<p>
+<p align="center"><b>Languages</b></p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,cpp,rust,python,ts,js,scala,kotlin,cs,dart,lua,bash&perline=13" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,go,cpp,rust,python,ts,js,scala,kotlin,cs,dart,lua,bash&perline=13&theme=dark" />
   </a>
 </p>
 
-**Frameworks & Tools**
-
-<p>
+<p align="center"><b>Frameworks, Platforms & Tools</b></p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,vue,nodejs,electron,flutter,docker,kubernetes,nginx,redis,mysql,postgres,mongodb,elasticsearch,rabbitmq,grafana,prometheus,pytorch,tensorflow,git&perline=10" alt="Frameworks & Tools" />
+    <img src="https://skillicons.dev/icons?i=spring,react,vue,nodejs,electron,flutter,docker,kubernetes,nginx,redis,mysql,postgres,mongodb,elasticsearch,rabbitmq,grafana,prometheus,pytorch,tensorflow,git,vim,vscode,idea,linux&perline=12&theme=dark" />
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### 📊 GitHub Stats
+<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jasonkayzk&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jasonkayzk&theme=default&hide_border=true" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=jasonkayzk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jasonkayzk&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=c9d1d9&ring_color=A855F7" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=jasonkayzk&hide_border=true&background=0D1117&stroke=A855F7&ring=EC4899&fire=F97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A855F7&sideLabels=EC4899&dates=555555" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=default&hide_border=true&langs_count=10" />
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  </picture>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&hide_border=true&langs_count=10&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
   <a href="https://leetcode-cn.com/u/jasonkay/">
-    <img width="42%" src="https://stats.justsong.cn/api/leetcode?username=jasonkay&cn_username=jasonkay&theme=dark" alt="LeetCode Stats" />
+    <img width="37%" src="https://stats.justsong.cn/api/leetcode?username=jasonkay&cn_username=jasonkay&theme=dark" />
   </a>
 </p>
 
----
-
-### 🏆 GitHub Trophies
+<!-- ═══════════════════════════════ TROPHIES ═══════════════════════════════ -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=jasonkayzk&theme=onestar&no-frame=true&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=jasonkayzk&theme=flat&no-frame=true&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=jasonkayzk&theme=onestar&no-frame=true&column=7" alt="GitHub Trophies" />
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=jasonkayzk&theme=discord&no-frame=true&no-bg=true&column=7" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════════ PROFILE SUMMARY ═══════════════════════════════ -->
+
+<h2 align="center">🔮 Profile Summary</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonkayzk&theme=tokyonight" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasonkayzk&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasonkayzk&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasonkayzk&theme=tokyonight&utcOffset=8" width="32%" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════════ BLOG & DOUBAN ═══════════════════════════════ -->
 
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
 
-#### 📝 <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog Posts</a>
+<h3>📝 <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog Posts</a></h3>
 
 <!-- blog starts -->
 * <a href='https://jasonkayzk.github.io/2026/02/10/%E5%86%8D%E8%A7%812025%EF%BC%8C%E4%BD%A0%E5%A5%BD2026%EF%BC%81/' target='_blank'>再见2025，你好2026！</a> - 2026-02-10
@@ -105,7 +95,7 @@ currently_learning: [CUDA, GPU Programming, LLM Applications]
 
 <td valign="top" width="50%">
 
-#### 🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a>
+<h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
 * <a href='https://movie.douban.com/subject/37311135/' target='_blank'>看过飞驰人生3</a> - 2026-02-23 13:55:16
@@ -124,9 +114,11 @@ currently_learning: [CUDA, GPU Programming, LLM Applications]
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### ⏱️ Weekly Coding Stats
+<!-- ═══════════════════════════════ CODING STATS ═══════════════════════════════ -->
+
+<h2 align="center">⌨️ Weekly Coding Stats</h2>
 
 <!-- code_time starts -->
 
@@ -136,20 +128,26 @@ Python     1 min          ██████████████████
 
 <!-- code_time ends -->
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### 📈 Contribution Graph
+<!-- ═══════════════════════════════ ACTIVITY GRAPH ═══════════════════════════════ -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasonkayzk&bg_color=0D1117&color=A855F7&line=EC4899&point=F97316&area=true&area_color=8B5CF6&hide_border=true" width="100%" />
+</p>
+
+<!-- ═══════════════════════════════ SNAKE ═══════════════════════════════ -->
+
+<h2 align="center">🐍 Watch the Snake Eat My Contributions</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jasonkayzk&theme=tokyo-night&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jasonkayzk&theme=minimal&hide_border=true&area=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jasonkayzk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jasonkayzk/jasonkayzk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jasonkayzk/jasonkayzk/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jasonkayzk/jasonkayzk/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
 
----
-
-<p align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" />

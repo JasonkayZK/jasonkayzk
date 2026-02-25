@@ -103,6 +103,9 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/34906700/' target='_blank'>想看龙樱2</a> - 2026-02-24 13:53:33
+* <a href='https://movie.douban.com/subject/1293847/' target='_blank'>看过生之欲</a> - 2026-02-24 13:32:44
+* <a href='https://movie.douban.com/subject/36369452/' target='_blank'>看过飞驰人生2</a> - 2026-02-24 11:59:48
 * <a href='https://movie.douban.com/subject/37311135/' target='_blank'>看过飞驰人生3</a> - 2026-02-23 13:55:16
 * <a href='https://movie.douban.com/subject/30163509/' target='_blank'>看过飞驰人生</a> - 2026-02-23 01:16:21
 * <a href='https://movie.douban.com/subject/1298041/' target='_blank'>看过黑洞表面</a> - 2026-02-20 04:15:27
@@ -110,9 +113,6 @@
 * <a href='https://movie.douban.com/subject/37060833/' target='_blank'>看过年少有为</a> - 2026-02-20 03:20:02
 * <a href='https://movie.douban.com/subject/37806664/' target='_blank'>看过世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇</a> - 2026-02-19 13:09:56
 * <a href='https://movie.douban.com/subject/30487597/' target='_blank'>看过棕榈泉</a> - 2026-02-19 13:04:13
-* <a href='https://movie.douban.com/subject/30358153/' target='_blank'>看过理想国</a> - 2026-02-19 12:53:58
-* <a href='https://movie.douban.com/subject/21371686/' target='_blank'>想看奔腾年代 第一季</a> - 2026-02-19 05:49:37
-* <a href='http://www.douban.com/game/37013380/' target='_blank'>玩过生灵重塑 REANIMAL</a> - 2026-02-15 05:55:27
 <!-- douban ends -->
 
 </td>

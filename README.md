@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/34822539/' target='_blank'>想看冲上青天</a> - 2026-02-25 05:18:15
 * <a href='https://movie.douban.com/subject/34906700/' target='_blank'>想看龙樱2</a> - 2026-02-24 13:53:33
 * <a href='https://movie.douban.com/subject/1293847/' target='_blank'>看过生之欲</a> - 2026-02-24 13:32:44
 * <a href='https://movie.douban.com/subject/36369452/' target='_blank'>看过飞驰人生2</a> - 2026-02-24 11:59:48
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/21324900/' target='_blank'>看过降临</a> - 2026-02-20 03:58:53
 * <a href='https://movie.douban.com/subject/37060833/' target='_blank'>看过年少有为</a> - 2026-02-20 03:20:02
 * <a href='https://movie.douban.com/subject/37806664/' target='_blank'>看过世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇</a> - 2026-02-19 13:09:56
-* <a href='https://movie.douban.com/subject/30487597/' target='_blank'>看过棕榈泉</a> - 2026-02-19 13:04:13
 <!-- douban ends -->
 
 </td>
@@ -128,7 +128,7 @@
 <!-- code_time starts -->
 
 ```text
-Python     1 min          █████████████████████ 100.0%
+XML        0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

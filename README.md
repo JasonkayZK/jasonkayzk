@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1437037/' target='_blank'>看过稀人</a> - 2026-03-04 12:17:52
 * <a href='https://movie.douban.com/subject/34822539/' target='_blank'>想看冲上青天</a> - 2026-02-25 05:18:15
 * <a href='https://movie.douban.com/subject/34906700/' target='_blank'>想看龙樱2</a> - 2026-02-24 13:53:33
 * <a href='https://movie.douban.com/subject/1293847/' target='_blank'>看过生之欲</a> - 2026-02-24 13:32:44
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/1298041/' target='_blank'>看过黑洞表面</a> - 2026-02-20 04:15:27
 * <a href='https://movie.douban.com/subject/21324900/' target='_blank'>看过降临</a> - 2026-02-20 03:58:53
 * <a href='https://movie.douban.com/subject/37060833/' target='_blank'>看过年少有为</a> - 2026-02-20 03:20:02
-* <a href='https://movie.douban.com/subject/37806664/' target='_blank'>看过世界奇妙物语 35周年特别篇～传奇名作 秋季特别篇</a> - 2026-02-19 13:09:56
 <!-- douban ends -->
 
 </td>
@@ -129,7 +129,7 @@
 
 ```text
 Markdown   35 mins        ████████░░░░░░░░░░░░░  38.6%
-Bash       30 mins        ███████░░░░░░░░░░░░░░  33.8%
+Bash       30 mins        ███████░░░░░░░░░░░░░░  33.9%
 YAML       9 mins         ██▎░░░░░░░░░░░░░░░░░░  10.9%
 Git Config 6 mins         █▍░░░░░░░░░░░░░░░░░░░   7.1%
 Other      5 mins         █▎░░░░░░░░░░░░░░░░░░░   6.5%

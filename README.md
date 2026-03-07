@@ -128,11 +128,9 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   24 mins        ███████████▎░░░░░░░░░  53.6%
-Bash       17 mins        ████████▎░░░░░░░░░░░░  39.9%
-Other      1 min          ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-Python     0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+HTML       12 mins        ██████████▉░░░░░░░░░░  52.3%
+Markdown   11 mins        █████████▉░░░░░░░░░░░  47.2%
+Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->

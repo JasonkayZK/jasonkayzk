@@ -128,9 +128,8 @@
 <!-- code_time starts -->
 
 ```text
-HTML       12 mins        ██████████████▊░░░░░░  70.7%
-Markdown   5 mins         ██████░░░░░░░░░░░░░░░  28.7%
-Git Config 0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+HTML       12 mins        █████████████████▊░░░  84.9%
+Markdown   2 mins         ███▏░░░░░░░░░░░░░░░░░  15.1%
 ```
 
 <!-- code_time ends -->

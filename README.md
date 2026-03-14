@@ -103,6 +103,9 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/27594938/' target='_blank'>看过准备好了没</a> - 2026-03-14 01:41:38
+* <a href='https://movie.douban.com/subject/36151614/' target='_blank'>看过恶女</a> - 2026-03-14 01:12:41
+* <a href='https://movie.douban.com/subject/1437109/' target='_blank'>看过黑暗侵袭</a> - 2026-03-14 00:33:14
 * <a href='https://book.douban.com/subject/35192665/' target='_blank'>想读平原上的摩西</a> - 2026-03-07 14:25:54
 * <a href='https://book.douban.com/subject/38362693/' target='_blank'>想读资产配置行动指南</a> - 2026-03-07 14:25:37
 * <a href='https://movie.douban.com/subject/1437037/' target='_blank'>看过稀人</a> - 2026-03-04 12:17:52
@@ -110,9 +113,6 @@
 * <a href='https://movie.douban.com/subject/34906700/' target='_blank'>想看龙樱2</a> - 2026-02-24 13:53:33
 * <a href='https://movie.douban.com/subject/1293847/' target='_blank'>看过生之欲</a> - 2026-02-24 13:32:44
 * <a href='https://movie.douban.com/subject/36369452/' target='_blank'>看过飞驰人生2</a> - 2026-02-24 11:59:48
-* <a href='https://movie.douban.com/subject/37311135/' target='_blank'>看过飞驰人生3</a> - 2026-02-23 13:55:16
-* <a href='https://movie.douban.com/subject/30163509/' target='_blank'>看过飞驰人生</a> - 2026-02-23 01:16:21
-* <a href='https://movie.douban.com/subject/1298041/' target='_blank'>看过黑洞表面</a> - 2026-02-20 04:15:27
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   28 mins        █████████▌░░░░░░░░░░░  45.3%
-Git Config 17 mins        █████▊░░░░░░░░░░░░░░░  27.8%
-HTML       12 mins        ████▏░░░░░░░░░░░░░░░░  20.1%
-Other      3 mins         █▏░░░░░░░░░░░░░░░░░░░   5.5%
-C#         0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Markdown   25 mins        ███████████▍░░░░░░░░░  54.7%
+Git Config 17 mins        ███████▋░░░░░░░░░░░░░  36.5%
+Other      3 mins         █▌░░░░░░░░░░░░░░░░░░░   7.2%
+C#         0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+CSV        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 <!-- code_time ends -->

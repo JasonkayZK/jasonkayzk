@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/4826419/' target='_blank'>看过金福南杀人事件始末</a> - 2026-03-14 15:51:33
 * <a href='https://movie.douban.com/subject/27594938/' target='_blank'>看过准备好了没</a> - 2026-03-14 01:41:38
 * <a href='https://movie.douban.com/subject/36151614/' target='_blank'>看过恶女</a> - 2026-03-14 01:12:41
 * <a href='https://movie.douban.com/subject/1437109/' target='_blank'>看过黑暗侵袭</a> - 2026-03-14 00:33:14
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/34822539/' target='_blank'>想看冲上青天</a> - 2026-02-25 05:18:15
 * <a href='https://movie.douban.com/subject/34906700/' target='_blank'>想看龙樱2</a> - 2026-02-24 13:53:33
 * <a href='https://movie.douban.com/subject/1293847/' target='_blank'>看过生之欲</a> - 2026-02-24 13:32:44
-* <a href='https://movie.douban.com/subject/36369452/' target='_blank'>看过飞驰人生2</a> - 2026-02-24 11:59:48
 <!-- douban ends -->
 
 </td>

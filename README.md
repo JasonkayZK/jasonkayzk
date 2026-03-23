@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/27043736/' target='_blank'>看过三角草的春天</a> - 2026-03-22 07:35:16
 * <a href='https://book.douban.com/subject/35295592/' target='_blank'>想读小狗钱钱</a> - 2026-03-21 16:01:04
 * <a href='https://book.douban.com/subject/1034449/' target='_blank'>想读杰克·伦敦小说选</a> - 2026-03-19 12:04:15
 * <a href='https://movie.douban.com/subject/4826419/' target='_blank'>看过金福南杀人事件始末</a> - 2026-03-14 15:51:33
@@ -112,7 +113,6 @@
 * <a href='https://book.douban.com/subject/35192665/' target='_blank'>想读平原上的摩西</a> - 2026-03-07 14:25:54
 * <a href='https://book.douban.com/subject/38362693/' target='_blank'>想读资产配置行动指南</a> - 2026-03-07 14:25:37
 * <a href='https://movie.douban.com/subject/1437037/' target='_blank'>看过稀人</a> - 2026-03-04 12:17:52
-* <a href='https://movie.douban.com/subject/34822539/' target='_blank'>想看冲上青天</a> - 2026-02-25 05:18:15
 <!-- douban ends -->
 
 </td>

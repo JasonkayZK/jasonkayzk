@@ -128,8 +128,7 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   20 mins        ████████████▊░░░░░░░░  61.0%
-TOML       12 mins        ████████▏░░░░░░░░░░░░  39.0%
+Markdown   19 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

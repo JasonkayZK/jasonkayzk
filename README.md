@@ -103,6 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/2079211/' target='_blank'>看过乔治洛佩兹秀 第一季</a> - 2026-03-29 08:12:33
+* <a href='https://movie.douban.com/subject/37348294/' target='_blank'>看过洛佩兹父女 第一季</a> - 2026-03-29 07:24:11
 * <a href='https://movie.douban.com/subject/35441573/' target='_blank'>看过首尔怪谈</a> - 2026-03-27 22:21:00
 * <a href='https://movie.douban.com/subject/27043736/' target='_blank'>看过三角草的春天</a> - 2026-03-22 07:35:16
 * <a href='https://book.douban.com/subject/35295592/' target='_blank'>想读小狗钱钱</a> - 2026-03-21 16:01:04
@@ -111,8 +113,6 @@
 * <a href='https://movie.douban.com/subject/27594938/' target='_blank'>看过准备好了没</a> - 2026-03-14 01:41:38
 * <a href='https://movie.douban.com/subject/36151614/' target='_blank'>看过恶女</a> - 2026-03-14 01:12:41
 * <a href='https://movie.douban.com/subject/1437109/' target='_blank'>看过黑暗侵袭</a> - 2026-03-14 00:33:14
-* <a href='https://book.douban.com/subject/35192665/' target='_blank'>想读平原上的摩西</a> - 2026-03-07 14:25:54
-* <a href='https://book.douban.com/subject/38362693/' target='_blank'>想读资产配置行动指南</a> - 2026-03-07 14:25:37
 <!-- douban ends -->
 
 </td>

@@ -103,6 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36782603/' target='_blank'>看过诡异列车</a> - 2026-04-05 23:07:16
+* <a href='https://movie.douban.com/subject/37070221/' target='_blank'>看过逃无止境</a> - 2026-04-05 04:41:06
 * <a href='https://movie.douban.com/subject/36614680/' target='_blank'>看过索命哨</a> - 2026-04-03 12:40:25
 * <a href='https://book.douban.com/subject/27199584/' target='_blank'>想读大学之路（第二版）</a> - 2026-04-01 01:34:18
 * <a href='https://movie.douban.com/subject/2079211/' target='_blank'>看过乔治洛佩兹秀 第一季</a> - 2026-03-29 08:12:33
@@ -111,8 +113,6 @@
 * <a href='https://movie.douban.com/subject/27043736/' target='_blank'>看过三角草的春天</a> - 2026-03-22 07:35:16
 * <a href='https://book.douban.com/subject/35295592/' target='_blank'>想读小狗钱钱</a> - 2026-03-21 16:01:04
 * <a href='https://book.douban.com/subject/1034449/' target='_blank'>想读杰克·伦敦小说选</a> - 2026-03-19 12:04:15
-* <a href='https://movie.douban.com/subject/4826419/' target='_blank'>看过金福南杀人事件始末</a> - 2026-03-14 15:51:33
-* <a href='https://movie.douban.com/subject/27594938/' target='_blank'>看过准备好了没</a> - 2026-03-14 01:41:38
 <!-- douban ends -->
 
 </td>
@@ -128,10 +128,8 @@
 <!-- code_time starts -->
 
 ```text
-C#         31 mins        ███████████▉░░░░░░░░░  56.8%
-JSON       11 mins        ████▌░░░░░░░░░░░░░░░░  21.8%
-YAML       9 mins         ███▊░░░░░░░░░░░░░░░░░  17.9%
-Python     1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Git Config 0 secs         ████████████████░░░░░  76.2%
+TOML       0 secs         ████▉░░░░░░░░░░░░░░░░  23.8%
 ```
 
 <!-- code_time ends -->

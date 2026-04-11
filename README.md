@@ -103,6 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/2361266/' target='_blank'>看过爱的曝光</a> - 2026-04-10 08:03:48
+* <a href='https://movie.douban.com/subject/1300275/' target='_blank'>看过大开眼戒</a> - 2026-04-10 07:14:56
 * <a href='https://movie.douban.com/subject/36782603/' target='_blank'>看过诡异列车</a> - 2026-04-05 23:07:16
 * <a href='https://movie.douban.com/subject/37070221/' target='_blank'>看过逃无止境</a> - 2026-04-05 04:41:06
 * <a href='https://movie.douban.com/subject/36614680/' target='_blank'>看过索命哨</a> - 2026-04-03 12:40:25
@@ -111,8 +113,6 @@
 * <a href='https://movie.douban.com/subject/37348294/' target='_blank'>看过洛佩兹父女 第一季</a> - 2026-03-29 07:24:11
 * <a href='https://movie.douban.com/subject/35441573/' target='_blank'>看过首尔怪谈</a> - 2026-03-27 22:21:00
 * <a href='https://movie.douban.com/subject/27043736/' target='_blank'>看过三角草的春天</a> - 2026-03-22 07:35:16
-* <a href='https://book.douban.com/subject/35295592/' target='_blank'>想读小狗钱钱</a> - 2026-03-21 16:01:04
-* <a href='https://book.douban.com/subject/1034449/' target='_blank'>想读杰克·伦敦小说选</a> - 2026-03-19 12:04:15
 <!-- douban ends -->
 
 </td>

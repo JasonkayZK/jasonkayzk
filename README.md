@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/35136718/' target='_blank'>看过壳</a> - 2026-04-13 13:58:48
 * <a href='https://movie.douban.com/subject/1295124/' target='_blank'>看过辛德勒的名单</a> - 2026-04-11 03:46:50
 * <a href='https://movie.douban.com/subject/2361266/' target='_blank'>看过爱的曝光</a> - 2026-04-10 08:03:48
 * <a href='https://movie.douban.com/subject/1300275/' target='_blank'>看过大开眼戒</a> - 2026-04-10 07:14:56
@@ -112,7 +113,6 @@
 * <a href='https://book.douban.com/subject/27199584/' target='_blank'>想读大学之路（第二版）</a> - 2026-04-01 01:34:18
 * <a href='https://movie.douban.com/subject/2079211/' target='_blank'>看过乔治洛佩兹秀 第一季</a> - 2026-03-29 08:12:33
 * <a href='https://movie.douban.com/subject/37348294/' target='_blank'>看过洛佩兹父女 第一季</a> - 2026-03-29 07:24:11
-* <a href='https://movie.douban.com/subject/35441573/' target='_blank'>看过首尔怪谈</a> - 2026-03-27 22:21:00
 <!-- douban ends -->
 
 </td>

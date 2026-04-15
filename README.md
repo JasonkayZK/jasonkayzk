@@ -128,8 +128,7 @@
 <!-- code_time starts -->
 
 ```text
-C#         1 min          ████████████████████▍  97.2%
-Unity3D... 0 secs         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Markdown   0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

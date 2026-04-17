@@ -128,7 +128,9 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   0 secs         █████████████████████ 100.0%
+Markdown   21 mins        ██████████▉░░░░░░░░░░  52.1%
+HTML       19 mins        █████████▊░░░░░░░░░░░  46.5%
+Text       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time ends -->

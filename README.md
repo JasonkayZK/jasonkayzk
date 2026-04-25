@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36654625/' target='_blank'>看过减肥分身</a> - 2026-04-24 14:47:38
 * <a href='https://movie.douban.com/subject/35136718/' target='_blank'>看过壳</a> - 2026-04-13 13:58:48
 * <a href='https://movie.douban.com/subject/1295124/' target='_blank'>看过辛德勒的名单</a> - 2026-04-11 03:46:50
 * <a href='https://movie.douban.com/subject/2361266/' target='_blank'>看过爱的曝光</a> - 2026-04-10 08:03:48
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/36614680/' target='_blank'>看过索命哨</a> - 2026-04-03 12:40:25
 * <a href='https://book.douban.com/subject/27199584/' target='_blank'>想读大学之路（第二版）</a> - 2026-04-01 01:34:18
 * <a href='https://movie.douban.com/subject/2079211/' target='_blank'>看过乔治洛佩兹秀 第一季</a> - 2026-03-29 08:12:33
-* <a href='https://movie.douban.com/subject/37348294/' target='_blank'>看过洛佩兹父女 第一季</a> - 2026-03-29 07:24:11
 <!-- douban ends -->
 
 </td>
@@ -128,10 +128,10 @@
 <!-- code_time starts -->
 
 ```text
-C#         1 hr 15 mins   ██████████████▊░░░░░░  70.4%
-Other      26 mins        █████▎░░░░░░░░░░░░░░░  25.1%
-HTML       4 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+C#         2 hrs 28 mins  ██████████████▊░░░░░░  70.6%
+Other      37 mins        ███▋░░░░░░░░░░░░░░░░░  17.8%
+Markdown   21 mins        ██▏░░░░░░░░░░░░░░░░░░  10.3%
+HTML       2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time ends -->

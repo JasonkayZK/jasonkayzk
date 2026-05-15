@@ -128,9 +128,8 @@
 <!-- code_time starts -->
 
 ```text
-C#         7 mins         █████████████▊░░░░░░░  65.5%
-Markdown   3 mins         ██████▋░░░░░░░░░░░░░░  31.8%
-Other      0 secs         ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Text       1 hr 8 mins    ███████████████████▉░  94.8%
+Markdown   3 mins         █░░░░░░░░░░░░░░░░░░░░   5.2%
 ```
 
 <!-- code_time ends -->

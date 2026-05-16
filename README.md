@@ -128,8 +128,7 @@
 <!-- code_time starts -->
 
 ```text
-Text       1 hr 8 mins    ███████████████████▉░  94.8%
-Markdown   3 mins         █░░░░░░░░░░░░░░░░░░░░   5.2%
+Markdown   3 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

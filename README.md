@@ -103,6 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/26266892/' target='_blank'>看过红鳉鱼</a> - 2026-05-16 05:22:03
+* <a href='https://movie.douban.com/subject/36857468/' target='_blank'>看过瘟疫</a> - 2026-05-16 04:40:37
 * <a href='https://movie.douban.com/subject/2157239/' target='_blank'>想看将爱情进行到底</a> - 2026-05-04 11:48:26
 * <a href='https://movie.douban.com/subject/36654625/' target='_blank'>看过减肥分身</a> - 2026-04-24 14:47:38
 * <a href='https://movie.douban.com/subject/35136718/' target='_blank'>看过壳</a> - 2026-04-13 13:58:48
@@ -111,8 +113,6 @@
 * <a href='https://movie.douban.com/subject/1300275/' target='_blank'>看过大开眼戒</a> - 2026-04-10 07:14:56
 * <a href='https://movie.douban.com/subject/36782603/' target='_blank'>看过诡异列车</a> - 2026-04-05 23:07:16
 * <a href='https://movie.douban.com/subject/37070221/' target='_blank'>看过逃无止境</a> - 2026-04-05 04:41:06
-* <a href='https://movie.douban.com/subject/36614680/' target='_blank'>看过索命哨</a> - 2026-04-03 12:40:25
-* <a href='https://book.douban.com/subject/27199584/' target='_blank'>想读大学之路（第二版）</a> - 2026-04-01 01:34:18
 <!-- douban ends -->
 
 </td>
@@ -128,7 +128,9 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   3 mins         █████████████████████ 100.0%
+C#         1 hr 30 mins   ██████████▊░░░░░░░░░░  51.4%
+Markdown   1 hr 26 mins   ██████████▏░░░░░░░░░░  48.6%
+Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->

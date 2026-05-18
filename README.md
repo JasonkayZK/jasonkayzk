@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2026-05-17 13:52:28
 * <a href='https://movie.douban.com/subject/26266892/' target='_blank'>看过红鳉鱼</a> - 2026-05-16 05:22:03
 * <a href='https://movie.douban.com/subject/36857468/' target='_blank'>看过瘟疫</a> - 2026-05-16 04:40:37
 * <a href='https://movie.douban.com/subject/2157239/' target='_blank'>想看将爱情进行到底</a> - 2026-05-04 11:48:26
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/2361266/' target='_blank'>看过爱的曝光</a> - 2026-04-10 08:03:48
 * <a href='https://movie.douban.com/subject/1300275/' target='_blank'>看过大开眼戒</a> - 2026-04-10 07:14:56
 * <a href='https://movie.douban.com/subject/36782603/' target='_blank'>看过诡异列车</a> - 2026-04-05 23:07:16
-* <a href='https://movie.douban.com/subject/37070221/' target='_blank'>看过逃无止境</a> - 2026-04-05 04:41:06
 <!-- douban ends -->
 
 </td>

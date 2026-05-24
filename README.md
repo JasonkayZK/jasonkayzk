@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/37469727/' target='_blank'>看过祸祸女</a> - 2026-05-24 03:39:43
 * <a href='https://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2026-05-17 13:52:28
 * <a href='https://movie.douban.com/subject/26266892/' target='_blank'>看过红鳉鱼</a> - 2026-05-16 05:22:03
 * <a href='https://movie.douban.com/subject/36857468/' target='_blank'>看过瘟疫</a> - 2026-05-16 04:40:37
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/1295124/' target='_blank'>看过辛德勒的名单</a> - 2026-04-11 03:46:50
 * <a href='https://movie.douban.com/subject/2361266/' target='_blank'>看过爱的曝光</a> - 2026-04-10 08:03:48
 * <a href='https://movie.douban.com/subject/1300275/' target='_blank'>看过大开眼戒</a> - 2026-04-10 07:14:56
-* <a href='https://movie.douban.com/subject/36782603/' target='_blank'>看过诡异列车</a> - 2026-04-05 23:07:16
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-C#         2 hrs 10 mins  █████████▋░░░░░░░░░░░  46.3%
-Markdown   1 hr 59 mins   ████████▉░░░░░░░░░░░░  42.4%
-Python     26 mins        █▉░░░░░░░░░░░░░░░░░░░   9.5%
-Text       3 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-XML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.5%
+C#         40 mins        ███████▉░░░░░░░░░░░░░  37.9%
+Markdown   33 mins        ██████▋░░░░░░░░░░░░░░  31.9%
+Python     26 mins        █████▎░░░░░░░░░░░░░░░  25.3%
+Text       3 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+XML        1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time ends -->

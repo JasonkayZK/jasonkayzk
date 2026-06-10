@@ -103,16 +103,16 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36371992/' target='_blank'>看过铁肺</a> - 2026-06-09 05:45:01
+* <a href='https://book.douban.com/subject/4740002/' target='_blank'>想读On Writing Well</a> - 2026-06-09 05:20:27
+* <a href='https://book.douban.com/subject/1772158/' target='_blank'>想读The Kite Runner</a> - 2026-06-09 05:20:20
+* <a href='https://book.douban.com/subject/1340758/' target='_blank'>想读Harry Potter and the Sorcerer's Stone</a> - 2026-06-09 05:20:14
+* <a href='https://book.douban.com/subject/1341074/' target='_blank'>想读The Diary of a Young Girl</a> - 2026-06-09 05:20:07
+* <a href='https://book.douban.com/subject/23546652/' target='_blank'>想读The Curious Incident of the Dog in the Night-Time</a> - 2026-06-09 05:19:59
+* <a href='https://book.douban.com/subject/10956502/' target='_blank'>想读动物庄园(英文版)</a> - 2026-06-09 05:19:51
 * <a href='https://movie.douban.com/subject/3148883/' target='_blank'>看过铠：武士僵尸</a> - 2026-06-06 12:59:54
 * <a href='https://movie.douban.com/subject/37469727/' target='_blank'>看过祸祸女</a> - 2026-05-24 03:39:43
 * <a href='https://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2026-05-17 13:52:28
-* <a href='https://movie.douban.com/subject/26266892/' target='_blank'>看过红鳉鱼</a> - 2026-05-16 05:22:03
-* <a href='https://movie.douban.com/subject/36857468/' target='_blank'>看过瘟疫</a> - 2026-05-16 04:40:37
-* <a href='https://movie.douban.com/subject/2157239/' target='_blank'>想看将爱情进行到底</a> - 2026-05-04 11:48:26
-* <a href='https://movie.douban.com/subject/36654625/' target='_blank'>看过减肥分身</a> - 2026-04-24 14:47:38
-* <a href='https://movie.douban.com/subject/35136718/' target='_blank'>看过壳</a> - 2026-04-13 13:58:48
-* <a href='https://movie.douban.com/subject/1295124/' target='_blank'>看过辛德勒的名单</a> - 2026-04-11 03:46:50
-* <a href='https://movie.douban.com/subject/2361266/' target='_blank'>看过爱的曝光</a> - 2026-04-10 08:03:48
 <!-- douban ends -->
 
 </td>
@@ -128,8 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     13 mins        ████████████████████▉ 100.0%
-GitIgno... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+TypeScript 51 mins        ████████▊░░░░░░░░░░░░  42.1%
+Markdown   42 mins        ███████▎░░░░░░░░░░░░░  34.6%
+Text       26 mins        ████▍░░░░░░░░░░░░░░░░  21.2%
+Java       1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+JSON       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
 <!-- code_time ends -->

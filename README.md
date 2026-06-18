@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/35505532/' target='_blank'>看过怪谈晚餐</a> - 2026-06-17 12:48:54
 * <a href='https://movie.douban.com/subject/36371992/' target='_blank'>看过铁肺</a> - 2026-06-09 05:45:01
 * <a href='https://book.douban.com/subject/4740002/' target='_blank'>想读On Writing Well</a> - 2026-06-09 05:20:27
 * <a href='https://book.douban.com/subject/1772158/' target='_blank'>想读The Kite Runner</a> - 2026-06-09 05:20:20
@@ -112,7 +113,6 @@
 * <a href='https://book.douban.com/subject/10956502/' target='_blank'>想读动物庄园(英文版)</a> - 2026-06-09 05:19:51
 * <a href='https://movie.douban.com/subject/3148883/' target='_blank'>看过铠：武士僵尸</a> - 2026-06-06 12:59:54
 * <a href='https://movie.douban.com/subject/37469727/' target='_blank'>看过祸祸女</a> - 2026-05-24 03:39:43
-* <a href='https://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2026-05-17 13:52:28
 <!-- douban ends -->
 
 </td>
@@ -128,8 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   35 mins        ████████████████████░  95.8%
-Java       1 min          ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+Markdown   1 hr 25 mins   ██████▎░░░░░░░░░░░░░░  30.1%
+CSS        48 mins        ███▌░░░░░░░░░░░░░░░░░  17.0%
+TypeScript 46 mins        ███▍░░░░░░░░░░░░░░░░░  16.3%
+Other      44 mins        ███▎░░░░░░░░░░░░░░░░░  15.9%
+Python     37 mins        ██▊░░░░░░░░░░░░░░░░░░  13.3%
 ```
 
 <!-- code_time ends -->

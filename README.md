@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   1 hr 25 mins   ██████▎░░░░░░░░░░░░░░  30.1%
-CSS        48 mins        ███▌░░░░░░░░░░░░░░░░░  17.0%
-TypeScript 46 mins        ███▍░░░░░░░░░░░░░░░░░  16.3%
-Other      44 mins        ███▎░░░░░░░░░░░░░░░░░  15.9%
-Python     37 mins        ██▊░░░░░░░░░░░░░░░░░░  13.3%
+Markdown   2 hrs 29 mins  ██████▍░░░░░░░░░░░░░░  30.6%
+JavaScript 1 hr 5 mins    ██▊░░░░░░░░░░░░░░░░░░  13.4%
+CSS        52 mins        ██▎░░░░░░░░░░░░░░░░░░  10.8%
+Git Config 52 mins        ██▏░░░░░░░░░░░░░░░░░░  10.6%
+Other      50 mins        ██▏░░░░░░░░░░░░░░░░░░  10.3%
 ```
 
 <!-- code_time ends -->

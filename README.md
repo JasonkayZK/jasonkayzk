@@ -103,6 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/38513269/' target='_blank'>想读一个64位操作系统的设计与实现（第2版）</a> - 2026-06-28 04:48:49
+* <a href='https://book.douban.com/subject/30222325/' target='_blank'>想读一个64位操作系统的设计与实现</a> - 2026-06-28 04:47:19
 * <a href='https://movie.douban.com/subject/35505532/' target='_blank'>看过怪谈晚餐</a> - 2026-06-17 12:48:54
 * <a href='https://movie.douban.com/subject/36371992/' target='_blank'>看过铁肺</a> - 2026-06-09 05:45:01
 * <a href='https://book.douban.com/subject/4740002/' target='_blank'>想读On Writing Well</a> - 2026-06-09 05:20:27
@@ -111,8 +113,6 @@
 * <a href='https://book.douban.com/subject/1341074/' target='_blank'>想读The Diary of a Young Girl</a> - 2026-06-09 05:20:07
 * <a href='https://book.douban.com/subject/23546652/' target='_blank'>想读The Curious Incident of the Dog in the Night-Time</a> - 2026-06-09 05:19:59
 * <a href='https://book.douban.com/subject/10956502/' target='_blank'>想读动物庄园(英文版)</a> - 2026-06-09 05:19:51
-* <a href='https://movie.douban.com/subject/3148883/' target='_blank'>看过铠：武士僵尸</a> - 2026-06-06 12:59:54
-* <a href='https://movie.douban.com/subject/37469727/' target='_blank'>看过祸祸女</a> - 2026-05-24 03:39:43
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   3 hrs 22 mins  ████████▌░░░░░░░░░░░░  40.8%
-Rust       1 hr 31 mins   ███▊░░░░░░░░░░░░░░░░░  18.4%
-TypeScript 40 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
-HTML       39 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
-Other      31 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Markdown   2 hrs 52 mins  ██████▉░░░░░░░░░░░░░░  32.9%
+Rust       1 hr 25 mins   ███▍░░░░░░░░░░░░░░░░░  16.3%
+Other      1 hr 20 mins   ███▏░░░░░░░░░░░░░░░░░  15.3%
+JavaScript 1 hr 6 mins    ██▋░░░░░░░░░░░░░░░░░░  12.6%
+TypeScript 41 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
 ```
 
 <!-- code_time ends -->

@@ -128,10 +128,10 @@
 <!-- code_time starts -->
 
 ```text
-Other      1 hr 45 mins   █████▏░░░░░░░░░░░░░░░  24.5%
-TypeScript 1 hr 35 mins   ████▋░░░░░░░░░░░░░░░░  22.2%
-JavaScript 1 hr 17 mins   ███▊░░░░░░░░░░░░░░░░░  17.9%
-Markdown   42 mins        ██░░░░░░░░░░░░░░░░░░░   9.9%
+Other      1 hr 45 mins   █████▏░░░░░░░░░░░░░░░  24.7%
+TypeScript 1 hr 35 mins   ████▋░░░░░░░░░░░░░░░░  22.4%
+JavaScript 1 hr 17 mins   ███▊░░░░░░░░░░░░░░░░░  18.1%
+Markdown   42 mins        ██░░░░░░░░░░░░░░░░░░░  10.0%
 Rust       41 mins        ██░░░░░░░░░░░░░░░░░░░   9.6%
 ```
 

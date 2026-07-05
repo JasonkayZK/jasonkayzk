@@ -103,6 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/37450627/' target='_blank'>看过痴迷</a> - 2026-07-04 06:55:25
+* <a href='https://movie.douban.com/subject/38480068/' target='_blank'>想看痴迷2</a> - 2026-07-04 06:46:21
 * <a href='https://book.douban.com/subject/38513269/' target='_blank'>想读一个64位操作系统的设计与实现（第2版）</a> - 2026-06-28 04:48:49
 * <a href='https://book.douban.com/subject/30222325/' target='_blank'>想读一个64位操作系统的设计与实现</a> - 2026-06-28 04:47:19
 * <a href='https://movie.douban.com/subject/35505532/' target='_blank'>看过怪谈晚餐</a> - 2026-06-17 12:48:54
@@ -111,8 +113,6 @@
 * <a href='https://book.douban.com/subject/1772158/' target='_blank'>想读The Kite Runner</a> - 2026-06-09 05:20:20
 * <a href='https://book.douban.com/subject/1340758/' target='_blank'>想读Harry Potter and the Sorcerer's Stone</a> - 2026-06-09 05:20:14
 * <a href='https://book.douban.com/subject/1341074/' target='_blank'>想读The Diary of a Young Girl</a> - 2026-06-09 05:20:07
-* <a href='https://book.douban.com/subject/23546652/' target='_blank'>想读The Curious Incident of the Dog in the Night-Time</a> - 2026-06-09 05:19:59
-* <a href='https://book.douban.com/subject/10956502/' target='_blank'>想读动物庄园(英文版)</a> - 2026-06-09 05:19:51
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Other      1 hr 45 mins   ██████▋░░░░░░░░░░░░░░  31.9%
-TypeScript 1 hr 35 mins   ██████░░░░░░░░░░░░░░░  28.9%
-JavaScript 51 mins        ███▎░░░░░░░░░░░░░░░░░  15.6%
-Rust       41 mins        ██▌░░░░░░░░░░░░░░░░░░  12.4%
-TSConfig   13 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.2%
+TypeScript 1 hr 23 mins   ████████▍░░░░░░░░░░░░  40.4%
+Other      58 mins        █████▉░░░░░░░░░░░░░░░  28.6%
+JavaScript 14 mins        █▌░░░░░░░░░░░░░░░░░░░   7.2%
+Rust       13 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
+TSConfig   13 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
 ```
 
 <!-- code_time ends -->

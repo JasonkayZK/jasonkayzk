@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/38495119/' target='_blank'>想读图解 Skill</a> - 2026-07-05 05:46:57
 * <a href='https://movie.douban.com/subject/37450627/' target='_blank'>看过痴迷</a> - 2026-07-04 06:55:25
 * <a href='https://movie.douban.com/subject/38480068/' target='_blank'>想看痴迷2</a> - 2026-07-04 06:46:21
 * <a href='https://book.douban.com/subject/38513269/' target='_blank'>想读一个64位操作系统的设计与实现（第2版）</a> - 2026-06-28 04:48:49
@@ -112,7 +113,6 @@
 * <a href='https://book.douban.com/subject/4740002/' target='_blank'>想读On Writing Well</a> - 2026-06-09 05:20:27
 * <a href='https://book.douban.com/subject/1772158/' target='_blank'>想读The Kite Runner</a> - 2026-06-09 05:20:20
 * <a href='https://book.douban.com/subject/1340758/' target='_blank'>想读Harry Potter and the Sorcerer's Stone</a> - 2026-06-09 05:20:14
-* <a href='https://book.douban.com/subject/1341074/' target='_blank'>想读The Diary of a Young Girl</a> - 2026-06-09 05:20:07
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,10 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 1 hr 23 mins   ████████▍░░░░░░░░░░░░  40.4%
-Other      58 mins        █████▉░░░░░░░░░░░░░░░  28.6%
-JavaScript 14 mins        █▌░░░░░░░░░░░░░░░░░░░   7.2%
-Rust       13 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
-TSConfig   13 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
+JavaScript 3 mins         █████████░░░░░░░░░░░░  43.0%
+Other      3 mins         ████████▌░░░░░░░░░░░░  40.7%
+JSON       1 min          ███░░░░░░░░░░░░░░░░░░  14.4%
+Git Config 0 secs         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time ends -->

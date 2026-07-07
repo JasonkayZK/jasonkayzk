@@ -103,16 +103,16 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/10810336/' target='_blank'>看过恐怖故事</a> - 2026-07-06 09:25:41
+* <a href='https://movie.douban.com/subject/1292343/' target='_blank'>看过蝴蝶效应</a> - 2026-07-06 09:23:01
+* <a href='https://movie.douban.com/subject/1292223/' target='_blank'>看过七宗罪</a> - 2026-07-06 09:21:37
+* <a href='https://movie.douban.com/subject/1945330/' target='_blank'>看过迷雾</a> - 2026-07-06 09:18:49
+* <a href='https://movie.douban.com/subject/25766529/' target='_blank'>看过走到尽头</a> - 2026-07-06 08:39:55
 * <a href='https://book.douban.com/subject/38495119/' target='_blank'>想读图解 Skill</a> - 2026-07-05 05:46:57
 * <a href='https://movie.douban.com/subject/37450627/' target='_blank'>看过痴迷</a> - 2026-07-04 06:55:25
 * <a href='https://movie.douban.com/subject/38480068/' target='_blank'>想看痴迷2</a> - 2026-07-04 06:46:21
 * <a href='https://book.douban.com/subject/38513269/' target='_blank'>想读一个64位操作系统的设计与实现（第2版）</a> - 2026-06-28 04:48:49
 * <a href='https://book.douban.com/subject/30222325/' target='_blank'>想读一个64位操作系统的设计与实现</a> - 2026-06-28 04:47:19
-* <a href='https://movie.douban.com/subject/35505532/' target='_blank'>看过怪谈晚餐</a> - 2026-06-17 12:48:54
-* <a href='https://movie.douban.com/subject/36371992/' target='_blank'>看过铁肺</a> - 2026-06-09 05:45:01
-* <a href='https://book.douban.com/subject/4740002/' target='_blank'>想读On Writing Well</a> - 2026-06-09 05:20:27
-* <a href='https://book.douban.com/subject/1772158/' target='_blank'>想读The Kite Runner</a> - 2026-06-09 05:20:20
-* <a href='https://book.douban.com/subject/1340758/' target='_blank'>想读Harry Potter and the Sorcerer's Stone</a> - 2026-06-09 05:20:14
 <!-- douban ends -->
 
 </td>

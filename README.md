@@ -128,10 +128,9 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 3 mins         █████████▏░░░░░░░░░░░  43.8%
-Other      3 mins         ████████▎░░░░░░░░░░░░  39.6%
-JSON       1 min          ███░░░░░░░░░░░░░░░░░░  14.7%
-Git Config 0 secs         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+JavaScript 3 mins         ███████████████▏░░░░░  72.5%
+JSON       1 min          █████░░░░░░░░░░░░░░░░  24.3%
+Git Config 0 secs         ▋░░░░░░░░░░░░░░░░░░░░   3.2%
 ```
 
 <!-- code_time ends -->

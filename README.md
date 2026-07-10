@@ -110,9 +110,9 @@
 * <a href='https://movie.douban.com/subject/25766529/' target='_blank'>看过走到尽头</a> - 2026-07-06 08:39:55
 * <a href='https://book.douban.com/subject/38495119/' target='_blank'>想读图解 Skill</a> - 2026-07-05 05:46:57
 * <a href='https://movie.douban.com/subject/37450627/' target='_blank'>看过痴迷</a> - 2026-07-04 06:55:25
-* <a href='https://movie.douban.com/subject/38480068/' target='_blank'>想看痴迷2</a> - 2026-07-04 06:46:21
 * <a href='https://book.douban.com/subject/38513269/' target='_blank'>想读一个64位操作系统的设计与实现（第2版）</a> - 2026-06-28 04:48:49
 * <a href='https://book.douban.com/subject/30222325/' target='_blank'>想读一个64位操作系统的设计与实现</a> - 2026-06-28 04:47:19
+* <a href='https://movie.douban.com/subject/35505532/' target='_blank'>看过怪谈晚餐</a> - 2026-06-17 12:48:54
 <!-- douban ends -->
 
 </td>

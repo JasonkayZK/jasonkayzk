@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='http://www.douban.com/game/38523838/' target='_blank'>玩过东北往事</a> - 2026-07-12 13:42:19
 * <a href='https://movie.douban.com/subject/2030563/' target='_blank'>看过吓死鬼</a> - 2026-07-11 05:38:39
 * <a href='https://movie.douban.com/subject/10810336/' target='_blank'>看过恐怖故事</a> - 2026-07-06 09:25:41
 * <a href='https://movie.douban.com/subject/1292343/' target='_blank'>看过蝴蝶效应</a> - 2026-07-06 09:23:01
@@ -112,7 +113,6 @@
 * <a href='https://book.douban.com/subject/38495119/' target='_blank'>想读图解 Skill</a> - 2026-07-05 05:46:57
 * <a href='https://movie.douban.com/subject/37450627/' target='_blank'>看过痴迷</a> - 2026-07-04 06:55:25
 * <a href='https://book.douban.com/subject/38513269/' target='_blank'>想读一个64位操作系统的设计与实现（第2版）</a> - 2026-06-28 04:48:49
-* <a href='https://book.douban.com/subject/30222325/' target='_blank'>想读一个64位操作系统的设计与实现</a> - 2026-06-28 04:47:19
 <!-- douban ends -->
 
 </td>

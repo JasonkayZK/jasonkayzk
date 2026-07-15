@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/2067450/' target='_blank'>看过那家伙的声音</a> - 2026-07-14 11:07:40
 * <a href='http://www.douban.com/game/38523838/' target='_blank'>玩过东北往事</a> - 2026-07-12 13:42:19
 * <a href='https://movie.douban.com/subject/2030563/' target='_blank'>看过吓死鬼</a> - 2026-07-11 05:38:39
 * <a href='https://movie.douban.com/subject/10810336/' target='_blank'>看过恐怖故事</a> - 2026-07-06 09:25:41
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/25766529/' target='_blank'>看过走到尽头</a> - 2026-07-06 08:39:55
 * <a href='https://book.douban.com/subject/38495119/' target='_blank'>想读图解 Skill</a> - 2026-07-05 05:46:57
 * <a href='https://movie.douban.com/subject/37450627/' target='_blank'>看过痴迷</a> - 2026-07-04 06:55:25
-* <a href='https://book.douban.com/subject/38513269/' target='_blank'>想读一个64位操作系统的设计与实现（第2版）</a> - 2026-06-28 04:48:49
 <!-- douban ends -->
 
 </td>
@@ -128,9 +128,7 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 3 mins         ███████████████▏░░░░░  72.5%
-JSON       1 min          █████░░░░░░░░░░░░░░░░  24.3%
-Git Config 0 secs         ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Text       2 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

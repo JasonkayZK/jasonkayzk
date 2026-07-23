@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/2129039/' target='_blank'>看过飞屋环游记</a> - 2026-07-22 09:05:48
 * <a href='https://book.douban.com/subject/34888157/' target='_blank'>想读十分钟冥想</a> - 2026-07-19 15:40:46
 * <a href='https://movie.douban.com/subject/2067450/' target='_blank'>看过那家伙的声音</a> - 2026-07-14 11:07:40
 * <a href='http://www.douban.com/game/38523838/' target='_blank'>玩过东北往事</a> - 2026-07-12 13:42:19
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/1292223/' target='_blank'>看过七宗罪</a> - 2026-07-06 09:21:37
 * <a href='https://movie.douban.com/subject/1945330/' target='_blank'>看过迷雾</a> - 2026-07-06 09:18:49
 * <a href='https://movie.douban.com/subject/25766529/' target='_blank'>看过走到尽头</a> - 2026-07-06 08:39:55
-* <a href='https://book.douban.com/subject/38495119/' target='_blank'>想读图解 Skill</a> - 2026-07-05 05:46:57
 <!-- douban ends -->
 
 </td>
@@ -128,9 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   16 mins        ██████████████▊░░░░░░  70.4%
-TOML       6 mins         ██████▏░░░░░░░░░░░░░░  29.5%
-JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+TOML       31 mins        ██████▉░░░░░░░░░░░░░░  33.0%
+Markdown   29 mins        ██████▌░░░░░░░░░░░░░░  31.1%
+Python     23 mins        █████▎░░░░░░░░░░░░░░░  25.4%
+CSS        6 mins         █▍░░░░░░░░░░░░░░░░░░░   7.0%
+HTML       1 min          ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time ends -->

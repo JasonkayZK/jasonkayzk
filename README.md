@@ -103,6 +103,9 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/1230328/' target='_blank'>想读数学（第一卷）</a> - 2026-07-23 23:43:08
+* <a href='https://book.douban.com/subject/10455982/' target='_blank'>想读什么是数学</a> - 2026-07-23 23:42:23
+* <a href='https://book.douban.com/subject/35290791/' target='_blank'>想读什么是金融</a> - 2026-07-23 23:42:13
 * <a href='https://movie.douban.com/subject/2129039/' target='_blank'>看过飞屋环游记</a> - 2026-07-22 09:05:48
 * <a href='https://book.douban.com/subject/34888157/' target='_blank'>想读十分钟冥想</a> - 2026-07-19 15:40:46
 * <a href='https://movie.douban.com/subject/2067450/' target='_blank'>看过那家伙的声音</a> - 2026-07-14 11:07:40
@@ -110,9 +113,6 @@
 * <a href='https://movie.douban.com/subject/2030563/' target='_blank'>看过吓死鬼</a> - 2026-07-11 05:38:39
 * <a href='https://movie.douban.com/subject/10810336/' target='_blank'>看过恐怖故事</a> - 2026-07-06 09:25:41
 * <a href='https://movie.douban.com/subject/1292343/' target='_blank'>看过蝴蝶效应</a> - 2026-07-06 09:23:01
-* <a href='https://movie.douban.com/subject/1292223/' target='_blank'>看过七宗罪</a> - 2026-07-06 09:21:37
-* <a href='https://movie.douban.com/subject/1945330/' target='_blank'>看过迷雾</a> - 2026-07-06 09:18:49
-* <a href='https://movie.douban.com/subject/25766529/' target='_blank'>看过走到尽头</a> - 2026-07-06 08:39:55
 <!-- douban ends -->
 
 </td>

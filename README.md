@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/37891889/' target='_blank'>想读AI Systems Performance Engineering</a> - 2026-07-26 03:21:19
 * <a href='https://book.douban.com/subject/1230328/' target='_blank'>想读数学（第一卷）</a> - 2026-07-23 23:43:08
 * <a href='https://book.douban.com/subject/10455982/' target='_blank'>想读什么是数学</a> - 2026-07-23 23:42:23
 * <a href='https://book.douban.com/subject/35290791/' target='_blank'>想读什么是金融</a> - 2026-07-23 23:42:13
@@ -112,7 +113,6 @@
 * <a href='http://www.douban.com/game/38523838/' target='_blank'>玩过东北往事</a> - 2026-07-12 13:42:19
 * <a href='https://movie.douban.com/subject/2030563/' target='_blank'>看过吓死鬼</a> - 2026-07-11 05:38:39
 * <a href='https://movie.douban.com/subject/10810336/' target='_blank'>看过恐怖故事</a> - 2026-07-06 09:25:41
-* <a href='https://movie.douban.com/subject/1292343/' target='_blank'>看过蝴蝶效应</a> - 2026-07-06 09:23:01
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-TOML       31 mins        ██████▉░░░░░░░░░░░░░░  33.0%
-Markdown   29 mins        ██████▌░░░░░░░░░░░░░░  31.1%
-Python     23 mins        █████▎░░░░░░░░░░░░░░░  25.4%
-CSS        6 mins         █▍░░░░░░░░░░░░░░░░░░░   7.0%
-HTML       1 min          ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Markdown   35 mins        ██████▍░░░░░░░░░░░░░░  30.6%
+Python     33 mins        ██████░░░░░░░░░░░░░░░  28.8%
+TOML       31 mins        █████▋░░░░░░░░░░░░░░░  27.1%
+CSS        6 mins         █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Other      3 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 
 <!-- code_time ends -->

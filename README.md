@@ -103,16 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/26581837/' target='_blank'>看过上海堡垒</a> - 2026-07-30 04:56:22
-* <a href='https://movie.douban.com/subject/2150220/' target='_blank'>想看白色巨塔</a> - 2026-07-30 00:59:45
-* <a href='https://movie.douban.com/subject/36156235/' target='_blank'>想看重启人生</a> - 2026-07-30 00:59:28
-* <a href='https://book.douban.com/subject/1829226/' target='_blank'>想读肖申克的救赎</a> - 2026-07-29 05:06:33
-* <a href='https://movie.douban.com/subject/1292850/' target='_blank'>看过危情十日</a> - 2026-07-29 04:43:56
-* <a href='https://book.douban.com/subject/36518892/' target='_blank'>想读埃隆·马斯克传</a> - 2026-07-26 14:33:32
-* <a href='https://book.douban.com/subject/37891889/' target='_blank'>想读AI Systems Performance Engineering</a> - 2026-07-26 03:21:19
-* <a href='https://book.douban.com/subject/1230328/' target='_blank'>想读数学（第一卷）</a> - 2026-07-23 23:43:08
-* <a href='https://book.douban.com/subject/10455982/' target='_blank'>想读什么是数学</a> - 2026-07-23 23:42:23
-* <a href='https://book.douban.com/subject/35290791/' target='_blank'>想读什么是金融</a> - 2026-07-23 23:42:13
+
 <!-- douban ends -->
 
 </td>
@@ -128,11 +119,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     1 hr 45 mins   ██████████▎░░░░░░░░░░  49.2%
-Markdown   43 mins        ████▎░░░░░░░░░░░░░░░░  20.4%
-TypeScript 31 mins        ███░░░░░░░░░░░░░░░░░░  14.6%
-HTML       15 mins        █▌░░░░░░░░░░░░░░░░░░░   7.2%
-TOML       7 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Python     1 hr 35 mins   ██████████▍░░░░░░░░░░  49.9%
+Markdown   37 mins        ████░░░░░░░░░░░░░░░░░  19.5%
+TypeScript 31 mins        ███▍░░░░░░░░░░░░░░░░░  16.3%
+HTML       15 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
+TOML       6 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time ends -->

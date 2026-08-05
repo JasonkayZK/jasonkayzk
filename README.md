@@ -128,9 +128,7 @@
 <!-- code_time starts -->
 
 ```text
-HTML       15 mins        ██████████████████▊░░  89.3%
-CSS        1 min          █▎░░░░░░░░░░░░░░░░░░░   6.3%
-JavaScript 0 secs         ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+Other      15 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

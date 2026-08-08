@@ -103,6 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1793903/' target='_blank'>看过幻影凶间</a> - 2026-08-07 14:24:46
+* <a href='https://book.douban.com/subject/37010196/' target='_blank'>想读留学的孩子</a> - 2026-08-07 04:02:48
 * <a href='https://movie.douban.com/subject/37149451/' target='_blank'>看过美洲大宝荐：你好美国‎</a> - 2026-08-06 06:57:52
 * <a href='https://movie.douban.com/subject/1295763/' target='_blank'>看过月吟</a> - 2026-08-06 06:39:44
 * <a href='https://movie.douban.com/subject/26581837/' target='_blank'>看过上海堡垒</a> - 2026-07-30 04:56:22
@@ -111,8 +113,6 @@
 * <a href='https://book.douban.com/subject/1829226/' target='_blank'>想读肖申克的救赎</a> - 2026-07-29 05:06:33
 * <a href='https://movie.douban.com/subject/1292850/' target='_blank'>看过危情十日</a> - 2026-07-29 04:43:56
 * <a href='https://book.douban.com/subject/36518892/' target='_blank'>想读埃隆·马斯克传</a> - 2026-07-26 14:33:32
-* <a href='https://book.douban.com/subject/37891889/' target='_blank'>想读AI Systems Performance Engineering</a> - 2026-07-26 03:21:19
-* <a href='https://book.douban.com/subject/1230328/' target='_blank'>想读数学（第一卷）</a> - 2026-07-23 23:43:08
 <!-- douban ends -->
 
 </td>
@@ -128,7 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Other      15 mins        █████████████████████ 100.0%
+HTML       46 mins        ███████████████████▏░  91.3%
+JavaScript 3 mins         █▎░░░░░░░░░░░░░░░░░░░   6.1%
+TypeScript 1 min          ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->

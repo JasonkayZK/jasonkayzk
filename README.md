@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/34439638/' target='_blank'>最近在读Algorithms</a> - 2026-08-08 09:54:27
 * <a href='https://movie.douban.com/subject/1793903/' target='_blank'>看过幻影凶间</a> - 2026-08-07 14:24:46
 * <a href='https://book.douban.com/subject/37010196/' target='_blank'>想读留学的孩子</a> - 2026-08-07 04:02:48
 * <a href='https://movie.douban.com/subject/37149451/' target='_blank'>看过美洲大宝荐：你好美国‎</a> - 2026-08-06 06:57:52
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/36156235/' target='_blank'>想看重启人生</a> - 2026-07-30 00:59:28
 * <a href='https://book.douban.com/subject/1829226/' target='_blank'>想读肖申克的救赎</a> - 2026-07-29 05:06:33
 * <a href='https://movie.douban.com/subject/1292850/' target='_blank'>看过危情十日</a> - 2026-07-29 04:43:56
-* <a href='https://book.douban.com/subject/36518892/' target='_blank'>想读埃隆·马斯克传</a> - 2026-07-26 14:33:32
 <!-- douban ends -->
 
 </td>

@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1300992/' target='_blank'>看过完美的世界</a> - 2026-08-13 15:36:41
 * <a href='https://movie.douban.com/subject/36452545/' target='_blank'>看过功夫女足</a> - 2026-08-12 02:03:19
 * <a href='https://movie.douban.com/subject/4840388/' target='_blank'>看过新喜剧之王</a> - 2026-08-12 02:03:09
 * <a href='https://movie.douban.com/subject/5308265/' target='_blank'>看过西游降魔篇</a> - 2026-08-12 02:02:57
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/1793903/' target='_blank'>看过幻影凶间</a> - 2026-08-07 14:24:46
 * <a href='https://book.douban.com/subject/37010196/' target='_blank'>想读留学的孩子</a> - 2026-08-07 04:02:48
 * <a href='https://movie.douban.com/subject/37149451/' target='_blank'>看过美洲大宝荐：你好美国‎</a> - 2026-08-06 06:57:52
-* <a href='https://movie.douban.com/subject/1295763/' target='_blank'>看过月吟</a> - 2026-08-06 06:39:44
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-HTML       46 mins        ██████████▊░░░░░░░░░░  51.3%
-Markdown   18 mins        ████▍░░░░░░░░░░░░░░░░  21.1%
-TeX        13 mins        ███▏░░░░░░░░░░░░░░░░░  15.3%
-JavaScript 3 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-Python     3 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+HTML       46 mins        █████████▏░░░░░░░░░░░  43.6%
+Markdown   19 mins        ███▊░░░░░░░░░░░░░░░░░  18.0%
+Python     16 mins        ███▎░░░░░░░░░░░░░░░░░  15.6%
+TeX        13 mins        ██▋░░░░░░░░░░░░░░░░░░  13.0%
+JavaScript 3 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 ```
 
 <!-- code_time ends -->

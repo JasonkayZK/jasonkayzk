@@ -103,6 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/38581618/' target='_blank'>看过牛来</a> - 2026-08-14 13:40:13
+* <a href='https://book.douban.com/subject/37819634/' target='_blank'>想读财富捷径</a> - 2026-08-14 07:53:36
 * <a href='https://movie.douban.com/subject/1300992/' target='_blank'>看过完美的世界</a> - 2026-08-13 15:36:41
 * <a href='https://movie.douban.com/subject/36452545/' target='_blank'>看过功夫女足</a> - 2026-08-12 02:03:19
 * <a href='https://movie.douban.com/subject/4840388/' target='_blank'>看过新喜剧之王</a> - 2026-08-12 02:03:09
@@ -111,8 +113,6 @@
 * <a href='https://movie.douban.com/subject/35797709/' target='_blank'>看过怪物</a> - 2026-08-11 04:55:13
 * <a href='https://book.douban.com/subject/34439638/' target='_blank'>最近在读Algorithms</a> - 2026-08-08 09:54:27
 * <a href='https://movie.douban.com/subject/1793903/' target='_blank'>看过幻影凶间</a> - 2026-08-07 14:24:46
-* <a href='https://book.douban.com/subject/37010196/' target='_blank'>想读留学的孩子</a> - 2026-08-07 04:02:48
-* <a href='https://movie.douban.com/subject/37149451/' target='_blank'>看过美洲大宝荐：你好美国‎</a> - 2026-08-06 06:57:52
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-HTML       46 mins        █████████▏░░░░░░░░░░░  43.6%
-Markdown   19 mins        ███▊░░░░░░░░░░░░░░░░░  18.0%
-Python     16 mins        ███▎░░░░░░░░░░░░░░░░░  15.6%
-TeX        13 mins        ██▋░░░░░░░░░░░░░░░░░░  13.0%
-JavaScript 3 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Markdown   19 mins        ███████▏░░░░░░░░░░░░░  34.4%
+Python     16 mins        ██████▏░░░░░░░░░░░░░░  29.7%
+TeX        13 mins        █████▏░░░░░░░░░░░░░░░  24.9%
+GitIgno... 2 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+BibTeX     1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time ends -->

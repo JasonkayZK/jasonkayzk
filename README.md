@@ -128,11 +128,9 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   1 hr 37 mins   █████████████▉░░░░░░░  66.3%
-TypeScript 25 mins        ███▋░░░░░░░░░░░░░░░░░  17.3%
-Python     13 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
-JSON       5 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-GitIgno... 2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Python     13 mins        █████████████████▋░░░  84.3%
+GitIgno... 2 mins         ███▏░░░░░░░░░░░░░░░░░  15.1%
+Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time ends -->

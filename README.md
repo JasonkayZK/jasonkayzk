@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/4265432/' target='_blank'>想读Programming Massively Parallel Processors</a> - 2026-08-25 15:13:04
 * <a href='https://movie.douban.com/subject/35811064/' target='_blank'>想看欢迎来龙餐馆</a> - 2026-08-17 00:48:51
 * <a href='https://movie.douban.com/subject/38581618/' target='_blank'>看过牛来</a> - 2026-08-14 13:40:13
 * <a href='https://book.douban.com/subject/37819634/' target='_blank'>想读财富捷径</a> - 2026-08-14 07:53:36
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/5308265/' target='_blank'>看过西游降魔篇</a> - 2026-08-12 02:02:57
 * <a href='https://movie.douban.com/subject/19944106/' target='_blank'>看过美人鱼</a> - 2026-08-12 02:02:43
 * <a href='https://movie.douban.com/subject/35797709/' target='_blank'>看过怪物</a> - 2026-08-11 04:55:13
-* <a href='https://book.douban.com/subject/34439638/' target='_blank'>最近在读Algorithms</a> - 2026-08-08 09:54:27
 <!-- douban ends -->
 
 </td>

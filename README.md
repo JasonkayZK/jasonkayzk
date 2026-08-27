@@ -103,6 +103,9 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/4754651/' target='_blank'>最近在读CUDA by Example</a> - 2026-08-26 12:45:34
+* <a href='https://book.douban.com/subject/38503601/' target='_blank'>想读算法导论·扩展篇（原书第4版）</a> - 2026-08-26 05:17:21
+* <a href='https://book.douban.com/subject/38503600/' target='_blank'>想读算法导论·核心篇（原书第4版）</a> - 2026-08-26 05:17:17
 * <a href='https://book.douban.com/subject/4265432/' target='_blank'>想读Programming Massively Parallel Processors</a> - 2026-08-25 15:13:04
 * <a href='https://movie.douban.com/subject/35811064/' target='_blank'>想看欢迎来龙餐馆</a> - 2026-08-17 00:48:51
 * <a href='https://movie.douban.com/subject/38581618/' target='_blank'>看过牛来</a> - 2026-08-14 13:40:13
@@ -110,9 +113,6 @@
 * <a href='https://movie.douban.com/subject/1300992/' target='_blank'>看过完美的世界</a> - 2026-08-13 15:36:41
 * <a href='https://movie.douban.com/subject/36452545/' target='_blank'>看过功夫女足</a> - 2026-08-12 02:03:19
 * <a href='https://movie.douban.com/subject/4840388/' target='_blank'>看过新喜剧之王</a> - 2026-08-12 02:03:09
-* <a href='https://movie.douban.com/subject/5308265/' target='_blank'>看过西游降魔篇</a> - 2026-08-12 02:02:57
-* <a href='https://movie.douban.com/subject/19944106/' target='_blank'>看过美人鱼</a> - 2026-08-12 02:02:43
-* <a href='https://movie.douban.com/subject/35797709/' target='_blank'>看过怪物</a> - 2026-08-11 04:55:13
 <!-- douban ends -->
 
 </td>

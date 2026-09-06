@@ -128,10 +128,9 @@
 <!-- code_time starts -->
 
 ```text
-Cuda       50 mins        ████████████████████▍  97.3%
+Cuda       50 mins        ████████████████████▌  98.1%
 Git Config 0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Other      0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time ends -->

@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1305611/' target='_blank'>看过异教徒</a> - 2026-09-06 14:08:53
 * <a href='https://book.douban.com/subject/4754651/' target='_blank'>最近在读CUDA by Example</a> - 2026-08-26 12:45:34
 * <a href='https://book.douban.com/subject/38503601/' target='_blank'>想读算法导论·扩展篇（原书第4版）</a> - 2026-08-26 05:17:21
 * <a href='https://book.douban.com/subject/38503600/' target='_blank'>想读算法导论·核心篇（原书第4版）</a> - 2026-08-26 05:17:17
@@ -112,7 +113,6 @@
 * <a href='https://book.douban.com/subject/37819634/' target='_blank'>想读财富捷径</a> - 2026-08-14 07:53:36
 * <a href='https://movie.douban.com/subject/1300992/' target='_blank'>看过完美的世界</a> - 2026-08-13 15:36:41
 * <a href='https://movie.douban.com/subject/36452545/' target='_blank'>看过功夫女足</a> - 2026-08-12 02:03:19
-* <a href='https://movie.douban.com/subject/4840388/' target='_blank'>看过新喜剧之王</a> - 2026-08-12 02:03:09
 <!-- douban ends -->
 
 </td>

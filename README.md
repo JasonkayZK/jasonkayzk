@@ -128,9 +128,10 @@
 <!-- code_time starts -->
 
 ```text
-Cuda       50 mins        ████████████████████▌  98.1%
-Git Config 0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+TOML       1 min          █████████████▋░░░░░░░  65.3%
+Bash       0 secs         ████▏░░░░░░░░░░░░░░░░  20.2%
+Git Config 0 secs         ██▊░░░░░░░░░░░░░░░░░░  13.5%
+Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->

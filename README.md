@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/27664002/' target='_blank'>看过富美子之足</a> - 2026-09-12 05:08:23
 * <a href='https://movie.douban.com/subject/1305611/' target='_blank'>看过异教徒</a> - 2026-09-06 14:08:53
 * <a href='https://book.douban.com/subject/4754651/' target='_blank'>最近在读CUDA by Example</a> - 2026-08-26 12:45:34
 * <a href='https://book.douban.com/subject/38503601/' target='_blank'>想读算法导论·扩展篇（原书第4版）</a> - 2026-08-26 05:17:21
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/38581618/' target='_blank'>看过牛来</a> - 2026-08-14 13:40:13
 * <a href='https://book.douban.com/subject/37819634/' target='_blank'>想读财富捷径</a> - 2026-08-14 07:53:36
 * <a href='https://movie.douban.com/subject/1300992/' target='_blank'>看过完美的世界</a> - 2026-08-13 15:36:41
-* <a href='https://movie.douban.com/subject/36452545/' target='_blank'>看过功夫女足</a> - 2026-08-12 02:03:19
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,9 @@
 <!-- code_time starts -->
 
 ```text
-HTML       31 mins        ███████████▏░░░░░░░░░  53.3%
-Markdown   18 mins        ██████▎░░░░░░░░░░░░░░  30.3%
-Python     7 mins         ██▋░░░░░░░░░░░░░░░░░░  12.8%
-TOML       1 min          ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Bash       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+HTML       31 mins        ███████████▌░░░░░░░░░  55.3%
+Markdown   18 mins        ██████▌░░░░░░░░░░░░░░  31.4%
+Python     7 mins         ██▊░░░░░░░░░░░░░░░░░░  13.3%
 ```
 
 <!-- code_time ends -->

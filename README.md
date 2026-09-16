@@ -128,9 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-HTML       31 mins        ███████████▌░░░░░░░░░  55.3%
-Markdown   18 mins        ██████▌░░░░░░░░░░░░░░  31.4%
-Python     7 mins         ██▊░░░░░░░░░░░░░░░░░░  13.3%
+Markdown   1 hr 41 mins   █████████▉░░░░░░░░░░░  47.5%
+HTML       1 hr 19 mins   ███████▉░░░░░░░░░░░░░  37.5%
+JavaScript 14 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Python     10 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+Other      7 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time ends -->

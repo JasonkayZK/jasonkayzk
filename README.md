@@ -103,6 +103,9 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/37282111/' target='_blank'>想读恭喜！你被录取了：美国名校华人招生主任自述</a> - 2026-09-18 12:00:49
+* <a href='https://book.douban.com/subject/30369993/' target='_blank'>想读新留学青年</a> - 2026-09-18 12:00:44
+* <a href='https://movie.douban.com/subject/1292217/' target='_blank'>看过穆赫兰道</a> - 2026-09-18 07:38:11
 * <a href='https://movie.douban.com/subject/27664002/' target='_blank'>看过富美子之足</a> - 2026-09-12 05:08:23
 * <a href='https://movie.douban.com/subject/1305611/' target='_blank'>看过异教徒</a> - 2026-09-06 14:08:53
 * <a href='https://book.douban.com/subject/4754651/' target='_blank'>最近在读CUDA by Example</a> - 2026-08-26 12:45:34
@@ -110,9 +113,6 @@
 * <a href='https://book.douban.com/subject/38503600/' target='_blank'>想读算法导论·核心篇（原书第4版）</a> - 2026-08-26 05:17:17
 * <a href='https://book.douban.com/subject/4265432/' target='_blank'>想读Programming Massively Parallel Processors</a> - 2026-08-25 15:13:04
 * <a href='https://movie.douban.com/subject/35811064/' target='_blank'>想看欢迎来龙餐馆</a> - 2026-08-17 00:48:51
-* <a href='https://movie.douban.com/subject/38581618/' target='_blank'>看过牛来</a> - 2026-08-14 13:40:13
-* <a href='https://book.douban.com/subject/37819634/' target='_blank'>想读财富捷径</a> - 2026-08-14 07:53:36
-* <a href='https://movie.douban.com/subject/1300992/' target='_blank'>看过完美的世界</a> - 2026-08-13 15:36:41
 <!-- douban ends -->
 
 </td>
@@ -128,8 +128,7 @@
 <!-- code_time starts -->
 
 ```text
-Python     10 mins        ██████████████░░░░░░░  67.2%
-HTML       4 mins         ██████▉░░░░░░░░░░░░░░  32.8%
+Python     2 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->

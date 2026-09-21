@@ -103,8 +103,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/30369993/' target='_blank'>最近在读新留学青年</a> - 2026-09-20 14:15:37
 * <a href='https://book.douban.com/subject/37282111/' target='_blank'>想读恭喜！你被录取了：美国名校华人招生主任自述</a> - 2026-09-18 12:00:49
-* <a href='https://book.douban.com/subject/30369993/' target='_blank'>想读新留学青年</a> - 2026-09-18 12:00:44
 * <a href='https://movie.douban.com/subject/1292217/' target='_blank'>看过穆赫兰道</a> - 2026-09-18 07:38:11
 * <a href='https://movie.douban.com/subject/27664002/' target='_blank'>看过富美子之足</a> - 2026-09-12 05:08:23
 * <a href='https://movie.douban.com/subject/1305611/' target='_blank'>看过异教徒</a> - 2026-09-06 14:08:53

@@ -128,7 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Python     2 mins         █████████████████████ 100.0%
+Markdown   7 hrs 14 mins  ████████████████▌░░░░  78.8%
+Python     1 hr 19 mins   ███░░░░░░░░░░░░░░░░░░  14.4%
+Other      31 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
+SRecode... 3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+TOML       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time ends -->

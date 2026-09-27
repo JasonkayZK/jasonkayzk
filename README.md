@@ -103,6 +103,9 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/25726259/' target='_blank'>想看风骚律师 第一季</a> - 2026-09-26 09:00:58
+* <a href='https://movie.douban.com/subject/4092781/' target='_blank'>想看无可奈何</a> - 2026-09-26 08:21:15
+* <a href='https://movie.douban.com/subject/37501131/' target='_blank'>看过现在不是出轨的问题</a> - 2026-09-26 07:17:46
 * <a href='https://movie.douban.com/subject/1480051/' target='_blank'>看过阴阳路</a> - 2026-09-23 06:13:15
 * <a href='https://book.douban.com/subject/30369993/' target='_blank'>最近在读新留学青年</a> - 2026-09-20 14:15:37
 * <a href='https://book.douban.com/subject/37282111/' target='_blank'>想读恭喜！你被录取了：美国名校华人招生主任自述</a> - 2026-09-18 12:00:49
@@ -110,9 +113,6 @@
 * <a href='https://movie.douban.com/subject/27664002/' target='_blank'>看过富美子之足</a> - 2026-09-12 05:08:23
 * <a href='https://movie.douban.com/subject/1305611/' target='_blank'>看过异教徒</a> - 2026-09-06 14:08:53
 * <a href='https://book.douban.com/subject/4754651/' target='_blank'>最近在读CUDA by Example</a> - 2026-08-26 12:45:34
-* <a href='https://book.douban.com/subject/38503601/' target='_blank'>想读算法导论·扩展篇（原书第4版）</a> - 2026-08-26 05:17:21
-* <a href='https://book.douban.com/subject/38503600/' target='_blank'>想读算法导论·核心篇（原书第4版）</a> - 2026-08-26 05:17:17
-* <a href='https://book.douban.com/subject/4265432/' target='_blank'>想读Programming Massively Parallel Processors</a> - 2026-08-25 15:13:04
 <!-- douban ends -->
 
 </td>

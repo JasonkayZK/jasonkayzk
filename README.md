@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   7 hrs 17 mins  ███████████████▊░░░░░  75.3%
-Python     1 hr 35 mins   ███▍░░░░░░░░░░░░░░░░░  16.4%
-Other      31 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
-TOML       9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-SRecode... 5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+TypeScript 3 hrs 6 mins   ███████▏░░░░░░░░░░░░░  34.3%
+Rust       2 hrs 24 mins  █████▌░░░░░░░░░░░░░░░  26.7%
+Markdown   1 hr 23 mins   ███▏░░░░░░░░░░░░░░░░░  15.4%
+TOML       50 mins        █▉░░░░░░░░░░░░░░░░░░░   9.3%
+Other      33 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
 ```
 
 <!-- code_time ends -->

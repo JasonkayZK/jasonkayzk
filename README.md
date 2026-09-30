@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 3 hrs 6 mins   ███████▏░░░░░░░░░░░░░  34.3%
-Rust       2 hrs 24 mins  █████▌░░░░░░░░░░░░░░░  26.7%
-Markdown   1 hr 23 mins   ███▏░░░░░░░░░░░░░░░░░  15.4%
-TOML       50 mins        █▉░░░░░░░░░░░░░░░░░░░   9.3%
-Other      33 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
+Rust       6 hrs 19 mins  █████▌░░░░░░░░░░░░░░░  26.6%
+TypeScript 6 hrs 10 mins  █████▍░░░░░░░░░░░░░░░  25.9%
+Other      4 hrs 48 mins  ████▏░░░░░░░░░░░░░░░░  20.2%
+Markdown   3 hrs 7 mins   ██▊░░░░░░░░░░░░░░░░░░  13.1%
+HTML       1 hr 37 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
 ```
 
 <!-- code_time ends -->

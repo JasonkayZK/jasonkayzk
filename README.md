@@ -103,16 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/25726259/' target='_blank'>想看风骚律师 第一季</a> - 2026-09-26 09:00:58
-* <a href='https://movie.douban.com/subject/4092781/' target='_blank'>想看无可奈何</a> - 2026-09-26 08:21:15
-* <a href='https://movie.douban.com/subject/37501131/' target='_blank'>看过现在不是出轨的问题</a> - 2026-09-26 07:17:46
-* <a href='https://movie.douban.com/subject/1480051/' target='_blank'>看过阴阳路</a> - 2026-09-23 06:13:15
-* <a href='https://book.douban.com/subject/30369993/' target='_blank'>最近在读新留学青年</a> - 2026-09-20 14:15:37
-* <a href='https://book.douban.com/subject/37282111/' target='_blank'>想读恭喜！你被录取了：美国名校华人招生主任自述</a> - 2026-09-18 12:00:49
-* <a href='https://movie.douban.com/subject/1292217/' target='_blank'>看过穆赫兰道</a> - 2026-09-18 07:38:11
-* <a href='https://movie.douban.com/subject/27664002/' target='_blank'>看过富美子之足</a> - 2026-09-12 05:08:23
-* <a href='https://movie.douban.com/subject/1305611/' target='_blank'>看过异教徒</a> - 2026-09-06 14:08:53
-* <a href='https://book.douban.com/subject/4754651/' target='_blank'>最近在读CUDA by Example</a> - 2026-08-26 12:45:34
+
 <!-- douban ends -->
 
 </td>
@@ -128,11 +119,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 7 hrs 52 mins  ██████░░░░░░░░░░░░░░░  29.0%
-Rust       6 hrs 19 mins  ████▉░░░░░░░░░░░░░░░░  23.4%
-Other      4 hrs 48 mins  ███▋░░░░░░░░░░░░░░░░░  17.8%
-Markdown   4 hrs 18 mins  ███▎░░░░░░░░░░░░░░░░░  15.9%
-HTML       1 hr 37 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
+TypeScript 10 hrs 27 mins ███████▎░░░░░░░░░░░░░  35.1%
+Rust       6 hrs 56 mins  ████▉░░░░░░░░░░░░░░░░  23.3%
+Markdown   5 hrs 20 mins  ███▊░░░░░░░░░░░░░░░░░  17.9%
+HTML       1 hr 37 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
+TOML       1 hr 9 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
 <!-- code_time ends -->

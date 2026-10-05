@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1767042/' target='_blank'>看过潘神的迷宫</a> - 2026-10-05 03:11:31
 * <a href='https://movie.douban.com/subject/1295045/' target='_blank'>想看天才瑞普利</a> - 2026-10-03 05:16:36
 * <a href='https://movie.douban.com/subject/3604148/' target='_blank'>看过小丑回魂</a> - 2026-10-02 10:53:23
 * <a href='https://movie.douban.com/subject/25726259/' target='_blank'>想看风骚律师 第一季</a> - 2026-09-26 09:00:58
@@ -112,7 +113,6 @@
 * <a href='https://book.douban.com/subject/30369993/' target='_blank'>最近在读新留学青年</a> - 2026-09-20 14:15:37
 * <a href='https://book.douban.com/subject/37282111/' target='_blank'>想读恭喜！你被录取了：美国名校华人招生主任自述</a> - 2026-09-18 12:00:49
 * <a href='https://movie.douban.com/subject/1292217/' target='_blank'>看过穆赫兰道</a> - 2026-09-18 07:38:11
-* <a href='https://movie.douban.com/subject/27664002/' target='_blank'>看过富美子之足</a> - 2026-09-12 05:08:23
 <!-- douban ends -->
 
 </td>
@@ -128,11 +128,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 12 hrs 55 mins ███████▉░░░░░░░░░░░░░  37.6%
-Rust       7 hrs 18 mins  ████▍░░░░░░░░░░░░░░░░  21.2%
-Markdown   6 hrs 17 mins  ███▊░░░░░░░░░░░░░░░░░  18.3%
-HTML       1 hr 37 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.8%
-CSS        1 hr 15 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+TypeScript 10 hrs 20 mins ████████▏░░░░░░░░░░░░  38.7%
+Markdown   5 hrs 44 mins  ████▌░░░░░░░░░░░░░░░░  21.4%
+Rust       4 hrs 44 mins  ███▋░░░░░░░░░░░░░░░░░  17.8%
+CSS        1 hr 15 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+TOML       1 hr 11 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.4%
 ```
 
 <!-- code_time ends -->

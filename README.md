@@ -103,16 +103,16 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/26895171/' target='_blank'>想看四重奏</a> - 2026-10-12 12:27:52
+* <a href='https://movie.douban.com/subject/20388223/' target='_blank'>想看激战</a> - 2026-10-12 12:19:13
+* <a href='https://movie.douban.com/subject/3312344/' target='_blank'>想看证人</a> - 2026-10-12 12:13:57
+* <a href='https://movie.douban.com/subject/6738735/' target='_blank'>想看大追捕</a> - 2026-10-12 12:06:47
 * <a href='https://movie.douban.com/subject/1304582/' target='_blank'>看过厨师、大盗、他的太太和她的情人</a> - 2026-10-11 03:20:19
 * <a href='https://movie.douban.com/subject/1767042/' target='_blank'>看过潘神的迷宫</a> - 2026-10-05 03:11:31
 * <a href='https://movie.douban.com/subject/1295045/' target='_blank'>想看天才瑞普利</a> - 2026-10-03 05:16:36
 * <a href='https://movie.douban.com/subject/3604148/' target='_blank'>看过小丑回魂</a> - 2026-10-02 10:53:23
 * <a href='https://movie.douban.com/subject/25726259/' target='_blank'>想看风骚律师 第一季</a> - 2026-09-26 09:00:58
 * <a href='https://movie.douban.com/subject/4092781/' target='_blank'>想看无可奈何</a> - 2026-09-26 08:21:15
-* <a href='https://movie.douban.com/subject/37501131/' target='_blank'>看过现在不是出轨的问题</a> - 2026-09-26 07:17:46
-* <a href='https://movie.douban.com/subject/1480051/' target='_blank'>看过阴阳路</a> - 2026-09-23 06:13:15
-* <a href='https://book.douban.com/subject/30369993/' target='_blank'>最近在读新留学青年</a> - 2026-09-20 14:15:37
-* <a href='https://book.douban.com/subject/37282111/' target='_blank'>想读恭喜！你被录取了：美国名校华人招生主任自述</a> - 2026-09-18 12:00:49
 <!-- douban ends -->
 
 </td>

@@ -103,6 +103,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/25936147/' target='_blank'>看过意外空间</a> - 2026-10-15 06:57:19
 * <a href='https://movie.douban.com/subject/26895171/' target='_blank'>想看四重奏</a> - 2026-10-12 12:27:52
 * <a href='https://movie.douban.com/subject/20388223/' target='_blank'>想看激战</a> - 2026-10-12 12:19:13
 * <a href='https://movie.douban.com/subject/3312344/' target='_blank'>想看证人</a> - 2026-10-12 12:13:57
@@ -112,7 +113,6 @@
 * <a href='https://movie.douban.com/subject/1295045/' target='_blank'>想看天才瑞普利</a> - 2026-10-03 05:16:36
 * <a href='https://movie.douban.com/subject/3604148/' target='_blank'>看过小丑回魂</a> - 2026-10-02 10:53:23
 * <a href='https://movie.douban.com/subject/25726259/' target='_blank'>想看风骚律师 第一季</a> - 2026-09-26 09:00:58
-* <a href='https://movie.douban.com/subject/4092781/' target='_blank'>想看无可奈何</a> - 2026-09-26 08:21:15
 <!-- douban ends -->
 
 </td>

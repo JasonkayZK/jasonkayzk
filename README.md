@@ -98,6 +98,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/4707230/' target='_blank'>看过恋爱通告</a> - 2026-10-28 22:01:27
+* <a href='https://movie.douban.com/subject/2124724/' target='_blank'>看过不能说的秘密</a> - 2026-10-28 12:53:33
 * <a href='https://movie.douban.com/subject/25936147/' target='_blank'>看过意外空间</a> - 2026-10-15 06:57:19
 * <a href='https://movie.douban.com/subject/26895171/' target='_blank'>想看四重奏</a> - 2026-10-12 12:27:52
 * <a href='https://movie.douban.com/subject/20388223/' target='_blank'>想看激战</a> - 2026-10-12 12:19:13
@@ -106,8 +108,6 @@
 * <a href='https://movie.douban.com/subject/1304582/' target='_blank'>看过厨师、大盗、他的太太和她的情人</a> - 2026-10-11 03:20:19
 * <a href='https://movie.douban.com/subject/1767042/' target='_blank'>看过潘神的迷宫</a> - 2026-10-05 03:11:31
 * <a href='https://movie.douban.com/subject/1295045/' target='_blank'>想看天才瑞普利</a> - 2026-10-03 05:16:36
-* <a href='https://movie.douban.com/subject/3604148/' target='_blank'>看过小丑回魂</a> - 2026-10-02 10:53:23
-* <a href='https://movie.douban.com/subject/25726259/' target='_blank'>想看风骚律师 第一季</a> - 2026-09-26 09:00:58
 <!-- douban ends -->
 
 </td>

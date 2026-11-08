@@ -98,6 +98,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/37210712/' target='_blank'>看过末路兼职</a> - 2026-11-08 00:36:25
 * <a href='https://movie.douban.com/subject/4707230/' target='_blank'>看过恋爱通告</a> - 2026-10-28 22:01:27
 * <a href='https://movie.douban.com/subject/2124724/' target='_blank'>看过不能说的秘密</a> - 2026-10-28 12:53:33
 * <a href='https://movie.douban.com/subject/25936147/' target='_blank'>看过意外空间</a> - 2026-10-15 06:57:19
@@ -107,7 +108,6 @@
 * <a href='https://movie.douban.com/subject/6738735/' target='_blank'>想看大追捕</a> - 2026-10-12 12:06:47
 * <a href='https://movie.douban.com/subject/1304582/' target='_blank'>看过厨师、大盗、他的太太和她的情人</a> - 2026-10-11 03:20:19
 * <a href='https://movie.douban.com/subject/1767042/' target='_blank'>看过潘神的迷宫</a> - 2026-10-05 03:11:31
-* <a href='https://movie.douban.com/subject/1295045/' target='_blank'>想看天才瑞普利</a> - 2026-10-03 05:16:36
 <!-- douban ends -->
 
 </td>

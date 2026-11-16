@@ -98,6 +98,8 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/1442129/' target='_blank'>看过豪斯医生 第一季</a> - 2026-11-15 07:50:52
+* <a href='https://movie.douban.com/subject/37317907/' target='_blank'>看过另一个妈妈</a> - 2026-11-15 07:33:12
 * <a href='https://movie.douban.com/subject/4268598/' target='_blank'>看过告白</a> - 2026-11-13 11:39:38
 * <a href='https://movie.douban.com/subject/37210712/' target='_blank'>看过末路兼职</a> - 2026-11-08 00:36:25
 * <a href='https://movie.douban.com/subject/4707230/' target='_blank'>看过恋爱通告</a> - 2026-10-28 22:01:27
@@ -106,8 +108,6 @@
 * <a href='https://movie.douban.com/subject/26895171/' target='_blank'>想看四重奏</a> - 2026-10-12 12:27:52
 * <a href='https://movie.douban.com/subject/20388223/' target='_blank'>想看激战</a> - 2026-10-12 12:19:13
 * <a href='https://movie.douban.com/subject/3312344/' target='_blank'>想看证人</a> - 2026-10-12 12:13:57
-* <a href='https://movie.douban.com/subject/6738735/' target='_blank'>想看大追捕</a> - 2026-10-12 12:06:47
-* <a href='https://movie.douban.com/subject/1304582/' target='_blank'>看过厨师、大盗、他的太太和她的情人</a> - 2026-10-11 03:20:19
 <!-- douban ends -->
 
 </td>

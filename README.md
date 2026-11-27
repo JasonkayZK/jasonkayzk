@@ -98,6 +98,7 @@
 <h3>🎬 <a href="https://www.douban.com/people/219317116/" target="_blank">Recent Douban Activity</a></h3>
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/2135981/' target='_blank'>想看画皮</a> - 2026-11-26 23:42:25
 * <a href='https://movie.douban.com/subject/6123978/' target='_blank'>想看庸才</a> - 2026-11-24 15:23:05
 * <a href='https://movie.douban.com/subject/1442129/' target='_blank'>看过豪斯医生 第一季</a> - 2026-11-15 07:50:52
 * <a href='https://movie.douban.com/subject/37317907/' target='_blank'>看过另一个妈妈</a> - 2026-11-15 07:33:12
@@ -107,7 +108,6 @@
 * <a href='https://movie.douban.com/subject/2124724/' target='_blank'>看过不能说的秘密</a> - 2026-10-28 12:53:33
 * <a href='https://movie.douban.com/subject/25936147/' target='_blank'>看过意外空间</a> - 2026-10-15 06:57:19
 * <a href='https://movie.douban.com/subject/26895171/' target='_blank'>想看四重奏</a> - 2026-10-12 12:27:52
-* <a href='https://movie.douban.com/subject/20388223/' target='_blank'>想看激战</a> - 2026-10-12 12:19:13
 <!-- douban ends -->
 
 </td>
